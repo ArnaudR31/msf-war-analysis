@@ -402,14 +402,14 @@
 <!-- Load overlay -->
 <div id="load-overlay">
   <h2>MSF WAR ANALYSIS</h2>
-  <p id="load-status">Chargement automatique des données…</p>
-  <button id="load-btn" onclick="document.getElementById('file-input').click()" style="display:none">📂 Charger resultats.json manuellement</button>
+  <p id="load-status">Loading data automatically…</p>
+  <button id="load-btn" onclick="document.getElementById('file-input').click()" style="display:none">📂 Load resultats.json manually</button>
   <input type="file" id="file-input" accept=".json" onchange="loadFile(this)">
 </div>
 
 <header>
   <h1>MSF War Analysis</h1>
-  <span>Alliance War — Historique des batailles</span>
+  <span>Alliance War — Battle History</span>
   <span id="data-status"></span>
 </header>
 
@@ -418,110 +418,110 @@
   <aside class="sidebar">
 
     <div>
-      <div class="field-label">Analyser</div>
+      <div class="field-label">Analyze</div>
       <div class="mode-toggle">
-        <button id="btn-defense" class="active" onclick="setMode('defense')">⚔ Défense</button>
-        <button id="btn-offense" onclick="setMode('offense')">🗡 Attaque</button>
+        <button id="btn-defense" class="active" onclick="setMode('defense')">⚔ Defense</button>
+        <button id="btn-offense" onclick="setMode('offense')">🗡 Attack</button>
       </div>
     </div>
 
     <div>
-      <div class="field-label">Équipe</div>
+      <div class="field-label">Team</div>
       <div class="search-wrap">
-        <input type="text" id="team-search" placeholder="Rechercher une équipe…"
+        <input type="text" id="team-search" placeholder="Search a team…"
                oninput="onTeamSearch()" onblur="hideDropdown()" autocomplete="off">
         <div id="team-dropdown"></div>
       </div>
     </div>
 
     <div id="scope-section" style="display:none">
-      <div class="field-label">Périmètre</div>
+      <div class="field-label">Scope</div>
       <div class="scope-toggle">
         <label id="lbl-exact">
           <input type="radio" name="scope" value="exact" checked onchange="updateScope(this)">
-          Équipe exacte
+          Exact team
         </label>
         <label id="lbl-variants">
           <input type="radio" name="scope" value="variants" onchange="updateScope(this)">
-          Toutes les variantes
+          All variants
         </label>
         <label id="lbl-base">
           <input type="radio" name="scope" value="base" onchange="updateScope(this)">
-          <span id="base-label">Base + autres</span>
+          <span id="base-label">Base + others</span>
         </label>
       </div>
     </div>
 
     <div>
-      <div class="field-label">Filtres</div>
+      <div class="field-label">Filters</div>
       <div class="filter-group">
         <select id="filter-result">
-          <option value="">Tous les résultats</option>
-          <option value="Win">Victoires uniquement</option>
-          <option value="Fail">Défaites uniquement</option>
+          <option value="">All results</option>
+          <option value="Win">Wins only</option>
+          <option value="Fail">Losses only</option>
         </select>
         <select id="filter-room">
-          <option value="">Toutes les salles</option>
+          <option value="">All rooms</option>
         </select>
         <select id="filter-date">
-          <option value="">Toutes les guerres</option>
+          <option value="">All wars</option>
         </select>
         <select id="filter-attacker">
-          <option value="">Tous les attaquants</option>
+          <option value="">All attackers</option>
         </select>
       </div>
     </div>
 
-    <button id="apply-btn" onclick="applyFilters()">Analyser</button>
+    <button id="apply-btn" onclick="applyFilters()">Analyze</button>
 
   </aside>
 
   <!-- Main -->
   <div class="main">
     <div class="stats-bar" id="stats-bar">
-      <div class="stat"><span class="stat-val" id="stat-total">—</span><span class="stat-lbl">Combats</span></div>
-      <div class="stat"><span class="stat-val" style="color:var(--win)" id="stat-win">—</span><span class="stat-lbl">Victoires</span></div>
-      <div class="stat"><span class="stat-val" style="color:var(--fail)" id="stat-fail">—</span><span class="stat-lbl">Défaites</span></div>
-      <div class="stat"><span class="stat-val" id="stat-winrate">—</span><span class="stat-lbl">Taux victoire</span></div>
-      <div class="stat"><span class="stat-val" id="stat-score">—</span><span class="stat-lbl">Score moyen</span></div>
+      <div class="stat"><span class="stat-val" id="stat-total">—</span><span class="stat-lbl">Battles</span></div>
+      <div class="stat"><span class="stat-val" style="color:var(--win)" id="stat-win">—</span><span class="stat-lbl">Wins</span></div>
+      <div class="stat"><span class="stat-val" style="color:var(--fail)" id="stat-fail">—</span><span class="stat-lbl">Losses</span></div>
+      <div class="stat"><span class="stat-val" id="stat-winrate">—</span><span class="stat-lbl">Win rate</span></div>
+      <div class="stat"><span class="stat-val" id="stat-score">—</span><span class="stat-lbl">Avg. score</span></div>
     </div>
     <div class="view-toggle">
-      <button id="view-grouped" class="active" onclick="setView('grouped')">📊 Vue groupée</button>
-      <button id="view-detail" onclick="setView('detail')">📋 Détail combats</button>
+      <button id="view-grouped" class="active" onclick="setView('grouped')">📊 Grouped view</button>
+      <button id="view-detail" onclick="setView('detail')">📋 Battle detail</button>
       <span class="hint" id="view-hint"></span>
     </div>
     <div class="results-wrap">
-      <div class="empty" id="empty-msg">Sélectionne une équipe pour voir son historique.</div>
+      <div class="empty" id="empty-msg">Select a team to see its history.</div>
 
-      <!-- Vue groupée -->
+      <!-- Grouped view -->
       <table id="grouped-table" style="display:none">
         <thead>
           <tr>
             <th></th>
-            <th onclick="sortGroupBy('counter')">Équipe counter</th>
-            <th onclick="sortGroupBy('attempts')">Tentatives</th>
-            <th onclick="sortGroupBy('winrate')">Taux victoire</th>
-            <th onclick="sortGroupBy('avgScore')">Score moyen</th>
-            <th onclick="sortGroupBy('avgPunch')">Punch moyen</th>
-            <th onclick="sortGroupBy('avgDef')">Puiss. DEF moy.</th>
-            <th onclick="sortGroupBy('avgAtk')">Puiss. ATK moy.</th>
+            <th onclick="sortGroupBy('counter')">Counter team</th>
+            <th onclick="sortGroupBy('attempts')">Attempts</th>
+            <th onclick="sortGroupBy('winrate')">Win rate</th>
+            <th onclick="sortGroupBy('avgScore')">Avg. score</th>
+            <th onclick="sortGroupBy('avgPunch')">Avg. punch</th>
+            <th onclick="sortGroupBy('avgDef')">Avg. DEF power</th>
+            <th onclick="sortGroupBy('avgAtk')">Avg. ATK power</th>
           </tr>
         </thead>
         <tbody id="grouped-body"></tbody>
       </table>
 
-      <!-- Vue détail -->
+      <!-- Detail view -->
       <table id="results-table" style="display:none">
         <thead>
           <tr>
-            <th onclick="sortBy('statut')">Résultat</th>
-            <th onclick="sortBy('counter')">Équipe counter</th>
+            <th onclick="sortBy('statut')">Result</th>
+            <th onclick="sortBy('counter')">Counter team</th>
             <th onclick="sortBy('punch')">Punch</th>
-            <th onclick="sortBy('puissance_defense')">Puiss. DEF</th>
-            <th onclick="sortBy('puissance_attaque')">Puiss. ATK</th>
+            <th onclick="sortBy('puissance_defense')">DEF Power</th>
+            <th onclick="sortBy('puissance_attaque')">ATK Power</th>
             <th onclick="sortBy('score')">Score</th>
-            <th onclick="sortBy('attaquant')">Attaquant</th>
-            <th onclick="sortBy('room')">Salle</th>
+            <th onclick="sortBy('attaquant')">Attacker</th>
+            <th onclick="sortBy('room')">Room</th>
             <th onclick="sortBy('date')">Date</th>
             <th>Image</th>
           </tr>
@@ -555,13 +555,13 @@ async function autoLoadData() {
     if (!res.ok) throw new Error("Fichier distant introuvable");
     allData = await res.json();
     document.getElementById('load-overlay').style.display = 'none';
-    document.getElementById('data-status').textContent = `${allData.length} combats chargés (auto)`;
+    document.getElementById('data-status').textContent = `${allData.length} battles loaded (auto)`;
     buildTeamList();
     buildFilters();
   } catch (err) {
     console.warn('Chargement automatique impossible :', err.message);
     document.getElementById('load-status').textContent =
-      'Chargement automatique indisponible — charge le fichier manuellement :';
+      'Automatic loading unavailable — please load the file manually:';
     document.getElementById('load-btn').style.display = 'inline-block';
   }
 }
@@ -576,11 +576,11 @@ function loadFile(input) {
     try {
       allData = JSON.parse(e.target.result);
       document.getElementById('load-overlay').style.display = 'none';
-      document.getElementById('data-status').textContent = `${allData.length} combats chargés`;
+      document.getElementById('data-status').textContent = `${allData.length} battles loaded`;
       buildTeamList();
       buildFilters();
     } catch(err) {
-      alert('Erreur lecture JSON : ' + err.message);
+      alert('Error reading JSON: ' + err.message);
     }
   };
   reader.readAsText(file);
@@ -653,7 +653,7 @@ function selectTeam(name) {
   const base = getBase(name);
   const hasVariants = teams.some(t => t !== name && getBase(t) === base);
   document.getElementById('scope-section').style.display = hasVariants ? 'block' : 'none';
-  document.getElementById('base-label').textContent = `Base "${base}" + variantes`;
+  document.getElementById('base-label').textContent = `Base "${base}" + variants`;
   document.querySelector('input[name=scope][value=exact]').checked = true;
   currentScope = 'exact';
   updateScopeLabels();
@@ -690,7 +690,7 @@ function getMatchingTeams() {
 }
 
 function applyFilters() {
-  if (!selectedTeam) { alert('Sélectionne une équipe.'); return; }
+  if (!selectedTeam) { alert('Select a team.'); return; }
   expandedGroups.clear();
 
   const matchTeams = getMatchingTeams();
@@ -824,7 +824,7 @@ function renderGrouped(rows) {
         const punchDisp = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
         const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
         const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
-        const imgLink = r.drive_url ? `<a class="img-link" href="${r.drive_url}" target="_blank">Voir ↗</a>` : '—';
+        const imgLink = r.drive_url ? `<a class="img-link" href="${r.drive_url}" target="_blank">View ↗</a>` : '—';
         return `<tr>
           <td>${badge}</td>
           <td class="${punchCls}">${punchDisp}</td>
@@ -841,8 +841,8 @@ function renderGrouped(rows) {
       html += `<tr class="detail-row"><td colspan="8">
         <table style="width:100%">
           <thead><tr>
-            <th>Résultat</th><th>Punch</th><th>Puiss. DEF</th><th>Puiss. ATK</th>
-            <th>Score</th><th>Attaquant</th><th>Salle</th><th>Date</th><th>Image</th>
+            <th>Result</th><th>Punch</th><th>DEF Power</th><th>ATK Power</th>
+            <th>Score</th><th>Attacker</th><th>Room</th><th>Date</th><th>Image</th>
           </tr></thead>
           <tbody>${detailRows}</tbody>
         </table>
@@ -852,7 +852,7 @@ function renderGrouped(rows) {
 
   tbody.innerHTML = html;
   document.getElementById('view-hint').textContent =
-    groupList.length ? `${groupList.length} équipes counter distinctes — clique une ligne pour voir le détail` : '';
+    groupList.length ? `${groupList.length} distinct counter teams — click a row to see details` : '';
 
   setView(currentView);
 }
@@ -912,7 +912,7 @@ function sortAndRender() {
     const score  = d.score  != null ? parseFloat(d.score).toFixed(2)  : '—';
     const scoreClass = parseFloat(score) > 0 ? 'score-pos' : parseFloat(score) < 0 ? 'score-neg' : '';
     const imgLink = r.drive_url
-      ? `<a class="img-link" href="${r.drive_url}" target="_blank">Voir ↗</a>`
+      ? `<a class="img-link" href="${r.drive_url}" target="_blank">View ↗</a>`
       : '—';
     const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
     const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
@@ -936,7 +936,7 @@ function sortAndRender() {
   }).join('');
 
   document.getElementById('empty-msg').style.display = sorted.length ? 'none' : 'block';
-  if (!sorted.length) document.getElementById('empty-msg').textContent = 'Aucun combat trouvé pour ces critères.';
+  if (!sorted.length) document.getElementById('empty-msg').textContent = 'No battles found for these criteria.';
   setView(currentView);
 }
 </script>
