@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MSF War Analysis</title>
+<style>
+  :root {
+    --bg:        #0d0f1a;
+    --surface:   #151827;
+    --surface2:  #1c2035;
+    --border:    #2a2f4a;
+    --accent:    #e8433a;
+    --accent2:   #4a8fe8;
+    --win:       #2ecc71;
+    --fail:      #e74c3c;
+    --text:      #e8eaf2;
+    --muted:     #7880a0;
+    --font:      'Segoe UI', system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 28px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  header h1 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  header span {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  #data-status {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--muted);
+  }
+
+  /* ── Layout ── */
+  .layout {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    height: calc(100vh - 57px);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow-y: auto;
+  }
+
+  .field-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .mode-toggle {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .mode-toggle button {
+    flex: 1;
+    padding: 8px;
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .mode-toggle button.active {
+    background: var(--accent);
+    color: #fff;
+  }
+
+  .search-wrap { position: relative; }
+  .search-wrap input {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 9px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    outline: none;
+  }
+  .search-wrap input:focus { border-color: var(--accent2); }
+
+  #team-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0; right: 0;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    max-height: 240px;
+    overflow-y: auto;
+    z-index: 100;
+    display: none;
+  }
+  #team-dropdown .dd-item {
+    padding: 8px 12px;
+    font-size: 13px;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border);
+  }
+  #team-dropdown .dd-item:hover { background: var(--border); }
+  #team-dropdown .dd-item:last-child { border-bottom: none; }
+
+  .scope-toggle {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .scope-toggle label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 1px solid var(--border);
+    transition: all 0.15s;
+  }
+  .scope-toggle label:hover { border-color: var(--accent2); }
+  .scope-toggle input[type=radio] { accent-color: var(--accent); }
+  .scope-toggle label.selected { border-color: var(--accent); background: rgba(232,67,58,0.08); }
+
+  .filter-group { display: flex; flex-direction: column; gap: 6px; }
+  .filter-group select, .filter-group input[type=text] {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    outline: none;
+    width: 100%;
+  }
+
+  #apply-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    margin-top: 4px;
+  }
+  #apply-btn:hover { background: #c0392b; }
+
+  /* ── Stats bar ── */
+  .stats-bar {
+    display: flex;
+    gap: 20px;
+    padding: 14px 24px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .stat-val {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .stat-lbl {
+    font-size: 11px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  /* ── Main ── */
+  .main {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .results-wrap {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0;
+  }
+
+  /* ── Table ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  thead th {
+    position: sticky;
+    top: 0;
+    background: var(--surface2);
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  thead th.sorted { color: var(--accent2); }
+
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background 0.1s;
+  }
+  tbody tr:hover { background: var(--surface2); }
+
+  td {
+    padding: 10px 14px;
+    vertical-align: middle;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 2px 9px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+  .badge.win  { background: rgba(46,204,113,0.15); color: var(--win); }
+  .badge.fail { background: rgba(231,76,60,0.15);  color: var(--fail); }
+
+  .team-name { font-weight: 500; }
+  .power-val { color: var(--muted); font-size: 12px; }
+  .score-pos { color: var(--win); font-weight: 600; }
+  .score-neg { color: var(--fail); font-weight: 600; }
+
+  .img-link {
+    color: var(--accent2);
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .img-link:hover { text-decoration: underline; }
+
+  .empty {
+    padding: 60px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  /* ── View toggle ── */
+  .view-toggle {
+    display: flex;
+    gap: 8px;
+    padding: 10px 24px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    align-items: center;
+  }
+  .view-toggle button {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 6px 14px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+  }
+  .view-toggle button.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .view-toggle .hint {
+    margin-left: auto;
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  /* ── Grouped view ── */
+  .group-row { cursor: pointer; }
+  .group-row:hover { background: var(--surface2); }
+  .group-row.expanded { background: rgba(74,143,232,0.06); }
+  .group-expand-icon {
+    display: inline-block;
+    width: 14px;
+    transition: transform 0.15s;
+    color: var(--muted);
+  }
+  .group-row.expanded .group-expand-icon { transform: rotate(90deg); }
+  .group-name { font-weight: 600; }
+  .attempts-badge {
+    display: inline-block;
+    background: var(--surface2);
+    color: var(--muted);
+    font-size: 11px;
+    padding: 1px 7px;
+    border-radius: 10px;
+    margin-left: 8px;
+  }
+  .winrate-bar {
+    display: inline-block;
+    width: 60px;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    vertical-align: middle;
+    margin-right: 8px;
+  }
+  .winrate-fill {
+    height: 100%;
+    background: var(--win);
+  }
+  .detail-row td {
+    padding: 0;
+    background: var(--bg);
+  }
+  .detail-row table {
+    margin: 0;
+  }
+  .detail-row thead th {
+    position: static;
+    font-size: 10px;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+  }
+  .detail-row td { padding: 8px 14px; font-size: 12px; }
+
+  /* ── Load data ── */
+  #load-overlay {
+    position: fixed;
+    inset: 0;
+    background: var(--bg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    z-index: 999;
+  }
+  #load-overlay h2 { color: var(--accent); font-size: 22px; }
+  #load-overlay p  { color: var(--muted); font-size: 14px; text-align: center; max-width: 360px; }
+  #load-overlay input[type=file] { display: none; }
+  #load-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  #load-btn:hover { background: #c0392b; }
+</style>
+</head>
+<body>
+
+<!-- Load overlay -->
+<div id="load-overlay">
+  <h2>MSF WAR ANALYSIS</h2>
+  <p id="load-status">Chargement automatique des données…</p>
+  <button id="load-btn" onclick="document.getElementById('file-input').click()" style="display:none">📂 Charger resultats.json manuellement</button>
+  <input type="file" id="file-input" accept=".json" onchange="loadFile(this)">
+</div>
+
+<header>
+  <h1>MSF War Analysis</h1>
+  <span>Alliance War — Historique des batailles</span>
+  <span id="data-status"></span>
+</header>
+
+<div class="layout">
+  <!-- Sidebar -->
+  <aside class="sidebar">
+
+    <div>
+      <div class="field-label">Analyser</div>
+      <div class="mode-toggle">
+        <button id="btn-defense" class="active" onclick="setMode('defense')">⚔ Défense</button>
+        <button id="btn-offense" onclick="setMode('offense')">🗡 Attaque</button>
+      </div>
+    </div>
+
+    <div>
+      <div class="field-label">Équipe</div>
+      <div class="search-wrap">
+        <input type="text" id="team-search" placeholder="Rechercher une équipe…"
+               oninput="onTeamSearch()" onblur="hideDropdown()" autocomplete="off">
+        <div id="team-dropdown"></div>
+      </div>
+    </div>
+
+    <div id="scope-section" style="display:none">
+      <div class="field-label">Périmètre</div>
+      <div class="scope-toggle">
+        <label id="lbl-exact">
+          <input type="radio" name="scope" value="exact" checked onchange="updateScope(this)">
+          Équipe exacte
+        </label>
+        <label id="lbl-variants">
+          <input type="radio" name="scope" value="variants" onchange="updateScope(this)">
+          Toutes les variantes
+        </label>
+        <label id="lbl-base">
+          <input type="radio" name="scope" value="base" onchange="updateScope(this)">
+          <span id="base-label">Base + autres</span>
+        </label>
+      </div>
+    </div>
+
+    <div>
+      <div class="field-label">Filtres</div>
+      <div class="filter-group">
+        <select id="filter-result">
+          <option value="">Tous les résultats</option>
+          <option value="Win">Victoires uniquement</option>
+          <option value="Fail">Défaites uniquement</option>
+        </select>
+        <select id="filter-room">
+          <option value="">Toutes les salles</option>
+        </select>
+        <select id="filter-date">
+          <option value="">Toutes les guerres</option>
+        </select>
+        <select id="filter-attacker">
+          <option value="">Tous les attaquants</option>
+        </select>
+      </div>
+    </div>
+
+    <button id="apply-btn" onclick="applyFilters()">Analyser</button>
+
+  </aside>
+
+  <!-- Main -->
+  <div class="main">
+    <div class="stats-bar" id="stats-bar">
+      <div class="stat"><span class="stat-val" id="stat-total">—</span><span class="stat-lbl">Combats</span></div>
+      <div class="stat"><span class="stat-val" style="color:var(--win)" id="stat-win">—</span><span class="stat-lbl">Victoires</span></div>
+      <div class="stat"><span class="stat-val" style="color:var(--fail)" id="stat-fail">—</span><span class="stat-lbl">Défaites</span></div>
+      <div class="stat"><span class="stat-val" id="stat-winrate">—</span><span class="stat-lbl">Taux victoire</span></div>
+      <div class="stat"><span class="stat-val" id="stat-score">—</span><span class="stat-lbl">Score moyen</span></div>
+    </div>
+    <div class="view-toggle">
+      <button id="view-grouped" class="active" onclick="setView('grouped')">📊 Vue groupée</button>
+      <button id="view-detail" onclick="setView('detail')">📋 Détail combats</button>
+      <span class="hint" id="view-hint"></span>
+    </div>
+    <div class="results-wrap">
+      <div class="empty" id="empty-msg">Sélectionne une équipe pour voir son historique.</div>
+
+      <!-- Vue groupée -->
+      <table id="grouped-table" style="display:none">
+        <thead>
+          <tr>
+            <th></th>
+            <th onclick="sortGroupBy('counter')">Équipe counter</th>
+            <th onclick="sortGroupBy('attempts')">Tentatives</th>
+            <th onclick="sortGroupBy('winrate')">Taux victoire</th>
+            <th onclick="sortGroupBy('avgScore')">Score moyen</th>
+            <th onclick="sortGroupBy('avgPunch')">Punch moyen</th>
+            <th onclick="sortGroupBy('avgDef')">Puiss. DEF moy.</th>
+            <th onclick="sortGroupBy('avgAtk')">Puiss. ATK moy.</th>
+          </tr>
+        </thead>
+        <tbody id="grouped-body"></tbody>
+      </table>
+
+      <!-- Vue détail -->
+      <table id="results-table" style="display:none">
+        <thead>
+          <tr>
+            <th onclick="sortBy('statut')">Résultat</th>
+            <th onclick="sortBy('counter')">Équipe counter</th>
+            <th onclick="sortBy('punch')">Punch</th>
+            <th onclick="sortBy('puissance_defense')">Puiss. DEF</th>
+            <th onclick="sortBy('puissance_attaque')">Puiss. ATK</th>
+            <th onclick="sortBy('score')">Score</th>
+            <th onclick="sortBy('attaquant')">Attaquant</th>
+            <th onclick="sortBy('room')">Salle</th>
+            <th onclick="sortBy('date')">Date</th>
+            <th>Image</th>
+          </tr>
+        </thead>
+        <tbody id="results-body"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script>
+let allData = [];
+let teams = [];
+let currentMode = 'defense';
+let selectedTeam = '';
+let currentScope = 'exact';
+let sortKey = 'score';
+let sortAsc = false;
+let currentView = 'grouped';
+let groupSortKey = 'avgScore';
+let groupSortAsc = false;
+let expandedGroups = new Set();
+
+// ── URL du resultats.json hébergé (à configurer) ──
+const REMOTE_DATA_URL = "https://RACCOURCI_A_CONFIGURER/resultats.json";
+
+// ── Chargement automatique au démarrage ──
+async function autoLoadData() {
+  try {
+    const res = await fetch(REMOTE_DATA_URL, { cache: "no-store" });
+    if (!res.ok) throw new Error("Fichier distant introuvable");
+    allData = await res.json();
+    document.getElementById('load-overlay').style.display = 'none';
+    document.getElementById('data-status').textContent = `${allData.length} combats chargés (auto)`;
+    buildTeamList();
+    buildFilters();
+  } catch (err) {
+    console.warn('Chargement automatique impossible :', err.message);
+    document.getElementById('load-status').textContent =
+      'Chargement automatique indisponible — charge le fichier manuellement :';
+    document.getElementById('load-btn').style.display = 'inline-block';
+  }
+}
+autoLoadData();
+
+// ── Chargement fichier ──
+function loadFile(input) {
+  const file = input.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      allData = JSON.parse(e.target.result);
+      document.getElementById('load-overlay').style.display = 'none';
+      document.getElementById('data-status').textContent = `${allData.length} combats chargés`;
+      buildTeamList();
+      buildFilters();
+    } catch(err) {
+      alert('Erreur lecture JSON : ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+// ── Liste des équipes disponibles ──
+function buildTeamList() {
+  const set = new Set();
+  allData.forEach(r => {
+    if (r.data['equipe_defense']) set.add(r.data['equipe_defense']);
+    if (r.data['equipe_offense']) set.add(r.data['equipe_offense']);
+  });
+  teams = Array.from(set).sort();
+}
+
+function buildFilters() {
+  const rooms = [...new Set(allData.map(r => r.room).filter(Boolean))].sort();
+  const dates = [...new Set(allData.map(r => r.date).filter(Boolean))].sort().reverse();
+  const attackers = [...new Set(allData.map(r => r.data.attaquant).filter(Boolean))].sort();
+
+  const rSel = document.getElementById('filter-room');
+  rooms.forEach(r => { const o = document.createElement('option'); o.value = r; o.textContent = r; rSel.appendChild(o); });
+
+  const dSel = document.getElementById('filter-date');
+  dates.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d; dSel.appendChild(o); });
+
+  const aSel = document.getElementById('filter-attacker');
+  attackers.forEach(a => { const o = document.createElement('option'); o.value = a; o.textContent = a; aSel.appendChild(o); });
+}
+
+// ── Mode defense/offense ──
+function setMode(mode) {
+  currentMode = mode;
+  selectedTeam = '';
+  document.getElementById('team-search').value = '';
+  document.getElementById('scope-section').style.display = 'none';
+  document.getElementById('btn-defense').classList.toggle('active', mode === 'defense');
+  document.getElementById('btn-offense').classList.toggle('active', mode === 'offense');
+  updateTeamsForMode();
+}
+
+function updateTeamsForMode() {
+  const field = currentMode === 'defense' ? 'equipe_defense' : 'equipe_offense';
+  const set = new Set();
+  allData.forEach(r => { if (r.data[field]) set.add(r.data[field]); });
+  teams = Array.from(set).sort();
+}
+
+// ── Autocomplétion ──
+function onTeamSearch() {
+  const q = document.getElementById('team-search').value.trim().toLowerCase();
+  if (!q) { hideDropdown(); return; }
+  const matches = teams.filter(t => t.toLowerCase().includes(q)).slice(0, 15);
+  const dd = document.getElementById('team-dropdown');
+  if (!matches.length) { hideDropdown(); return; }
+  dd.innerHTML = matches.map(t =>
+    `<div class="dd-item" onmousedown="selectTeam('${t.replace(/'/g,"\\'")}')">
+      ${t.replace(new RegExp(q, 'gi'), m => `<strong>${m}</strong>`)}
+    </div>`
+  ).join('');
+  dd.style.display = 'block';
+}
+
+function selectTeam(name) {
+  selectedTeam = name;
+  document.getElementById('team-search').value = name;
+  hideDropdown();
+
+  // Afficher le sélecteur de périmètre
+  const base = getBase(name);
+  const hasVariants = teams.some(t => t !== name && getBase(t) === base);
+  document.getElementById('scope-section').style.display = hasVariants ? 'block' : 'none';
+  document.getElementById('base-label').textContent = `Base "${base}" + variantes`;
+  document.querySelector('input[name=scope][value=exact]').checked = true;
+  currentScope = 'exact';
+  updateScopeLabels();
+}
+
+function hideDropdown() {
+  setTimeout(() => { document.getElementById('team-dropdown').style.display = 'none'; }, 150);
+}
+
+function getBase(name) {
+  return name.split('+')[0].split('(')[0].trim();
+}
+
+function updateScope(radio) {
+  currentScope = radio.value;
+  updateScopeLabels();
+}
+
+function updateScopeLabels() {
+  document.querySelectorAll('.scope-toggle label').forEach(l => {
+    const radio = l.querySelector('input');
+    l.classList.toggle('selected', radio.checked);
+  });
+}
+
+// ── Filtrage ──
+function getMatchingTeams() {
+  if (!selectedTeam) return [];
+  const base = getBase(selectedTeam);
+  if (currentScope === 'exact') return [selectedTeam];
+  if (currentScope === 'variants') return teams.filter(t => t === selectedTeam || t.includes(selectedTeam));
+  if (currentScope === 'base') return teams.filter(t => getBase(t) === base);
+  return [selectedTeam];
+}
+
+function applyFilters() {
+  if (!selectedTeam) { alert('Sélectionne une équipe.'); return; }
+  expandedGroups.clear();
+
+  const matchTeams = getMatchingTeams();
+  const filterResult   = document.getElementById('filter-result').value;
+  const filterRoom     = document.getElementById('filter-room').value;
+  const filterDate     = document.getElementById('filter-date').value;
+  const filterAttacker = document.getElementById('filter-attacker').value;
+  const defField = 'equipe_defense';
+  const atkField = 'equipe_offense';
+  const teamField = currentMode === 'defense' ? defField : atkField;
+  const counterField = currentMode === 'defense' ? atkField : defField;
+
+  let rows = allData.filter(r => {
+    const team = r.data[teamField] || '';
+    if (!matchTeams.includes(team)) return false;
+    if (filterResult   && r.data.statut    !== filterResult)   return false;
+    if (filterRoom     && r.room            !== filterRoom)     return false;
+    if (filterDate     && r.date            !== filterDate)     return false;
+    if (filterAttacker && r.data.attaquant  !== filterAttacker) return false;
+    return true;
+  });
+
+  // Calcul defoff et score si absent
+  rows = rows.map(r => {
+    const d = {...r, data: {...r.data}};
+    const atk = parseFloat(d.data.puissance_attaque) || 0;
+    const def = parseFloat(d.data.puissance_defense) || 0;
+    const num = parseFloat(d.data.num);
+    if (!d.data.defoff && atk > 0) d.data.defoff = def / atk;
+    if (!d.data.score && !isNaN(num) && atk > 0 && def > 0) {
+      d.data.score = num > 0 ? num * (def/atk) : num < 0 ? num * (atk/def) : 0;
+    }
+    d.data.punch = def - atk;
+    d.data.counter = r.data[counterField] || '—';
+    return d;
+  });
+
+  renderStats(rows);
+  renderTable(rows);
+  renderGrouped(rows);
+}
+
+// ── Vue groupée ──
+function setView(view) {
+  currentView = view;
+  document.getElementById('view-grouped').classList.toggle('active', view === 'grouped');
+  document.getElementById('view-detail').classList.toggle('active', view === 'detail');
+  document.getElementById('grouped-table').style.display = (view === 'grouped' && currentRows.length) ? 'table' : 'none';
+  document.getElementById('results-table').style.display = (view === 'detail' && currentRows.length) ? 'table' : 'none';
+}
+
+function sortGroupBy(key) {
+  if (groupSortKey === key) groupSortAsc = !groupSortAsc;
+  else { groupSortKey = key; groupSortAsc = false; }
+  renderGrouped(currentRows);
+}
+
+function renderGrouped(rows) {
+  // Grouper par équipe counter
+  const groups = {};
+  rows.forEach(r => {
+    const counter = r.data.counter || '—';
+    if (!groups[counter]) {
+      groups[counter] = { counter, items: [] };
+    }
+    groups[counter].items.push(r);
+  });
+
+  // Calculer les agrégats
+  const groupList = Object.values(groups).map(g => {
+    const items = g.items;
+    const wins = items.filter(r => r.data.statut === 'Win').length;
+    const scores = items.map(r => parseFloat(r.data.score)).filter(v => !isNaN(v));
+    const punches = items.map(r => parseFloat(r.data.punch)).filter(v => !isNaN(v));
+    const defs = items.map(r => parseFloat(r.data.puissance_defense)).filter(v => v > 0);
+    const atks = items.map(r => parseFloat(r.data.puissance_attaque)).filter(v => v > 0);
+    return {
+      counter: g.counter,
+      items,
+      attempts: items.length,
+      wins,
+      winrate: items.length ? wins / items.length : 0,
+      avgScore: scores.length ? scores.reduce((a,b)=>a+b,0) / scores.length : 0,
+      avgPunch: punches.length ? punches.reduce((a,b)=>a+b,0) / punches.length : 0,
+      avgDef: defs.length ? defs.reduce((a,b)=>a+b,0) / defs.length : 0,
+      avgAtk: atks.length ? atks.reduce((a,b)=>a+b,0) / atks.length : 0,
+    };
+  });
+
+  // Tri
+  groupList.sort((a, b) => {
+    let va = a[groupSortKey], vb = b[groupSortKey];
+    if (typeof va === 'string') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
+    if (va < vb) return groupSortAsc ? -1 : 1;
+    if (va > vb) return groupSortAsc ? 1 : -1;
+    return 0;
+  });
+
+  const tbody = document.getElementById('grouped-body');
+  let html = '';
+  groupList.forEach(g => {
+    const isExpanded = expandedGroups.has(g.counter);
+    const winratePct = Math.round(g.winrate * 100);
+    const scoreClass = g.avgScore > 0 ? 'score-pos' : g.avgScore < 0 ? 'score-neg' : '';
+    const punchClass = g.avgPunch > 0 ? 'score-pos' : g.avgPunch < 0 ? 'score-neg' : '';
+    const punchDisplay = (g.avgPunch > 0 ? '+' : '') + (g.avgPunch/1e6).toFixed(2) + 'M';
+
+    html += `<tr class="group-row ${isExpanded ? 'expanded' : ''}" onclick="toggleGroup('${g.counter.replace(/'/g,"\\'")}')">
+      <td><span class="group-expand-icon">▶</span></td>
+      <td class="group-name">${g.counter}<span class="attempts-badge">${g.attempts}x</span></td>
+      <td>${g.attempts}</td>
+      <td>
+        <span class="winrate-bar"><span class="winrate-fill" style="width:${winratePct}%"></span></span>
+        ${winratePct}% <span style="color:var(--muted);font-size:11px">(${g.wins}/${g.attempts})</span>
+      </td>
+      <td class="${scoreClass}">${g.avgScore.toFixed(2)}</td>
+      <td class="${punchClass}">${punchDisplay}</td>
+      <td class="power-val">${(g.avgDef/1e6).toFixed(2)}M</td>
+      <td class="power-val">${(g.avgAtk/1e6).toFixed(2)}M</td>
+    </tr>`;
+
+    if (isExpanded) {
+      const detailRows = g.items.map(r => {
+        const d = r.data;
+        const statut = d.statut || '?';
+        const badge = `<span class="badge ${statut.toLowerCase()}">${statut}</span>`;
+        const score = d.score != null ? parseFloat(d.score).toFixed(2) : '—';
+        const scoreCls = parseFloat(score) > 0 ? 'score-pos' : parseFloat(score) < 0 ? 'score-neg' : '';
+        const punchVal = (d.puissance_defense && d.puissance_attaque) ? ((d.puissance_defense - d.puissance_attaque)/1e6).toFixed(2) : null;
+        const punchCls = punchVal > 0 ? 'score-pos' : punchVal < 0 ? 'score-neg' : '';
+        const punchDisp = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
+        const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
+        const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
+        const imgLink = r.drive_url ? `<a class="img-link" href="${r.drive_url}" target="_blank">Voir ↗</a>` : '—';
+        return `<tr>
+          <td>${badge}</td>
+          <td class="${punchCls}">${punchDisp}</td>
+          <td class="power-val">${defM}</td>
+          <td class="power-val">${atkM}</td>
+          <td class="${scoreCls}">${score}</td>
+          <td>${d.attaquant || '—'}</td>
+          <td>${r.room || '—'}</td>
+          <td>${r.date || '—'}</td>
+          <td>${imgLink}</td>
+        </tr>`;
+      }).join('');
+
+      html += `<tr class="detail-row"><td colspan="8">
+        <table style="width:100%">
+          <thead><tr>
+            <th>Résultat</th><th>Punch</th><th>Puiss. DEF</th><th>Puiss. ATK</th>
+            <th>Score</th><th>Attaquant</th><th>Salle</th><th>Date</th><th>Image</th>
+          </tr></thead>
+          <tbody>${detailRows}</tbody>
+        </table>
+      </td></tr>`;
+    }
+  });
+
+  tbody.innerHTML = html;
+  document.getElementById('view-hint').textContent =
+    groupList.length ? `${groupList.length} équipes counter distinctes — clique une ligne pour voir le détail` : '';
+
+  setView(currentView);
+}
+
+function toggleGroup(counter) {
+  if (expandedGroups.has(counter)) expandedGroups.delete(counter);
+  else expandedGroups.add(counter);
+  renderGrouped(currentRows);
+}
+
+// ── Stats ──
+function renderStats(rows) {
+  const wins  = rows.filter(r => r.data.statut === 'Win').length;
+  const fails = rows.filter(r => r.data.statut === 'Fail').length;
+  const scores  = rows.map(r => parseFloat(r.data.score)).filter(v => !isNaN(v));
+  const avgScore = scores.length ? (scores.reduce((a,b)=>a+b,0) / scores.length).toFixed(2) : '—';
+  const winrate = rows.length ? Math.round(wins / rows.length * 100) + '%' : '—';
+
+  document.getElementById('stat-total').textContent   = rows.length;
+  document.getElementById('stat-win').textContent     = wins;
+  document.getElementById('stat-fail').textContent    = fails;
+  document.getElementById('stat-winrate').textContent = winrate;
+  document.getElementById('stat-score').textContent   = avgScore;
+}
+
+// ── Tableau ──
+let currentRows = [];
+
+function renderTable(rows) {
+  currentRows = rows;
+  sortAndRender();
+}
+
+function sortBy(key) {
+  if (sortKey === key) sortAsc = !sortAsc;
+  else { sortKey = key; sortAsc = false; }
+  document.querySelectorAll('thead th').forEach(th => th.classList.remove('sorted'));
+  sortAndRender();
+}
+
+function sortAndRender() {
+  const sorted = [...currentRows].sort((a, b) => {
+    let va = a.data[sortKey] ?? a[sortKey] ?? '';
+    let vb = b.data[sortKey] ?? b[sortKey] ?? '';
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    if (va < vb) return sortAsc ? -1 : 1;
+    if (va > vb) return sortAsc ? 1 : -1;
+    return 0;
+  });
+
+  const tbody = document.getElementById('results-body');
+  tbody.innerHTML = sorted.map(r => {
+    const d = r.data;
+    const statut = d.statut || '?';
+    const badge = `<span class="badge ${statut.toLowerCase()}">${statut}</span>`;
+    const score  = d.score  != null ? parseFloat(d.score).toFixed(2)  : '—';
+    const scoreClass = parseFloat(score) > 0 ? 'score-pos' : parseFloat(score) < 0 ? 'score-neg' : '';
+    const imgLink = r.drive_url
+      ? `<a class="img-link" href="${r.drive_url}" target="_blank">Voir ↗</a>`
+      : '—';
+    const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
+    const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
+    const punchVal = (d.puissance_defense && d.puissance_attaque)
+      ? ((d.puissance_defense - d.puissance_attaque) / 1e6).toFixed(2)
+      : null;
+    const punchClass = punchVal > 0 ? 'score-pos' : punchVal < 0 ? 'score-neg' : '';
+    const punchDisplay = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
+    return `<tr>
+      <td>${badge}</td>
+      <td class="team-name">${d.counter || '—'}</td>
+      <td class="${punchClass}">${punchDisplay}</td>
+      <td class="power-val">${defM}</td>
+      <td class="power-val">${atkM}</td>
+      <td class="${scoreClass}">${score}</td>
+      <td>${d.attaquant || '—'}</td>
+      <td>${r.room || '—'}</td>
+      <td>${r.date || '—'}</td>
+      <td>${imgLink}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('empty-msg').style.display = sorted.length ? 'none' : 'block';
+  if (!sorted.length) document.getElementById('empty-msg').textContent = 'Aucun combat trouvé pour ces critères.';
+  setView(currentView);
+}
+</script>
+</body>
+</html>
