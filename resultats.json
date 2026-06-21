@@ -350,7 +350,7 @@
     "mode": "attack",
     "data": {
       "statut": "Fail",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 7021633,
       "puissance_defense": 11673632,
       "num": -10,
@@ -3522,7 +3522,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 13280870,
       "puissance_defense": 7312403,
       "num": 10,
@@ -3941,7 +3941,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 7482492,
       "puissance_defense": 8390469,
       "num": 10,
@@ -6978,7 +6978,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 11026156,
       "puissance_defense": 5335735,
       "equipe_offense": "Vigilante",
@@ -7871,7 +7871,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 5328694,
       "puissance_defense": 3706599,
       "equipe_offense": "Mercs 4 Money+Dormammu (-Deadpool)",
@@ -7890,7 +7890,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 8412190,
       "puissance_defense": 4333090,
       "equipe_offense": "Insidious 6+Vulture+Shocker+GreenGoblinClassic (-Scorpion)",
@@ -15346,7 +15346,7 @@
     "mode": "attack",
     "data": {
       "statut": "Win",
-      "attaquant": "ProphetZero78",
+      "attaquant": "ProphetZer078",
       "puissance_attaque": 8412190,
       "puissance_defense": 3344376,
       "equipe_offense": "Insidious 6+Vulture+Shocker+GreenGoblinClassic (-Scorpion)",
