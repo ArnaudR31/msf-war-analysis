@@ -273,6 +273,8 @@
   .power-val { color: var(--muted); font-size: 12px; }
   .score-pos { color: var(--win); font-weight: 600; }
   .score-neg { color: var(--fail); font-weight: 600; }
+  .punch-up   { color: #00bcd4; font-weight: 600; }
+  .punch-down { color: #9b59b6; font-weight: 600; }
 
   .img-link {
     color: var(--accent2);
@@ -795,7 +797,7 @@ function renderGrouped(rows) {
     const isExpanded = expandedGroups.has(g.counter);
     const winratePct = Math.round(g.winrate * 100);
     const scoreClass = g.avgScore > 0 ? 'score-pos' : g.avgScore < 0 ? 'score-neg' : '';
-    const punchClass = g.avgPunch > 0 ? 'score-pos' : g.avgPunch < 0 ? 'score-neg' : '';
+    const punchClass = g.avgPunch > 0 ? 'punch-up' : g.avgPunch < 0 ? 'punch-down' : '';
     const punchDisplay = (g.avgPunch > 0 ? '+' : '') + (g.avgPunch/1e6).toFixed(2) + 'M';
 
     html += `<tr class="group-row ${isExpanded ? 'expanded' : ''}" onclick="toggleGroup('${g.counter.replace(/'/g,"\\'")}')">
@@ -820,7 +822,7 @@ function renderGrouped(rows) {
         const score = d.score != null ? parseFloat(d.score).toFixed(2) : '—';
         const scoreCls = parseFloat(score) > 0 ? 'score-pos' : parseFloat(score) < 0 ? 'score-neg' : '';
         const punchVal = (d.puissance_defense && d.puissance_attaque) ? ((d.puissance_defense - d.puissance_attaque)/1e6).toFixed(2) : null;
-        const punchCls = punchVal > 0 ? 'score-pos' : punchVal < 0 ? 'score-neg' : '';
+        const punchCls = punchVal > 0 ? 'punch-up' : punchVal < 0 ? 'punch-down' : '';
         const punchDisp = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
         const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
         const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
@@ -919,7 +921,7 @@ function sortAndRender() {
     const punchVal = (d.puissance_defense && d.puissance_attaque)
       ? ((d.puissance_defense - d.puissance_attaque) / 1e6).toFixed(2)
       : null;
-    const punchClass = punchVal > 0 ? 'score-pos' : punchVal < 0 ? 'score-neg' : '';
+    const punchClass = punchVal > 0 ? 'punch-up' : punchVal < 0 ? 'punch-down' : '';
     const punchDisplay = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
     return `<tr>
       <td>${badge}</td>
