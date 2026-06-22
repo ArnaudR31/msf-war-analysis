@@ -815,7 +815,11 @@ function renderGrouped(rows) {
     </tr>`;
 
     if (isExpanded) {
-      const detailRows = g.items.map(r => {
+      const detailRows = [...g.items].sort((a, b) => {
+      const sa = parseFloat(a.data.score) || 0;
+      const sb = parseFloat(b.data.score) || 0;
+      return sb - sa;
+    }).map(r => {
         const d = r.data;
         const statut = d.statut || '?';
         const badge = `<span class="badge ${statut.toLowerCase()}">${statut}</span>`;
