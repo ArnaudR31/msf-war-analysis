@@ -1292,7 +1292,7 @@
     "room": "Barracks",
     "mode": "defense",
     "data": {
-      "statut": "Fail",
+      "statut": "Win",
       "puissance_attaque": 13119444,
       "puissance_defense": 5422816,
       "num": 10,
