@@ -1,5 +1,236 @@
 [
   {
+    "filename": "23-06-2026_Bridge_defense_combat_001.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_001.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 8362919,
+      "puissance_defense": 13638026,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force+Knull+Venom",
+      "equipe_defense": "Daring Warrior",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT",
+        "DAREDEVIL",
+        "JUGGERNAUT",
+        "SATANA",
+        "SPEEDBALL"
+      ],
+      "persos_defense_detectes": [
+        "KAHHORI",
+        "MEDUSA",
+        "MS-MARVEL-CLASSIC",
+        "VENOM",
+        "KNULL"
+      ],
+      "defoff": 1.630773417750429,
+      "score": 16.30773417750429
+    },
+    "drive_url": "https://drive.google.com/file/d/12jTZwIL2VEKABWn7PDatmkULOQaDPIHg/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_002.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_002.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 10444191,
+      "puissance_defense": 14891232,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "F3+X+EmmaFrost",
+      "equipe_defense": "F3+X+ShadowKing",
+      "persos_attaque_detectes": [
+        "SIF",
+        "JUGGERNAUT",
+        "FRANKLIN-RICHARDS",
+        "SILVER-SURFER-BREAKER",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "persos_defense_detectes": [
+        "FRANKLIN-RICHARDS",
+        "PROFESSOR-XAVIER",
+        "EMMA-FROST",
+        "INVISIBLE-WOMAN-MCU",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "defoff": 1.425790853499328,
+      "score": 13.545013108243616
+    },
+    "drive_url": "https://drive.google.com/file/d/1anJgrusv14rnwij9sW443NKvUiMAX9n6/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_003.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_003.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5774339,
+      "puissance_defense": 11820661,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Infestation",
+      "persos_attaque_detectes": [
+        "VENOM",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "MEDUSA",
+        "MOON-GIRL",
+        "YELLOWJACKET",
+        "KAHHORI",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "defoff": 2.0471020146202017,
+      "score": 20.471020146202015
+    },
+    "drive_url": "https://drive.google.com/file/d/1z1JvZZs9jxpegkCPp7ZJOOu7baxz8BPZ/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_004.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_004.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 16895014,
+      "puissance_defense": 16062855,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "OMEGA-SENTINEL",
+        "SWORD-MASTER",
+        "VENOM"
+      ],
+      "persos_defense_detectes": [
+        "OMEGA-RED",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "JUGGERNAUT",
+        "URSA-MAJOR"
+      ],
+      "defoff": 0.9507452908887793,
+      "score": 9.507452908887794
+    },
+    "drive_url": "https://drive.google.com/file/d/17JT1_8iSngz79Q-hoiCvnCcC0Y-3hyqc/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_005.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_005.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 15496129,
+      "puissance_defense": 14960318,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Shadow Conclave",
+      "persos_attaque_detectes": [
+        "MAGIK",
+        "JUGGERNAUT",
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "WAR-MACHINE"
+      ],
+      "persos_defense_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU",
+        "PROFESSOR-XAVIER",
+        "ODIN"
+      ],
+      "defoff": 0.9654229130384756,
+      "score": 7.723383304307805
+    },
+    "drive_url": "https://drive.google.com/file/d/1U-xFJyplHZmClnUoMlwyQT69Nia0dLD-/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_006.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_006.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9426094,
+      "puissance_defense": 13187562,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Hive-Mind Knull (-Carnage)",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "VENOM",
+        "GWENOM",
+        "WOLFSBANE"
+      ],
+      "persos_defense_detectes": [
+        "DAIMON-HELLSTROM",
+        "MAGIK",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "defoff": 1.3990484287553253,
+      "score": 12.591435858797928
+    },
+    "drive_url": "https://drive.google.com/file/d/168w41P8GFiQ2uTDQimbQUDw9wFzK67RY/view"
+  },
+  {
+    "filename": "23-06-2026_Bridge_defense_combat_007.png",
+    "local_path": "captures/23-06-2026_Bridge_defense_combat_007.png",
+    "date": "2026-06-23",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11319360,
+      "puissance_defense": 10180687,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Starjammer",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "BRAWN",
+        "NOVA-SAM-ALEXANDER",
+        "MOON-GIRL",
+        "SPIDER-MAN-MILES",
+        "MS-MARVEL"
+      ],
+      "defoff": 0.8994048250077743,
+      "score": 8.994048250077743
+    },
+    "drive_url": "https://drive.google.com/file/d/1RKM6oah3hAftWqf1gUcdltKN-X95Yfqa/view"
+  },
+  {
     "filename": "11-06-2026_Armory_attack_combat_001.png",
     "local_path": "captures/11-06-2026_Armory_attack_combat_001.png",
     "date": "2026-06-11",
