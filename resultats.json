@@ -1,5 +1,4867 @@
 [
   {
+    "filename": "23-06-2026_Barracks_attack_combat_001.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 14855412,
+      "puissance_defense": 9781928,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Orchis+Mephisto (-OmegaSentinel)",
+      "persos_attaque_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "HUMAN-TORCH",
+        "THE-THING",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "WAR-MACHINE",
+        "WAR-MACHINE",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.658475712420497,
+      "score": 6.58475712420497
+    },
+    "drive_url": "https://drive.google.com/file/d/1qMQCR5yaW9WFWGvAh-kShu_L1OuqsxXb/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_002.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 8994322,
+      "puissance_defense": 8043597,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Astral",
+      "equipe_defense": "Starjammer",
+      "persos_attaque_detectes": [
+        "NEGASONIC",
+        "MOONDRAGON",
+        "EMMA-FROST-XMEN",
+        "DOCTOR-STRANGE",
+        "SHADOW-KING"
+      ],
+      "persos_defense_detectes": [
+        "IRON-PATRIOT",
+        "JUGGERNAUT-ZOMBIE",
+        "PANDAPOOL",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.8942972021682123,
+      "score": 8.942972021682124
+    },
+    "drive_url": "https://drive.google.com/file/d/1rb5cp_yXhnLOO4zI1iQQde8lZz892LCe/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_003.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 13312195,
+      "puissance_defense": 6447292,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Accursed",
+      "persos_attaque_detectes": [
+        "NOVA-SAM-ALEXANDER",
+        "MS-MARVEL",
+        "MOON-GIRL",
+        "SPIDER-MAN-MILES",
+        "BRAWN"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-SLAYER",
+        "SATANA",
+        "HIT-MONKEY",
+        "SIF",
+        "SPIDER-SLAYER"
+      ],
+      "defoff": 0.4843147204499333,
+      "score": 4.843147204499333
+    },
+    "drive_url": "https://drive.google.com/file/d/1ga68PhZrv-9SMA6H_8wIIBYRUKHXgJBx/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_004.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 14092214,
+      "puissance_defense": 9523848,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Quasar+Thing",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "persos_attaque_detectes": [
+        "THE-THING",
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU",
+        "QUASAR"
+      ],
+      "persos_defense_detectes": [
+        "GHOST-SPIDER",
+        "MOON-KNIGHT",
+        "HIT-MONKEY",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.6758234014896453,
+      "score": 6.758234014896453
+    },
+    "drive_url": "https://drive.google.com/file/d/12vEjv2e6Q8kH91RtV96XoIhsOwSmY-_e/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_005.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10994167,
+      "puissance_defense": 7644226,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "PUNISHER",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "DAREDEVIL-MODERN",
+        "SILVER-SABLE"
+      ],
+      "persos_defense_detectes": [
+        "LILANDRA",
+        "SPIDER-SLAYER",
+        "SILVER-SURFER-BREAKER",
+        "HIT-MONKEY",
+        "EMMA-FROST-XMEN"
+      ],
+      "defoff": 0.6952983341075317,
+      "score": 6.952983341075317
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZWLvxZaEDXzxZ52v6kqvMg5kBVSXfFR-/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_006.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10587266,
+      "puissance_defense": 8487699,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Nightstalker+Mephisto+Skrull (-MoonKnight -Agatha)",
+      "equipe_defense": "Annihilator+Apocalypse+Skrull (-SS -Ultimus)",
+      "persos_attaque_detectes": [
+        "MAN-THING",
+        "CAPTAIN-MARVEL",
+        "MEPHISTO",
+        "GREEN-GOBLIN-CLASSIC",
+        "BLADE"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "MEPHISTO",
+        "MEPHISTO",
+        "OMEGA-RED"
+      ],
+      "defoff": 0.8016894068780364,
+      "score": 7.215204661902328
+    },
+    "drive_url": "https://drive.google.com/file/d/1CK3YmbvZPr0eBhmkFPDH0PQy90SFD3jR/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_007.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 8328336,
+      "puissance_defense": 9597147,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Apocalypse+BlackCat+GhostRiderRobbie+Photon+X",
+      "equipe_defense": "Thunderbolt",
+      "persos_attaque_detectes": [
+        "APOCALYPSE",
+        "BLACK-CAT",
+        "WAR-MACHINE",
+        "PROFESSOR-XAVIER",
+        "SUNSPOT"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-SLAYER",
+        "JUGGERNAUT",
+        "MOON-KNIGHT",
+        "WAR-MACHINE",
+        "SIF"
+      ],
+      "defoff": 1.1523486804566963,
+      "score": 9.21878944365357
+    },
+    "drive_url": "https://drive.google.com/file/d/1r6Rmv8Apg3zVixnNgMEFEEhkJfreJvZa/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_008.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 16336919,
+      "puissance_defense": 9668678,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "CAPTAIN-MARVEL",
+        "YELENA-BELOVA",
+        "OMEGA-RED",
+        "JUGGERNAUT",
+        "URSA-MAJOR"
+      ],
+      "persos_defense_detectes": [
+        "TOXIN",
+        "CARNAGE",
+        "SIF",
+        "SHE-HULK",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.5918299527591463,
+      "score": 5.326469574832316
+    },
+    "drive_url": "https://drive.google.com/file/d/1QPwlVWhQqEHeQ3dUfH3Dv9Nfc6rdlaMC/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_009.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 12137596,
+      "puissance_defense": 8037576,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Galactic Council+Mephisto+X (-StarLord -AdamWarlock)",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "persos_attaque_detectes": [
+        "PROFESSOR-XAVIER",
+        "BLASTAAR",
+        "QUASAR",
+        "MEPHISTO",
+        "THUNDERSTRIKE"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "PANDAPOOL",
+        "JUGGERNAUT",
+        "WAR-MACHINE",
+        "CARNAGE"
+      ],
+      "defoff": 0.662204937452194,
+      "score": 6.62204937452194
+    },
+    "drive_url": "https://drive.google.com/file/d/13MBVvWbvjSoIrBlQ9VqrF77FtwwytheS/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_010.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 7033758,
+      "puissance_defense": 6781344,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Mercs 4 Money+Wolverine (-Deadpool)",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "LILANDRA",
+        "IRON-MAN-ZOMBIE",
+        "KESTREL-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "DAKEN",
+        "WAR-MACHINE",
+        "WAR-MACHINE",
+        "PANDAPOOL"
+      ],
+      "defoff": 0.9641139203253795,
+      "score": 9.641139203253795
+    },
+    "drive_url": "https://drive.google.com/file/d/1G057bQmpXF4QFtvyJxuyKzVwDe9k9_iz/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_011.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 10558114,
+      "puissance_defense": 6602838,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Alpha Flight",
+      "persos_attaque_detectes": [
+        "SILVER-SABLE",
+        "AGENT-COULSON",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "DAREDEVIL-MODERN"
+      ],
+      "persos_defense_detectes": [
+        "NORTHSTAR",
+        "BLASTAAR",
+        "OMEGA-RED",
+        "SASQUATCH",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.625380441999395,
+      "score": 6.25380441999395
+    },
+    "drive_url": "https://drive.google.com/file/d/1bER6H3vKET7QFB-h83-7wuNOCXffyKgI/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_012.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 13401503,
+      "puissance_defense": 6167668,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker",
+      "equipe_defense": "Out Of Time+Ares+Quasar (-Starbrand -CosmicGhostRider)",
+      "persos_attaque_detectes": [
+        "ANNIHILUS",
+        "SUPERIOR-SPIDER-MAN",
+        "ANNIHILUS",
+        "ARCHANGEL",
+        "HELLVERINE"
+      ],
+      "persos_defense_detectes": [
+        "EMMA-FROST",
+        "WAR-MACHINE",
+        "QUASAR",
+        "WAR-MACHINE",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.46022211090800785,
+      "score": 4.602221109080078
+    },
+    "drive_url": "https://drive.google.com/file/d/1-7ooeKYW4WcOfka4MBeYI62bNL7XPV4-/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_013.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9941767,
+      "puissance_defense": 8262620,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "HIGH-EVOLUTIONARY",
+        "SWORD-MASTER",
+        "LADY-BULLSEYE",
+        "PROFESSOR-XAVIER",
+        "DAREDEVIL"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "SILVER-SURFER-BREAKER",
+        "DEADPOOL",
+        "VICTORIA-HAND",
+        "SIF"
+      ],
+      "defoff": 0.8311017548490123,
+      "score": 6.648814038792098
+    },
+    "drive_url": "https://drive.google.com/file/d/1p46OOWLyuQ-SEaI1QvtdI_vl58Kj7ZGE/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_014.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_014.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ]:",
+      "puissance_attaque": 8657828,
+      "puissance_defense": 7918282,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Annihilator+Sentry+Skrull (-SS -Ultimus)",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "VICTORIA-HAND",
+        "STRANGE-HEARTLESS",
+        "DAREDEVIL",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "OMEGA-RED",
+        "MEPHISTO",
+        "QUASAR"
+      ],
+      "defoff": 0.9145806546399398,
+      "score": 9.145806546399397
+    },
+    "drive_url": "https://drive.google.com/file/d/1VmTY2ooui_bvmK-Hapd5SH8pX9EKZW8b/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_015.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 11077417,
+      "puissance_defense": 5257541,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 5.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Shadow Conclave",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "JUGGERNAUT",
+        "AGENT-COULSON",
+        "EMMA-FROST-XMEN",
+        "PANDAPOOL"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN",
+        "QUASAR",
+        "WAR-MACHINE"
+      ],
+      "defoff": 0.4746179547091168,
+      "score": 2.610398750900142
+    },
+    "drive_url": "https://drive.google.com/file/d/1BmlGIKz1OWo-_HduLIXQj9sFKMEqew8W/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_016.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ]:",
+      "puissance_attaque": 8357265,
+      "puissance_defense": 11654617,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Phoenix Force+X+Quasar",
+      "equipe_defense": "Winter Guard",
+      "persos_attaque_detectes": [
+        "MADELYNE-PRYOR",
+        "MAGNETO-PHOENIX-FORCE",
+        "HELLVERINE",
+        "PROFESSOR-XAVIER",
+        "QUASAR"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "JUGGERNAUT",
+        "PANDAPOOL",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.3945491736830171,
+      "score": 11.853667976305646
+    },
+    "drive_url": "https://drive.google.com/file/d/1lZCynfDzYc-4c0BUfqssP7R5tpfov2T-/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_017.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_017.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ]:",
+      "puissance_attaque": 9209134,
+      "puissance_defense": 12529875,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "F3+Knull+Torch",
+      "persos_attaque_detectes": [
+        "IRON-MAN-ZOMBIE",
+        "HELA",
+        "JUGGERNAUT-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "KESTREL-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "MEPHISTO",
+        "SIF",
+        "MISTER-FANTASTIC-MCU",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 1.360592103448598,
+      "score": 13.605921034485979
+    },
+    "drive_url": "https://drive.google.com/file/d/1T4xFH8g30IxKcDQE0sKP6pq5u2WBcwNR/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_018.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_018.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 8644384,
+      "puissance_defense": 10449157,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Vigilante+X (-Elektra)",
+      "persos_attaque_detectes": [
+        "LILANDRA",
+        "WAR-MACHINE",
+        "IRON-MAN-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "PHANTOM-RIDER",
+        "AGENT-COULSON",
+        "HIT-MONKEY",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.2087798274579196,
+      "score": 9.670238619663357
+    },
+    "drive_url": "https://drive.google.com/file/d/1KrmFa_rWYrh1cHbfZCvuFUWmKH6ICQ8V/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_019.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_019.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 8742770,
+      "puissance_defense": 8336930,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Brimstone+Mephisto (-Elsa)",
+      "persos_attaque_detectes": [
+        "CAPTAIN-MARVEL",
+        "MOON-KNIGHT",
+        "BLADE",
+        "JUGGERNAUT",
+        "AGATHA-HARKNESS"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "HELLCAT",
+        "DAIMON-HELLSTROM",
+        "LIVING-MUMMY",
+        "STRANGE-HEARTLESS"
+      ],
+      "defoff": 0.9535799294731533,
+      "score": -10.486797898027211
+    },
+    "drive_url": "https://drive.google.com/file/d/1oX7wMzY4nI6CONZzkJS2xVsdDV9Zkh35/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_020.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_020.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 9538622,
+      "puissance_defense": 8111345,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Infestation Scorpion+SuperiorSpiderMan (-AntMan -Yellowjacket)",
+      "persos_attaque_detectes": [
+        "SWORD-MASTER",
+        "IRON-FIST-WW2",
+        "LADY-BULLSEYE",
+        "DAREDEVIL",
+        "STEEL-SERPENT"
+      ],
+      "persos_defense_detectes": [
+        "CARNAGE",
+        "EMMA-FROST",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "GHOST-SPIDER"
+      ],
+      "defoff": 0.8503686381533937,
+      "score": 8.503686381533937
+    },
+    "drive_url": "https://drive.google.com/file/d/1QCcku0ue8o253sPbPJetOeEJoTo7ZVE7/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_021.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_021.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 9734808,
+      "puissance_defense": 8336930,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Brimstone+Mephisto (-Elsa)",
+      "persos_attaque_detectes": [
+        "SILVER-SABLE",
+        "CAPTAIN-AMERICA-SAM",
+        "WAR-MACHINE",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "HELLCAT",
+        "DAIMON-HELLSTROM",
+        "LIVING-MUMMY",
+        "STRANGE-HEARTLESS"
+      ],
+      "defoff": 0.8564041530146255,
+      "score": -11.676729923365075
+    },
+    "drive_url": "https://drive.google.com/file/d/1pDWtjjfqxBgVYRrkIApxbqxsjw3rDslw/view"
+  },
+  {
+    "filename": "23-06-2026_Barracks_attack_combat_022.png",
+    "local_path": "captures/23-06-2026_Barracks_attack_combat_022.png",
+    "date": "23-06-2026",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 10896752,
+      "puissance_defense": 8336930,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Brimstone+Mephisto (-Elsa)",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT",
+        "ELEKTRA",
+        "GWENOM",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "SILVER-SURFER",
+        "DAIMON-HELLSTROM",
+        "LIVING-MUMMY",
+        "STRANGE-HEARTLESS"
+      ],
+      "defoff": 0.7650839442799102,
+      "score": -13.070461188950848
+    },
+    "drive_url": "https://drive.google.com/file/d/1FY78teJnxT9jY7VEzNV03vdxQpzaqup2/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_001.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 11130563,
+      "puissance_defense": 10180911,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Accursed+Mephisto (-Mordo)",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "ELSA-BLOODSTONE",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "EMMA-FROST-XMEN",
+        "MEPHISTO",
+        "HIT-MONKEY",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.9146806859635043,
+      "score": 9.146806859635042
+    },
+    "drive_url": "https://drive.google.com/file/d/12dYEG7oR_Ig_WZUNaQ4DHllL8ZtFzc05/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_002.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 10334574,
+      "puissance_defense": 11407320,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "SWORD-MASTER",
+        "PROFESSOR-XAVIER",
+        "LADY-BULLSEYE",
+        "IRON-FIST",
+        "DAREDEVIL"
+      ],
+      "persos_defense_detectes": [
+        "JEFF-THE-LAND-SHARK",
+        "SQUIRREL-GIRL",
+        "DEADPOOL",
+        "SHE-HULK",
+        "GHOST-SPIDER"
+      ],
+      "defoff": 1.1038016661354402,
+      "score": -9.059598573547511
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZDMWpBV9ayDmXCNXg2xMArneX0u37CqD/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_003.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 7457072,
+      "puissance_defense": 11407320,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "SIF",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN",
+        "AGENT-COULSON",
+        "KRAVEN-THE-HUNTER"
+      ],
+      "persos_defense_detectes": [
+        "JEFF-THE-LAND-SHARK",
+        "SQUIRREL-GIRL",
+        "DEADPOOL",
+        "SHE-HULK",
+        "GWENPOOL"
+      ],
+      "defoff": 1.5297317767617102,
+      "score": -6.5370937257830946
+    },
+    "drive_url": "https://drive.google.com/file/d/1_6nTyppwNwx4kfPHqi4s1ehoiqzujAp_/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_005.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5977889,
+      "puissance_defense": 13379224,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Cabal+Ares+Kang",
+      "equipe_defense": "Daring Warrior",
+      "persos_attaque_detectes": [
+        "MEPHISTO",
+        "WAR-MACHINE",
+        "WAR-MACHINE",
+        "WAR-MACHINE",
+        "MEPHISTO"
+      ],
+      "persos_defense_detectes": [
+        "SPEEDBALL",
+        "NIGHT-THRASHER",
+        "SILVER-SABLE",
+        "DAREDEVIL",
+        "ECLIPSE"
+      ],
+      "defoff": 2.238118506382437,
+      "score": -4.46803865455874
+    },
+    "drive_url": "https://drive.google.com/file/d/1A_C5jUObPIV9WQjKWEyOyxY7KVS2p8Tb/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_007.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 7797338,
+      "puissance_defense": 9599780,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Mysterio (-Scorpion)",
+      "equipe_defense": "Immortal Weapon",
+      "persos_attaque_detectes": [
+        "HELLVERINE",
+        "WAR-MACHINE",
+        "DORMAMMU",
+        "SUPERIOR-SPIDER-MAN",
+        "HOBGOBLIN"
+      ],
+      "persos_defense_detectes": [
+        "HIGH-EVOLUTIONARY",
+        "HANK-PYM",
+        "SWORD-MASTER",
+        "VICTORIA-HAND",
+        "PHANTOM-RIDER"
+      ],
+      "defoff": 1.2311611988604316,
+      "score": 9.849289590883453
+    },
+    "drive_url": "https://drive.google.com/file/d/186kuz0ZMKfGHa9j22Z4I6wcBE0gaXsdb/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_008.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10106769,
+      "puissance_defense": 12700769,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "SWORD-MASTER",
+        "LADY-BULLSEYE",
+        "DAREDEVIL",
+        "IRON-FIST",
+        "PROFESSOR-XAVIER"
+      ],
+      "persos_defense_detectes": [
+        "DEADPOOL",
+        "SQUIRREL-GIRL",
+        "SHE-HULK",
+        "SILVER-SURFER-BREAKER",
+        "JEFF-THE-LAND-SHARK"
+      ],
+      "defoff": 1.2566596703654749,
+      "score": -7.95760398445165
+    },
+    "drive_url": "https://drive.google.com/file/d/1G4FFOY_hhXZmDvcnNU2GgqRYqqbVtSNT/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_009.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 9607470,
+      "puissance_defense": 11577251,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "New Mutant",
+      "persos_attaque_detectes": [
+        "FALCON-JOAQUIN",
+        "WAR-MACHINE",
+        "PEGGY-CARTER",
+        "CAPTAIN-AMERICA-SAM",
+        "PATRIOT"
+      ],
+      "persos_defense_detectes": [
+        "SUNSPOT",
+        "MEPHISTO",
+        "MAGIK",
+        "WAR-MACHINE",
+        "WARLOCK"
+      ],
+      "defoff": 1.205025984988764,
+      "score": 11.447746857393257
+    },
+    "drive_url": "https://drive.google.com/file/d/1uccdV_4cqwegZO7SW3ZM0H36X6DQDjjV/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_010.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10199966,
+      "puissance_defense": 9622422,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Absolute A-Force MoonGirl+Mephisto",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "URSA-MAJOR",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "RED-GUARDIAN"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "MEPHISTO",
+        "MS-MARVEL-CLASSIC",
+        "DORMAMMU",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "defoff": 0.9433778504751879,
+      "score": 9.433778504751878
+    },
+    "drive_url": "https://drive.google.com/file/d/1AdR-gxpfRow-dKw1gBiX3Ervs6It6Q4X/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_011.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 6007561,
+      "puissance_defense": 11911820,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator+Knull+Skrull (-SS -Ultimus)",
+      "persos_attaque_detectes": [
+        "CARNAGE",
+        "LILANDRA",
+        "SIF",
+        "MS-MARVEL-CLASSIC",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "persos_defense_detectes": [
+        "SUPER-SKRULL",
+        "THANOS-ENDGAME",
+        "GORR",
+        "GLADIATOR",
+        "KNULL"
+      ],
+      "defoff": 1.98280466898297,
+      "score": -5.043361132052029
+    },
+    "drive_url": "https://drive.google.com/file/d/1enplahvAn4GfjAGI-ci-jO-QECYf4Qnk/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_012.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10331535,
+      "puissance_defense": 11911820,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Annihilator+Knull+Skrull (-SS -Ultimus)",
+      "persos_attaque_detectes": [
+        "AGENT-COULSON",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "WAR-MACHINE",
+        "SILVER-SABLE"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "THANOS-ENDGAME",
+        "OMEGA-RED",
+        "WAR-MACHINE",
+        "KNULL"
+      ],
+      "defoff": 1.1529574259778435,
+      "score": -8.673347145944113
+    },
+    "drive_url": "https://drive.google.com/file/d/1YCzALvJRbWKDSCkw_MUzu5YMkcHZ8Eb0/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_013.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5750225,
+      "puissance_defense": 9657349,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Sentry (-Deadpool)",
+      "equipe_defense": "Infestation Scorpion (-AntMan)",
+      "persos_attaque_detectes": [
+        "SENTRY",
+        "QUASAR",
+        "DEATHPOOL",
+        "PANDAPOOL",
+        "DAKEN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "EMMA-FROST",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.6794732380037303,
+      "score": 15.954995761035438
+    },
+    "drive_url": "https://drive.google.com/file/d/11CPOAZkjCxv5ltKFbm7RbsVuHgC3hqqO/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_014.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_014.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8968619,
+      "puissance_defense": 13385075,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "F3+X+EmmaFrost",
+      "persos_attaque_detectes": [
+        "SCARLET-WITCH-ZOMBIE",
+        "HELA",
+        "IRON-MAN-ZOMBIE",
+        "KESTREL-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "PROFESSOR-XAVIER",
+        "EMMA-FROST",
+        "MISTER-FANTASTIC-MCU",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 1.4924343424556221,
+      "score": -6.70046226860888
+    },
+    "drive_url": "https://drive.google.com/file/d/1NjLBeQmF2OQz1T4Q1EXYAlpl4rllsFCE/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_015.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8968618,
+      "puissance_defense": 10479671,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "SCARLET-WITCH-ZOMBIE",
+        "HELA",
+        "IRON-MAN-ZOMBIE",
+        "KESTREL-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "AZAZEL",
+        "SILVER-SURFER-BREAKER",
+        "HIT-MONKEY",
+        "SILVER-SABLE",
+        "LILANDRA"
+      ],
+      "defoff": 1.1684822566865931,
+      "score": 11.68482256686593
+    },
+    "drive_url": "https://drive.google.com/file/d/10LjyUo0OSWTcq1dbtXOWJJOnqtkF-vs6/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_016.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 5957726,
+      "puissance_defense": 9686454,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Accursed Azazel (-Mordo)",
+      "persos_attaque_detectes": [
+        "PHANTOM-RIDER",
+        "QUAKE",
+        "DOMINO",
+        "NEGASONIC",
+        "PENI-PARKER"
+      ],
+      "persos_defense_detectes": [
+        "HIT-MONKEY",
+        "LILANDRA",
+        "WAR-MACHINE",
+        "MEPHISTO",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.625864297888154,
+      "score": 16.25864297888154
+    },
+    "drive_url": "https://drive.google.com/file/d/1_0lJkQX809-n4rJ2stkhjD59ccPuqKYw/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_017.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_017.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 6674570,
+      "puissance_defense": 11796105,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Thunderbolt",
+      "persos_attaque_detectes": [
+        "YO-YO",
+        "PHANTOM-RIDER",
+        "DOMINO",
+        "NEGASONIC",
+        "QUAKE"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "MADELYNE-PRYOR",
+        "VICTORIA-HAND",
+        "SPIDER-SLAYER",
+        "AGENT-COULSON"
+      ],
+      "defoff": 1.7673205914388492,
+      "score": 17.673205914388493
+    },
+    "drive_url": "https://drive.google.com/file/d/1xNNYVIAYc2fSBGM1Atjhwxu9_4Qo89h-/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_018.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_018.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 7360805,
+      "puissance_defense": 10779536,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money",
+      "equipe_defense": "Galactic Council",
+      "persos_attaque_detectes": [
+        "DEADPOOL",
+        "DAKEN",
+        "QUASAR",
+        "DEATHPOOL",
+        "PANDAPOOL"
+      ],
+      "persos_defense_detectes": [
+        "HIT-MONKEY",
+        "SPIDER-SLAYER",
+        "SIF",
+        "HIT-MONKEY",
+        "PANDAPOOL"
+      ],
+      "defoff": 1.4644506952704222,
+      "score": 13.91228160506901
+    },
+    "drive_url": "https://drive.google.com/file/d/1gULAYbzQZV7COzwTqu7YlFPkv0nUtwEH/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_019.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_019.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9133338,
+      "puissance_defense": 10036090,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "New Mutant",
+      "persos_attaque_detectes": [
+        "HIT-MONKEY",
+        "AGENT-COULSON",
+        "EMMA-FROST",
+        "SILVER-SABLE",
+        "WAR-MACHINE"
+      ],
+      "persos_defense_detectes": [
+        "WARLOCK",
+        "SUNSPOT",
+        "CANNONBALL",
+        "WOLFSBANE",
+        "MAGIK"
+      ],
+      "defoff": 1.0988414093511047,
+      "score": -8.645469600212833
+    },
+    "drive_url": "https://drive.google.com/file/d/10D56QMtV4lGUpSCXVeh7vlPF-lS2MUDP/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_020.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_020.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9279805,
+      "puissance_defense": 11171796,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Infestation Scorpion (-AntMan)",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "EBONY-MAW",
+        "MINERVA",
+        "RONAN-THE-ACCUSER",
+        "ANNIHILUS"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-MAN-BIG-TIME",
+        "YELLOWJACKET",
+        "BLACK-WIDOW",
+        "SCORPION",
+        "SWARM"
+      ],
+      "defoff": 1.203882624688773,
+      "score": -8.306457618810798
+    },
+    "drive_url": "https://drive.google.com/file/d/1bDX_HSZZ_xc3ZjeUwZURAMhtO2ook7Q3/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_021.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_021.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 13879537,
+      "puissance_defense": 11450340,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "F3+Quasar+Torch",
+      "equipe_defense": "Gladiator+Knull+Mephisto+Sentry+ThanosEndgame",
+      "persos_attaque_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "HUMAN-TORCH",
+        "MISTER-FANTASTIC-MCU",
+        "QUASAR"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "THANOS-ENDGAME",
+        "QUASAR",
+        "MEPHISTO",
+        "MEPHISTO"
+      ],
+      "defoff": 0.8249799687122128,
+      "score": 7.837309702766022
+    },
+    "drive_url": "https://drive.google.com/file/d/1x_HuebN6BP58flex2LZJhddJjBxCUt3Z/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_022.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_022.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8204202,
+      "puissance_defense": 10818066,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "HELA",
+        "IRON-MAN-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE",
+        "KESTREL-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "SILVER-SURFER-BREAKER",
+        "SILVER-SURFER-BREAKER",
+        "SILVER-SABLE",
+        "MEPHISTO"
+      ],
+      "defoff": 1.3186006390383855,
+      "score": 13.186006390383856
+    },
+    "drive_url": "https://drive.google.com/file/d/1iGuaqrjmlwPYyS2Z1VsLeMbR7k2tfrRm/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_023.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_023.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8218898,
+      "puissance_defense": 11171796,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker+Ares+Skrull (-MoonKnight - ManThing)",
+      "equipe_defense": "Infestation Scorpion (-AntMan)",
+      "persos_attaque_detectes": [
+        "BLADE",
+        "OATH",
+        "AGATHA-HARKNESS",
+        "ARES",
+        "BRAWN"
+      ],
+      "persos_defense_detectes": [
+        "CARNAGE",
+        "JUGGERNAUT",
+        "BLACK-WIDOW",
+        "WAR-MACHINE",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.3592814997825742,
+      "score": 13.59281499782574
+    },
+    "drive_url": "https://drive.google.com/file/d/1-T2qFbJPDlUGow5beYWWnrHGojL6KU5z/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_025.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_025.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10777968,
+      "puissance_defense": 13385075,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+X+EmmaFrost",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "ELSA-BLOODSTONE",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "PROFESSOR-XAVIER",
+        "EMMA-FROST",
+        "MISTER-FANTASTIC-MCU",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 1.2418922564995554,
+      "score": -8.052228321469995
+    },
+    "drive_url": "https://drive.google.com/file/d/16RVBbOsPM-a53bhjp78z_hlWwwX4mX8c/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_027.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_027.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 11082145,
+      "puissance_defense": 13385075,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Odin+Mephisto+Knull+Skrull+Apocalypse",
+      "equipe_defense": "F3+X+EmmaFrost",
+      "persos_attaque_detectes": [
+        "SUPER-SKRULL",
+        "MEPHISTO",
+        "ODIN",
+        "KNULL",
+        "APOCALYPSE"
+      ],
+      "persos_defense_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "PROFESSOR-XAVIER",
+        "EMMA-FROST",
+        "MISTER-FANTASTIC-MCU",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 1.2078054383876045,
+      "score": -8.279479196044848
+    },
+    "drive_url": "https://drive.google.com/file/d/1EIfLDtH5G76z5oZkqATsqUX394kB9-Wr/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_028.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_028.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 14435041,
+      "puissance_defense": 13385075,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "F3+X+EmmaFrost",
+      "persos_attaque_detectes": [
+        "LILANDRA",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU",
+        "SILVER-SURFER-BREAKER",
+        "VENOM"
+      ],
+      "persos_defense_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "PROFESSOR-XAVIER",
+        "EMMA-FROST",
+        "MISTER-FANTASTIC-MCU",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 0.9272626936078672,
+      "score": -9.705987377732288
+    },
+    "drive_url": "https://drive.google.com/file/d/1a_-KTCJB3KbP4q8CpJC0f3MW3HiYeDIU/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_032.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_032.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 11448560,
+      "puissance_defense": 10435918,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Winter Guard",
+      "persos_attaque_detectes": [
+        "THANOS",
+        "EXECUTIONER",
+        "MALEKITH",
+        "HIGH-EVOLUTIONARY",
+        "SYLVIE"
+      ],
+      "persos_defense_detectes": [
+        "MS-MARVEL-CLASSIC",
+        "GWENOM",
+        "SILVER-SABLE",
+        "PANDAPOOL",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.9115485266269295,
+      "score": 9.115485266269296
+    },
+    "drive_url": "https://drive.google.com/file/d/1H543T4H-FRiNjkoHxSp8ToHTn4ZfJamz/view"
+  },
+  {
+    "filename": "23-06-2026_CargoBay_attack_combat_034.png",
+    "local_path": "captures/23-06-2026_CargoBay_attack_combat_034.png",
+    "date": "23-06-2026",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10324641,
+      "puissance_defense": 6235071,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Cabal+Gorr+Skrull",
+      "persos_attaque_detectes": [
+        "BLASTAAR",
+        "IRON-MAN-ZOMBIE",
+        "ANNIHILUS",
+        "LILANDRA",
+        "MEPHISTO"
+      ],
+      "persos_defense_detectes": [
+        "AZAZEL",
+        "SILVER-SURFER-BREAKER",
+        "WAR-MACHINE",
+        "BLASTAAR",
+        "BLASTAAR"
+      ],
+      "defoff": 0.6039019661797441,
+      "score": 6.039019661797441
+    },
+    "drive_url": "https://drive.google.com/file/d/1GTEwDiEYXwbi9Hrb8AOCW5fOWqgzJl6Y/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_003.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZero78",
+      "puissance_attaque": 5328694,
+      "puissance_defense": 3973430,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Dormammu (-Deadpool)",
+      "equipe_defense": "Mighty Avenger",
+      "persos_attaque_detectes": [
+        "DEATHPOOL",
+        "DAKEN",
+        "QUASAR",
+        "PANDAPOOL",
+        "DORMAMMU"
+      ],
+      "persos_defense_detectes": [
+        "HIGH-EVOLUTIONARY",
+        "SIF",
+        "SILVER-SABLE",
+        "AGENT-COULSON",
+        "KRAVEN-THE-HUNTER"
+      ],
+      "defoff": 0.7456667618744856,
+      "score": 6.71100085687037
+    },
+    "drive_url": "https://drive.google.com/file/d/1zoKFhNV_oHIoXpequkR99WYk4CG6p1GV/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_004.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5712173,
+      "puissance_defense": 5484464,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Liberty",
+      "persos_attaque_detectes": [
+        "IRON-MAN-ZOMBIE",
+        "LILANDRA",
+        "JUGGERNAUT-ZOMBIE",
+        "ANNIHILUS",
+        "KESTREL-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "ELEKTRA",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.9601361863514988,
+      "score": 9.601361863514988
+    },
+    "drive_url": "https://drive.google.com/file/d/1euCEdGb9Hk_0xva39gKn2Ij76bJPo1Yu/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_005.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 6069233,
+      "puissance_defense": 5246584,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+Hercules (-Deadpool)",
+      "equipe_defense": "Infestation Scorpion (-Swarm)",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "PANDAPOOL",
+        "DAKEN",
+        "DEATHPOOL",
+        "HERCULES"
+      ],
+      "persos_defense_detectes": [
+        "EMMA-FROST-XMEN",
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "WAR-MACHINE",
+        "GHOST-SPIDER"
+      ],
+      "defoff": 0.8644558546359976,
+      "score": 8.644558546359976
+    },
+    "drive_url": "https://drive.google.com/file/d/1VUZmmsK9AixNrzXjFjfP0KzAPZIa0ak1/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_006.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 6474387,
+      "puissance_defense": 5327833,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7.5,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Absolute A-Force",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "OMEGA-SENTINEL",
+        "EBONY-MAW",
+        "RONAN-THE-ACCUSER",
+        "BLASTAAR"
+      ],
+      "persos_defense_detectes": [
+        "MEDUSA",
+        "SIF",
+        "WAR-MACHINE",
+        "SEBASTIAN-SHAW",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "defoff": 0.8229092576640846,
+      "score": -9.114006107173404
+    },
+    "drive_url": "https://drive.google.com/file/d/1mwXTFW5yMYRedAObBmS2CDmWoTyZ-xGI/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_007.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 4092113,
+      "puissance_defense": 3682127,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Undying",
+      "persos_attaque_detectes": [
+        "DOMINO",
+        "VICTORIA-HAND",
+        "NEGASONIC",
+        "PHANTOM-RIDER",
+        "YO-YO"
+      ],
+      "persos_defense_detectes": [
+        "IRON-MAN-ZOMBIE",
+        "HELA",
+        "JUGGERNAUT",
+        "WOLFSBANE",
+        "WAR-MACHINE"
+      ],
+      "defoff": 0.899810684602307,
+      "score": 8.098296161420762
+    },
+    "drive_url": "https://drive.google.com/file/d/1GDfm09veYYToZQkv1R5AorZ3sr09olWZ/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_008.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 13946510,
+      "puissance_defense": 8450453,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "HERCULES",
+        "URSA-MAJOR"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "CARNAGE",
+        "SIF",
+        "WOLFSBANE",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.6059188284380823,
+      "score": 5.453269455942741
+    },
+    "drive_url": "https://drive.google.com/file/d/1Htq95XJo5dO9S5znOhYxiDd0R25cYP_e/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_009.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 9398417,
+      "puissance_defense": 7976163,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Brimstone+Quasar (-Elsa)",
+      "equipe_defense": "Brimstone",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "QUASAR",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "DAIMON-HELLSTROM",
+        "ELSA-BLOODSTONE",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "defoff": 0.8486708985140795,
+      "score": -11.783130560396021
+    },
+    "drive_url": "https://drive.google.com/file/d/1L-x4wEjrt7FZ1OHohKWIOdtXxjlEXu15/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_010.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 9281944,
+      "puissance_defense": 7976163,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Brimstone+EmmaFrost+Quasar (-Elsa -StrangeHeartless)",
+      "equipe_defense": "Brimstone",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "EMMA-FROST",
+        "QUASAR",
+        "DAREDEVIL",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "DAIMON-HELLSTROM",
+        "RACHEL-SUMMERS",
+        "STRANGE-HEARTLESS",
+        "DAREDEVIL",
+        "LIVING-MUMMY"
+      ],
+      "defoff": 0.8593203104866826,
+      "score": -11.637104206621656
+    },
+    "drive_url": "https://drive.google.com/file/d/1xiERXTlYxcitChBLAc4WeZvC2z3M3ExX/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_011.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12565328,
+      "puissance_defense": 7976163,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9.5,
+      "equipe_offense": "F3+EmmaFrost+Quasar",
+      "equipe_defense": "Brimstone",
+      "persos_attaque_detectes": [
+        "MISTER-FANTASTIC-MCU",
+        "EMMA-FROST",
+        "QUASAR",
+        "FRANKLIN-RICHARDS",
+        "EMMA-FROST-XMEN"
+      ],
+      "persos_defense_detectes": [
+        "DAIMON-HELLSTROM",
+        "ELSA-BLOODSTONE",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "defoff": 0.6347755506262949,
+      "score": -14.965919828870097
+    },
+    "drive_url": "https://drive.google.com/file/d/1iHByyInA-sc44bU4zsPT7Nebfw7N4mhB/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_013.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12362326,
+      "puissance_defense": 9278681,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "X+Odin+Mephisto+Knull+Sentry",
+      "equipe_defense": "Winter Guard",
+      "persos_attaque_detectes": [
+        "KNULL",
+        "PROFESSOR-XAVIER",
+        "ODIN",
+        "MEPHISTO",
+        "SENTRY"
+      ],
+      "persos_defense_detectes": [
+        "LILANDRA",
+        "NEGASONIC",
+        "MS-MARVEL-CLASSIC",
+        "JUGGERNAUT",
+        "PANDAPOOL"
+      ],
+      "defoff": 0.7505610999095154,
+      "score": 7.505610999095154
+    },
+    "drive_url": "https://drive.google.com/file/d/1OII2-onruZmO55UG1BX1COqC6Xu_bzyK/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_015.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12276928,
+      "puissance_defense": 2975740,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Secret Warrior",
+      "persos_attaque_detectes": [
+        "BRAWN",
+        "SPIDER-MAN-MILES",
+        "MOON-GIRL",
+        "NOVA-SAM-ALEXANDER",
+        "MS-MARVEL"
+      ],
+      "persos_defense_detectes": [
+        "DOMINO",
+        "RACHEL-SUMMERS",
+        "NEGASONIC",
+        "PHANTOM-RIDER",
+        "RACHEL-SUMMERS"
+      ],
+      "defoff": 0.24238473989584364,
+      "score": 2.4238473989584364
+    },
+    "drive_url": "https://drive.google.com/file/d/1bz157jnjF5vxbp_dmU2OrejUotUDZe5Z/view"
+  },
+  {
+    "filename": "23-06-2026_FD2_attack_combat_016.png",
+    "local_path": "captures/23-06-2026_FD2_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 3243874,
+      "puissance_defense": 4292145,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Out Of Time",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT",
+        "IRON-MAN-ZOMBIE",
+        "BLASTAAR",
+        "TOXIN",
+        "ANNIHILUS"
+      ],
+      "persos_defense_detectes": [
+        "LILANDRA",
+        "MEPHISTO",
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.323154043591089,
+      "score": 11.9083863923198
+    },
+    "drive_url": "https://drive.google.com/file/d/14AljuEnZu3z02khgN-LZUdhtV10iWOqZ/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_001.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10032758,
+      "puissance_defense": 4765616,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Absolute A-Force",
+      "persos_attaque_detectes": [
+        "CAPTAIN-AMERICA-SAM",
+        "PATRIOT",
+        "JESSICA-JONES",
+        "FALCON-JOAQUIN",
+        "WAR-MACHINE"
+      ],
+      "persos_defense_detectes": [
+        "LILANDRA",
+        "GHOST-SPIDER",
+        "SIF",
+        "SIF",
+        "OMEGA-SENTINEL"
+      ],
+      "defoff": 0.47500557673174215,
+      "score": 4.750055767317422
+    },
+    "drive_url": "https://drive.google.com/file/d/12UVNR7Ji8_WgZXFY9SlT5TuSnfiK_C4V/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_002.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10675479,
+      "puissance_defense": 5490694,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "X-Treme X-Men+Rogue+Storm (-Cyclops -Sunspot)",
+      "persos_attaque_detectes": [
+        "LADY-BULLSEYE",
+        "IRON-FIST",
+        "DAREDEVIL",
+        "SWORD-MASTER",
+        "IRON-FIST-WW2"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "FORGE",
+        "NEGASONIC",
+        "SILVER-SABLE",
+        "MEPHISTO"
+      ],
+      "defoff": 0.5143276474994705,
+      "score": 5.143276474994705
+    },
+    "drive_url": "https://drive.google.com/file/d/177PDynMlGtZkr6KPfuOObBu7kPeOanpv/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_003.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 11214158,
+      "puissance_defense": 5469324,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Galactic Council+Apocalypse+Knull (-StarLord -AdamWarlock)",
+      "equipe_defense": "New Avenger",
+      "persos_attaque_detectes": [
+        "KNULL",
+        "BLASTAAR",
+        "QUASAR",
+        "APOCALYPSE",
+        "THUNDERSTRIKE"
+      ],
+      "persos_defense_detectes": [
+        "AGENT-COULSON",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "SIF",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "defoff": 0.4877159747526297,
+      "score": 4.877159747526297
+    },
+    "drive_url": "https://drive.google.com/file/d/15B_pz6aT1c-IE80i_lAaTCUuW1JMA_II/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_004.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 8828069,
+      "puissance_defense": 7625146,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Annihilator+Sentry (-Ultimus)",
+      "equipe_defense": "Mighty Avenger+YoYo+Wolverine (-InvisibleWoman -Vision)",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "THANOS-ENDGAME",
+        "GLADIATOR",
+        "GORR",
+        "SILVER-SURFER"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "SIF",
+        "SILVER-SURFER-BREAKER",
+        "WAR-MACHINE",
+        "JUBILEE"
+      ],
+      "defoff": 0.8637388312211878,
+      "score": 7.341780065380096
+    },
+    "drive_url": "https://drive.google.com/file/d/1w7azP7SCMeLCHEMDg-SJ2bB-0FXu5LAP/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_005.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 19062815,
+      "puissance_defense": 12763768,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "RED-GUARDIAN",
+        "URSA-MAJOR"
+      ],
+      "persos_defense_detectes": [
+        "TOXIN",
+        "CARNAGE",
+        "SILVER-SABLE",
+        "SIF",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.6695636504891853,
+      "score": 6.360854679647261
+    },
+    "drive_url": "https://drive.google.com/file/d/1B-PX6JaWAm4Leqh92zIkc0ZQls-UZdL_/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_006.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 11261926,
+      "puissance_defense": 9116659,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Orchis",
+      "persos_attaque_detectes": [
+        "TASKMASTER",
+        "HYPERION",
+        "GHOST",
+        "VICTORIA-HAND",
+        "SONGBIRD"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "GHOST-SPIDER",
+        "GWENOM",
+        "WAR-MACHINE",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.8095115347055202,
+      "score": 8.095115347055202
+    },
+    "drive_url": "https://drive.google.com/file/d/1bLfuszfyJtLNu8YrhXmvC9WUOhVzBbLK/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_007.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 10513079,
+      "puissance_defense": 7406425,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Nightstalker",
+      "persos_attaque_detectes": [
+        "PUNISHER",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "SILVER-SABLE",
+        "DAREDEVIL-MODERN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "MOON-KNIGHT",
+        "EMMA-FROST-XMEN",
+        "JUGGERNAUT",
+        "EMMA-FROST"
+      ],
+      "defoff": 0.7044962755440152,
+      "score": 6.692714617668144
+    },
+    "drive_url": "https://drive.google.com/file/d/19QDrEm0SIdpXaoy7IK6yA0iguUynxq-q/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_008.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 10031951,
+      "puissance_defense": 8759091,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Azazel+Blade+JeanGrey+Lilandra+SebastianShaw",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "MEPHISTO",
+        "SPIDER-SLAYER",
+        "LILANDRA",
+        "SIF",
+        "MEPHISTO"
+      ],
+      "persos_defense_detectes": [
+        "MOONDRAGON",
+        "EMMA-FROST-XMEN",
+        "ANCIENT-ONE",
+        "SHADOW-KING",
+        "DOCTOR-STRANGE"
+      ],
+      "defoff": 0.8731193962171466,
+      "score": -11.453187322748446
+    },
+    "drive_url": "https://drive.google.com/file/d/1GgGkrPYE5doBhoOf69TMoHtlPf4mr36w/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_009.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9279805,
+      "puissance_defense": 10425662,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Thunderbolt LadyBullseye (-Taskmaster)",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "RONAN-THE-ACCUSER",
+        "MINERVA",
+        "EBONY-MAW",
+        "ANNIHILUS"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "VICTORIA-HAND",
+        "PHANTOM-RIDER",
+        "SILVER-SURFER-BREAKER",
+        "SIF"
+      ],
+      "defoff": 1.1234785644741458,
+      "score": 11.234785644741459
+    },
+    "drive_url": "https://drive.google.com/file/d/12UwW5p4XUwABZr_kQsGXLYTd-gK9WHEt/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_010.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10999879,
+      "puissance_defense": 11453133,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Hellverine+Mephisto+StormMighty+Thing+YoYo",
+      "equipe_defense": "Infestation Scorpion (-Swarm)",
+      "persos_attaque_detectes": [
+        "MEPHISTO",
+        "SIF",
+        "HIT-MONKEY",
+        "JUGGERNAUT",
+        "SIF"
+      ],
+      "persos_defense_detectes": [
+        "BLACK-WIDOW",
+        "JUGGERNAUT",
+        "ANT-MAN",
+        "SCORPION",
+        "SPIDER-MAN-BIG-TIME"
+      ],
+      "defoff": 1.041205362349895,
+      "score": -8.163615274527938
+    },
+    "drive_url": "https://drive.google.com/file/d/1CrtvVme4UaQAjVSoK1W6nRBaVqP2v2eT/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_011.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9455151,
+      "puissance_defense": 10379493,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Thunderbolt LadyBullseye (-Ghost)",
+      "persos_attaque_detectes": [
+        "THANOS",
+        "EXECUTIONER",
+        "HIGH-EVOLUTIONARY",
+        "MALEKITH",
+        "SYLVIE"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "HIT-MONKEY",
+        "VICTORIA-HAND",
+        "SILVER-SURFER",
+        "SIF"
+      ],
+      "defoff": 1.0977606809240805,
+      "score": 10.977606809240806
+    },
+    "drive_url": "https://drive.google.com/file/d/1oSQoTd2aBMfqmspLQVzIgJBVzwEoKxsp/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_013.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10777967,
+      "puissance_defense": 11128803,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "ELSA-BLOODSTONE",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "GWENOM",
+        "DORMAMMU",
+        "PANDAPOOL",
+        "JUGGERNAUT",
+        "CARNAGE"
+      ],
+      "defoff": 1.0325512223223545,
+      "score": 9.809236612062367
+    },
+    "drive_url": "https://drive.google.com/file/d/1lnE5suVrZ6Ih2s-LF4h7oR5mXu3CM3qp/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_014.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_014.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 7266759,
+      "puissance_defense": 7663117,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "PHANTOM-RIDER",
+        "DOMINO",
+        "PENI-PARKER",
+        "QUAKE",
+        "NEGASONIC"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "MEPHISTO",
+        "SIF",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN"
+      ],
+      "defoff": 1.05454398584018,
+      "score": 10.01816786548171
+    },
+    "drive_url": "https://drive.google.com/file/d/1SF_CnwUyZ2WSlpErSV4NTeGPeaFRbs3x/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_015.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 6334630,
+      "puissance_defense": 5095764,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger SwordMaster (-Vision)",
+      "equipe_defense": "Spider-Society",
+      "persos_attaque_detectes": [
+        "HERCULES",
+        "SCARLET-WITCH",
+        "INVISIBLE-WOMAN-MCU",
+        "FALCON",
+        "SWORD-MASTER"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "PHANTOM-RIDER",
+        "GHOST-SPIDER",
+        "RACHEL-SUMMERS",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.8044296194094999,
+      "score": 8.044296194094999
+    },
+    "drive_url": "https://drive.google.com/file/d/1bQ6fiDvgwD7J0VEBK3be7mJ5RgKIpF3U/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_016.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 11874167,
+      "puissance_defense": 14614989,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty+Odin (-WarMachine)",
+      "equipe_defense": "Vigilante",
+      "persos_attaque_detectes": [
+        "CAPTAIN-AMERICA-SAM",
+        "PATRIOT",
+        "ODIN",
+        "FALCON-JOAQUIN",
+        "PEGGY-CARTER"
+      ],
+      "persos_defense_detectes": [
+        "AGENT-COULSON",
+        "EMMA-FROST",
+        "HIT-MONKEY",
+        "JUGGERNAUT",
+        "SILVER-SABLE"
+      ],
+      "defoff": 1.2308222547316372,
+      "score": 12.308222547316372
+    },
+    "drive_url": "https://drive.google.com/file/d/1K1Tdz-z3J-K5BW0nAmi61iuBMUuqQnNv/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_017.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_017.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 4285896,
+      "puissance_defense": 9324560,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Odin+BetaRayBill+Heimdall+MightyThor+Valkyrie",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "DORMAMMU",
+        "DORMAMMU",
+        "MEPHISTO",
+        "IRON-PATRIOT",
+        "VENOM"
+      ],
+      "persos_defense_detectes": [
+        "DEADPOOL",
+        "VICTORIA-HAND",
+        "JEFF-THE-LAND-SHARK",
+        "SHE-HULK",
+        "SQUIRREL-GIRL"
+      ],
+      "defoff": 2.175638419597676,
+      "score": -4.5963519994509126
+    },
+    "drive_url": "https://drive.google.com/file/d/1O4NgC58jkmtR1Sn8lBZytnTB4FlbTF7T/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_019.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_019.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 2758620,
+      "puissance_defense": 8836747,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "omen",
+      "equipe_defense": "Sinister 6",
+      "persos_attaque_detectes": [
+        "SILVER-SURFER",
+        "JUGGERNAUT",
+        "EBONY-MAW",
+        "JUGGERNAUT",
+        "LILANDRA"
+      ],
+      "persos_defense_detectes": [
+        "GWENOM",
+        "SWARM",
+        "CARNAGE",
+        "HOBGOBLIN",
+        "HIGH-EVOLUTIONARY"
+      ],
+      "defoff": 3.203321588330397,
+      "score": -2.185231737425548
+    },
+    "drive_url": "https://drive.google.com/file/d/1Q-qY9tuZhLbaL-0CdkMp0iCe-uY_Rd2Y/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_021.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_021.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 9602698,
+      "puissance_defense": 8553928,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "Absolute A-Force+Mephisto (-Ironheart)",
+      "equipe_defense": "Liberty",
+      "persos_attaque_detectes": [
+        "MEPHISTO",
+        "MS-MARVEL-CLASSIC",
+        "JUGGERNAUT",
+        "KAHHORI",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "MADELYNE-PRYOR",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.8907838192974517,
+      "score": 6.235486735082161
+    },
+    "drive_url": "https://drive.google.com/file/d/1mlYaPDQITapqJcie9bCsJTEZefBfWe38/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_022.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_022.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 8280513,
+      "puissance_defense": 9542082,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Knull (-Deadpool)",
+      "equipe_defense": "Hellfire Club",
+      "persos_attaque_detectes": [
+        "DEATHPOOL",
+        "DAKEN",
+        "KNULL",
+        "QUASAR",
+        "PANDAPOOL"
+      ],
+      "persos_defense_detectes": [
+        "EMMA-FROST",
+        "EMMA-FROST",
+        "RACHEL-SUMMERS",
+        "HIGH-EVOLUTIONARY",
+        "MEPHISTO"
+      ],
+      "defoff": 1.1523539664752656,
+      "score": 10.947362681515022
+    },
+    "drive_url": "https://drive.google.com/file/d/1Vd4NmLIXIMJBSqHDdj4NTIFxO9Pb0eep/view"
+  },
+  {
+    "filename": "23-06-2026_Medbay_attack_combat_024.png",
+    "local_path": "captures/23-06-2026_Medbay_attack_combat_024.png",
+    "date": "23-06-2026",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 8992539,
+      "puissance_defense": 6455434,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Annihilator+Ares+Quasar (-SS -Ultimus)",
+      "equipe_defense": "Alpha Flight",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "ARES",
+        "THANOS-ENDGAME",
+        "GORR",
+        "GLADIATOR"
+      ],
+      "persos_defense_detectes": [
+        "GHOST-SPIDER",
+        "SILVER-SURFER",
+        "WAR-MACHINE",
+        "NORTHSTAR",
+        "SASQUATCH"
+      ],
+      "defoff": 0.7178655549895308,
+      "score": 7.178655549895307
+    },
+    "drive_url": "https://drive.google.com/file/d/1roYsYSw5XKT16BRgk6Z4KEAL9s1YTrqN/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_001.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 6305627,
+      "puissance_defense": 7667379,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Orchis",
+      "persos_attaque_detectes": [
+        "OATH",
+        "MOON-KNIGHT",
+        "BLADE",
+        "MAN-THING",
+        "AGATHA-HARKNESS"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "WAR-MACHINE",
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "WAR-MACHINE"
+      ],
+      "defoff": 1.2159582227112387,
+      "score": 10.943624004401148
+    },
+    "drive_url": "https://drive.google.com/file/d/1h--9GKobmccHmGqtBL_Eyahdlcqbk8io/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_002.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8564976,
+      "puissance_defense": 7308603,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Spider-Society",
+      "persos_attaque_detectes": [
+        "AGENT-COULSON",
+        "VICTORIA-HAND",
+        "AGATHA-HARKNESS",
+        "ANNIHILUS",
+        "MOON-KNIGHT"
+      ],
+      "persos_defense_detectes": [
+        "GWENOM",
+        "HIT-MONKEY",
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "SPIDER-MAN-NOIR"
+      ],
+      "defoff": 0.8533127238184905,
+      "score": 8.533127238184905
+    },
+    "drive_url": "https://drive.google.com/file/d/1Eb0ESnWK-eJMeky9hPzxv6dDlTnLrTm_/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_003.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLOKI",
+      "puissance_attaque": 12909942,
+      "puissance_defense": 8919467,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt LadyBullseye (-Ghost)",
+      "equipe_defense": "Accursed Azazel (-Satana)",
+      "persos_attaque_detectes": [
+        "HYPERION",
+        "LADY-BULLSEYE",
+        "SONGBIRD",
+        "VICTORIA-HAND",
+        "TASKMASTER"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "MEPHISTO",
+        "MEPHISTO",
+        "HIGH-EVOLUTIONARY",
+        "MEPHISTO"
+      ],
+      "defoff": 0.6908990760764069,
+      "score": 6.908990760764069
+    },
+    "drive_url": "https://drive.google.com/file/d/1mh1_PPa3gHZ7vSQVv-GHL4OS_57MGPxG/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_004.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5724442,
+      "puissance_defense": 7073800,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Spider-Society",
+      "equipe_defense": "Daring Warrior",
+      "persos_attaque_detectes": [
+        "GHOST-SPIDER",
+        "SPIDER-MAN-NOIR",
+        "SPIDER-MAN-PAVITR",
+        "PETER-B-PARKER",
+        "PENI-PARKER"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "JUGGERNAUT-ZOMBIE",
+        "LILANDRA",
+        "PANDAPOOL",
+        "HIT-MONKEY"
+      ],
+      "defoff": 1.235718695376772,
+      "score": 12.35718695376772
+    },
+    "drive_url": "https://drive.google.com/file/d/18uHIfmb_jAY3xLiKtcLBHJiZjnV-pnjN/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_005.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5739002,
+      "puissance_defense": 7059528,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Uncanny Avenger",
+      "persos_attaque_detectes": [
+        "FALCON",
+        "VISION",
+        "HERCULES",
+        "SIF",
+        "INVISIBLE-WOMAN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "SIF",
+        "PANDAPOOL",
+        "STORM",
+        "CAPTAIN-AMERICA-SAM"
+      ],
+      "defoff": 1.2300968008026483,
+      "score": 10.45582280682251
+    },
+    "drive_url": "https://drive.google.com/file/d/1ffU3gfdysvRvcnzYyNozi1jjtHKKfhEU/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_006.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10580161,
+      "puissance_defense": 9625344,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Thunderbolt",
+      "persos_attaque_detectes": [
+        "MADELYNE-PRYOR",
+        "AZAZEL",
+        "EMMA-FROST",
+        "RACHEL-SUMMERS",
+        "SEBASTIAN-SHAW"
+      ],
+      "persos_defense_detectes": [
+        "PHANTOM-RIDER",
+        "SPIDER-SLAYER",
+        "MS-MARVEL-CLASSIC",
+        "JUGGERNAUT",
+        "SILVER-SURFER"
+      ],
+      "defoff": 0.9097540198112297,
+      "score": 9.097540198112297
+    },
+    "drive_url": "https://drive.google.com/file/d/1UAgB95_gVx6y86Hfx1jHSOX_gUnD6xIC/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_007.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10062417,
+      "puissance_defense": 8859458,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "PHANTOM-RIDER",
+        "QUAKE",
+        "DOMINO",
+        "NEGASONIC",
+        "YO-YO"
+      ],
+      "persos_defense_detectes": [
+        "LILANDRA",
+        "MEPHISTO",
+        "EMMA-FROST-XMEN",
+        "LILANDRA",
+        "GHOST"
+      ],
+      "defoff": 0.8804502934036623,
+      "score": 8.804502934036623
+    },
+    "drive_url": "https://drive.google.com/file/d/1vytSmQ7ghiyZ3cJOPkvx8BKEtGua34Qh/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_008.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10052655,
+      "puissance_defense": 11336548,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Starjammer",
+      "persos_attaque_detectes": [
+        "HELA",
+        "JUGGERNAUT-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "ANNIHILUS",
+        "IRON-MAN-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "IRON-PATRIOT",
+        "PANDAPOOL",
+        "SPIDER-SLAYER",
+        "JUGGERNAUT",
+        "SIF"
+      ],
+      "defoff": 1.1277168071519414,
+      "score": 11.277168071519414
+    },
+    "drive_url": "https://drive.google.com/file/d/1V451LhTZWnPBw16X6aCoSnZNN-W0VNnJ/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_009.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 7168084,
+      "puissance_defense": 7998165,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Superior 6+Vulture (-SpiderSlayer)",
+      "equipe_defense": "Sinister 6",
+      "persos_attaque_detectes": [
+        "DOCTOR-OCTOPUS",
+        "KRAVEN-THE-HUNTER",
+        "GREEN-GOBLIN-CLASSIC",
+        "PANDAPOOL",
+        "VULTURE"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "BLACK-PANTHER-SHURI",
+        "AGENT-COULSON",
+        "WAR-MACHINE",
+        "WAR-MACHINE"
+      ],
+      "defoff": 1.1158023538786654,
+      "score": 10.042221184907989
+    },
+    "drive_url": "https://drive.google.com/file/d/18dHB3OpE3j8Wk-GAtTIhorTYjoMsdZ8G/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_010.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10994167,
+      "puissance_defense": 8575802,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Mercs 4 Money",
+      "persos_attaque_detectes": [
+        "PUNISHER",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "DAREDEVIL-MODERN",
+        "SILVER-SABLE"
+      ],
+      "persos_defense_detectes": [
+        "DEADPOOL",
+        "OLD-MAN-LOGAN",
+        "DAKEN",
+        "DEATHPOOL",
+        "PANDAPOOL"
+      ],
+      "defoff": 0.7800319933288261,
+      "score": -12.819986981975564
+    },
+    "drive_url": "https://drive.google.com/file/d/1L94AHXMyoa7xGK8Rh6Uz2MAk662NatV7/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_011.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 11574533,
+      "puissance_defense": 8575802,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Annihilator+Knull (-SilverSurfer)",
+      "equipe_defense": "Mercs 4 Money",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "JUGGERNAUT",
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "DAKEN"
+      ],
+      "persos_defense_detectes": [
+        "DEADPOOL",
+        "QUASAR",
+        "DAKEN",
+        "OMEGA-RED",
+        "PANDAPOOL"
+      ],
+      "defoff": 0.7409199144362887,
+      "score": -10.79738827925365
+    },
+    "drive_url": "https://drive.google.com/file/d/1ppFcIfiO8OdSk9NKvMmcdGM5f_cAtyY9/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_012.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 9709717,
+      "puissance_defense": 5437414,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "persos_attaque_detectes": [
+        "SILVER-SABLE",
+        "PUNISHER",
+        "ELEKTRA",
+        "HIT-MONKEY",
+        "DAREDEVIL-MODERN"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER-BREAKER",
+        "PANDAPOOL",
+        "DAREDEVIL",
+        "AGENT-COULSON",
+        "WAR-MACHINE"
+      ],
+      "defoff": 0.5599971657258394,
+      "score": 5.5999716572583935
+    },
+    "drive_url": "https://drive.google.com/file/d/1wWDDwm3pn-obobTsXdyuYjush_JeyYh1/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_013.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 8523629,
+      "puissance_defense": 9715790,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Vigilante",
+      "persos_attaque_detectes": [
+        "KESTREL-ZOMBIE",
+        "IRON-MAN-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE",
+        "HELA"
+      ],
+      "persos_defense_detectes": [
+        "AGENT-COULSON",
+        "SILVER-SABLE",
+        "HIT-MONKEY",
+        "WAR-MACHINE",
+        "ELEKTRA"
+      ],
+      "defoff": 1.139865425864969,
+      "score": 10.828721545717205
+    },
+    "drive_url": "https://drive.google.com/file/d/1tz70xF50CIrjhWnlcibArfBBSxzfA12s/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_014.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_014.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 7374960,
+      "puissance_defense": 7207601,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Superior 6+Shocker (-Kraven)",
+      "persos_attaque_detectes": [
+        "AGATHA-HARKNESS",
+        "BLADE",
+        "OATH",
+        "MOON-KNIGHT",
+        "MAN-THING"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "SPIDER-SLAYER",
+        "DOCTOR-OCTOPUS",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.9773071311573215,
+      "score": 9.284417745994554
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZmwMhUu5fQmzlgha5w3dUAyh639pZus8/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_015.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 9209616,
+      "puissance_defense": 7772207,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Hellfire Club+Mephisto (-Azazel)",
+      "persos_attaque_detectes": [
+        "FALCON-JOAQUIN",
+        "PEGGY-CARTER",
+        "WAR-MACHINE",
+        "CAPTAIN-AMERICA-SAM",
+        "PATRIOT"
+      ],
+      "persos_defense_detectes": [
+        "SEBASTIAN-SHAW",
+        "DORMAMMU",
+        "RACHEL-SUMMERS",
+        "MS-MARVEL-CLASSIC",
+        "EMMA-FROST"
+      ],
+      "defoff": 0.8439230256722973,
+      "score": 8.439230256722972
+    },
+    "drive_url": "https://drive.google.com/file/d/1ImckA64ub2jVg8KAQ-qSIhMCyHn3hcQ8/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_016.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 10309361,
+      "puissance_defense": 7098865,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Apocalypse+BlackKnight+Mephisto+Odin+OldManLogan",
+      "persos_attaque_detectes": [
+        "DAREDEVIL",
+        "VICTORIA-HAND",
+        "KRAVEN-THE-HUNTER",
+        "LIVING-MUMMY",
+        "QUASAR"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "defoff": 0.6885843846189885,
+      "score": 6.885843846189886
+    },
+    "drive_url": "https://drive.google.com/file/d/1c2pQatFGTP2Itr9C1ftyEurnL6IARXh_/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_017.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_017.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZero78",
+      "puissance_attaque": 7482492,
+      "puissance_defense": 7364913,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Immortal Weapon",
+      "persos_attaque_detectes": [
+        "KAHHORI",
+        "ANNIHILUS",
+        "IRONHEART",
+        "MS-MARVEL-CLASSIC",
+        "MEDUSA"
+      ],
+      "persos_defense_detectes": [
+        "LADY-BULLSEYE",
+        "SWORD-MASTER",
+        "SILVER-SURFER",
+        "HIGH-EVOLUTIONARY",
+        "DAREDEVIL"
+      ],
+      "defoff": 0.9842861175127217,
+      "score": 9.350718116370857
+    },
+    "drive_url": "https://drive.google.com/file/d/15NH4gZqbhy_8z17Pw_tV_nZTIFDrmblw/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_018.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_018.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 12335798,
+      "puissance_defense": 7023999,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Phoenix Force+Blastaar+Thunderstrike",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "JUGGERNAUT",
+        "URSA-MAJOR"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "PANDAPOOL",
+        "HIT-MONKEY",
+        "HIT-MONKEY",
+        "LILANDRA"
+      ],
+      "defoff": 0.5693996448385422,
+      "score": 5.693996448385422
+    },
+    "drive_url": "https://drive.google.com/file/d/1ET95cqFHcp6XwkuhMpR1tRgRANXCBy6x/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_019.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_019.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 5638517,
+      "puissance_defense": 9856227,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Odin+BetaRayBill+LokiTeen+Vahl+Valkyrie",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "BLASTAAR",
+        "PANDAPOOL",
+        "SIF",
+        "ARCHANGEL",
+        "WAR-MACHINE"
+      ],
+      "persos_defense_detectes": [
+        "JEFF-THE-LAND-SHARK",
+        "SQUIRREL-GIRL",
+        "DEADPOOL",
+        "SHE-HULK",
+        "GWENPOOL"
+      ],
+      "defoff": 1.7480176081760506,
+      "score": -5.7207661714771785
+    },
+    "drive_url": "https://drive.google.com/file/d/1fNQHcBjybGwRrEYenqacxjD77JQAR08e/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_021.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_021.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 11000593,
+      "puissance_defense": 9604700,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone+BlackCat (-Elsa)",
+      "equipe_defense": "F3+X+Thing",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "LIVING-MUMMY",
+        "BLACK-CAT",
+        "STRANGE-HEARTLESS",
+        "HELLCAT"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "MISTER-FANTASTIC-MCU",
+        "LILANDRA"
+      ],
+      "defoff": 0.8731074770241931,
+      "score": 8.294521031729834
+    },
+    "drive_url": "https://drive.google.com/file/d/1bYGCHXaGLDl72IsmFpCnenSXc5AHSze4/view"
+  },
+  {
+    "filename": "23-06-2026_Reactor_attack_combat_022.png",
+    "local_path": "captures/23-06-2026_Reactor_attack_combat_022.png",
+    "date": "23-06-2026",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "M0llyw0p",
+      "puissance_attaque": 6575828,
+      "puissance_defense": 6021171,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Cabal+Kang+Skrull",
+      "equipe_defense": "Insidious 6+Sentry+Vulture",
+      "persos_attaque_detectes": [
+        "IRON-MAN-ZOMBIE",
+        "IRON-PATRIOT",
+        "MEPHISTO",
+        "KANG-THE-CONQUEROR",
+        "THE-LEADER"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.9156521429696762,
+      "score": 9.156521429696763
+    },
+    "drive_url": "https://drive.google.com/file/d/1faA4E1gD5pf4zmAAMcLLyt20qzqVsRUS/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_001.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 17520083,
+      "puissance_defense": 14821842,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "New Mutant",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "DARKSTAR",
+        "YELENA-BELOVA",
+        "URSA-MAJOR",
+        "RED-GUARDIAN"
+      ],
+      "persos_defense_detectes": [
+        "MAGIK",
+        "MEPHISTO",
+        "SUNSPOT",
+        "JUGGERNAUT-ZOMBIE",
+        "SILVER-SURFER-BREAKER"
+      ],
+      "defoff": 0.8459915401085714,
+      "score": 8.459915401085713
+    },
+    "drive_url": "https://drive.google.com/file/d/104uj98xuo_cplyhyCtEinvlbOYroMOW_/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6625798,
+      "puissance_defense": 11990308,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Insidious 6+BlackWidow+SpiderManBigTime",
+      "persos_attaque_detectes": [
+        "SCARLET-WITCH-ZOMBIE",
+        "HELA",
+        "FALCON-JOAQUIN",
+        "JUGGERNAUT-ZOMBIE",
+        "IRON-MAN-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-MAN",
+        "MOON-KNIGHT",
+        "EMMA-FROST-XMEN",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.809639835080997,
+      "score": 18.09639835080997
+    },
+    "drive_url": "https://drive.google.com/file/d/1DI3ob9tlv1JSocko4i-XJ6jIsi4pTBUa/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_003.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 10186713,
+      "puissance_defense": 13086694,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "New Mutant",
+      "persos_attaque_detectes": [
+        "PEGGY-CARTER",
+        "PATRIOT",
+        "FALCON-JOAQUIN",
+        "CAPTAIN-AMERICA-SAM",
+        "WAR-MACHINE"
+      ],
+      "persos_defense_detectes": [
+        "MAGIK",
+        "SUNSPOT",
+        "JUGGERNAUT-ZOMBIE",
+        "SPIDER-SLAYER",
+        "SASQUATCH"
+      ],
+      "defoff": 1.2846827038319426,
+      "score": 12.846827038319425
+    },
+    "drive_url": "https://drive.google.com/file/d/1CSlM8_gGn7qarjgfpnxzbqe9_LTexczF/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_004.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 11393830,
+      "puissance_defense": 11742958,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer NovaSam (-Raccoon)",
+      "persos_attaque_detectes": [
+        "SILVER-SABLE",
+        "HIT-MONKEY",
+        "AGENT-COULSON",
+        "WAR-MACHINE",
+        "EMMA-FROST"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "HOWARD-THE-DUCK",
+        "NOVA-SAM-ALEXANDER",
+        "HAVOK",
+        "GWENOM"
+      ],
+      "defoff": 1.0306418473858219,
+      "score": -6.3067495430027085
+    },
+    "drive_url": "https://drive.google.com/file/d/14z5I4HEwtpL9wr-ucIZO-YpeeCZuXU9y/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_006.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 10731493,
+      "puissance_defense": 9881670,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "WAR-MACHINE",
+        "CAPTAIN-AMERICA-SAM",
+        "PEGGY-CARTER",
+        "FALCON-JOAQUIN",
+        "PATRIOT"
+      ],
+      "persos_defense_detectes": [
+        "MOONDRAGON",
+        "DOCTOR-STRANGE",
+        "SHADOW-KING",
+        "EMMA-FROST-XMEN",
+        "ANCIENT-ONE"
+      ],
+      "defoff": 0.9208103662742919,
+      "score": -10.859999372575688
+    },
+    "drive_url": "https://drive.google.com/file/d/1bih6pfsvS3h3hGbEXyJLI4LnEZXMBXI-/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_007.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 5934156,
+      "puissance_defense": 10287341,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Infestation",
+      "persos_attaque_detectes": [
+        "LILANDRA",
+        "SIF",
+        "NEGASONIC",
+        "PHANTOM-RIDER",
+        "DOMINO"
+      ],
+      "persos_defense_detectes": [
+        "EMMA-FROST",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "JUGGERNAUT",
+        "CARNAGE"
+      ],
+      "defoff": 1.7335811529053162,
+      "score": 12.135068070337214
+    },
+    "drive_url": "https://drive.google.com/file/d/1JCSiu0SdReOq48F6RIfza0XOEK58yNnH/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_008.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9378871,
+      "puissance_defense": 10266525,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Thunderbolt",
+      "persos_attaque_detectes": [
+        "DAREDEVIL",
+        "IRON-FIST",
+        "LADY-BULLSEYE",
+        "SWORD-MASTER",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-SLAYER",
+        "JUGGERNAUT-ZOMBIE",
+        "HYPERION",
+        "VICTORIA-HAND",
+        "CAPTAIN-MARVEL"
+      ],
+      "defoff": 1.0946440141889147,
+      "score": 10.946440141889147
+    },
+    "drive_url": "https://drive.google.com/file/d/1XEIw6hO6Z4ngO7SXpAnhXrwfeotvP9py/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_009.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 12055232,
+      "puissance_defense": 10717902,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Annihilator+Skrull (-SilverSurfer)",
+      "persos_attaque_detectes": [
+        "ELSA-BLOODSTONE",
+        "HELLCAT",
+        "LIVING-MUMMY",
+        "DAIMON-HELLSTROM",
+        "STRANGE-HEARTLESS"
+      ],
+      "persos_defense_detectes": [
+        "AZAZEL",
+        "THANOS-ENDGAME",
+        "HIGH-EVOLUTIONARY",
+        "MEPHISTO",
+        "MOON-KNIGHT"
+      ],
+      "defoff": 0.8890664236076087,
+      "score": 8.890664236076088
+    },
+    "drive_url": "https://drive.google.com/file/d/1ynyQLhRwYW4mS3XgYz9YmHISmOafFFln/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_010.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 10731493,
+      "puissance_defense": 9429689,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Starjammer NovaSam (-Havok)",
+      "persos_attaque_detectes": [
+        "WAR-MACHINE",
+        "CAPTAIN-AMERICA-SAM",
+        "PEGGY-CARTER",
+        "FALCON-JOAQUIN",
+        "PATRIOT"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "GWENOM",
+        "PANDAPOOL",
+        "JUGGERNAUT-ZOMBIE",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.8786931138099796,
+      "score": 7.468891467384827
+    },
+    "drive_url": "https://drive.google.com/file/d/1oH2tvMY4JtttlvkmNDBLrcZT-KWavE1P/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_011.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6508732,
+      "puissance_defense": 11101711,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Accursed Azazel (-Mordo)",
+      "persos_attaque_detectes": [
+        "HIGH-EVOLUTIONARY",
+        "SYLVIE",
+        "EXECUTIONER",
+        "THANOS",
+        "MALEKITH"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "HIT-MONKEY",
+        "MOON-KNIGHT",
+        "SIF",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.7056641754492272,
+      "score": 17.056641754492272
+    },
+    "drive_url": "https://drive.google.com/file/d/1fNzFFYcO8Hoi8vKHlG7M3WhyNbhKelgh/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_012.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 7386983,
+      "puissance_defense": 14323363,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Accursed Azazel (-Mordo)",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT",
+        "SCARLET-WITCH-ZOMBIE",
+        "IRON-MAN-ZOMBIE",
+        "LILANDRA",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "DORMAMMU",
+        "MEPHISTO",
+        "SILVER-SURFER-BREAKER",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN"
+      ],
+      "defoff": 1.9390004011109814,
+      "score": 17.451003609998832
+    },
+    "drive_url": "https://drive.google.com/file/d/1gweWhRpEQhHYWUy9LxKG8_PSAnCQgiSx/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_013.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_013.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 11822398,
+      "puissance_defense": 10298092,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Immortal Weapon",
+      "persos_attaque_detectes": [
+        "MISTER-FANTASTIC-MCU",
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "HUMAN-TORCH",
+        "THE-THING"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER",
+        "HIGH-EVOLUTIONARY",
+        "VICTORIA-HAND",
+        "DAREDEVIL",
+        "FRANKLIN-RICHARDS"
+      ],
+      "defoff": 0.87106625914641,
+      "score": 8.7106625914641
+    },
+    "drive_url": "https://drive.google.com/file/d/18QwuFpygR9sywmYjZUkJ3QrdtGMAMW8l/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_014.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_014.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6430968,
+      "puissance_defense": 10516895,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Apocalypse+Ares (-Deadpool -Deathpool)",
+      "equipe_defense": "Uncanny Avenger",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "DAKEN",
+        "PANDAPOOL",
+        "ARES",
+        "APOCALYPSE"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "BLASTAAR",
+        "SIF",
+        "JUGGERNAUT",
+        "CAPTAIN-AMERICA-SAM"
+      ],
+      "defoff": 1.635351785298885,
+      "score": 15.535841960339408
+    },
+    "drive_url": "https://drive.google.com/file/d/1bVltrktwgMWfkZTFRCCk9by9q9f4UDio/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_015.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_015.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 11882554,
+      "puissance_defense": 12098704,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "persos_attaque_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "JUGGERNAUT",
+        "HUMAN-TORCH",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "persos_defense_detectes": [
+        "CARNAGE",
+        "VOID-KNIGHT",
+        "GHOST-SPIDER",
+        "AZAZEL",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.0181905337859185,
+      "score": 8.654619537180308
+    },
+    "drive_url": "https://drive.google.com/file/d/1F4PdZc3EyfDNjMgalWY6gYIZYMUZlWaO/view"
+  },
+  {
+    "filename": "24-06-2026_Armory_attack_combat_016.png",
+    "local_path": "captures/24-06-2026_Armory_attack_combat_016.png",
+    "date": "23-06-2026",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 15017316,
+      "puissance_defense": 18241519,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Daring Warrior",
+      "persos_attaque_detectes": [
+        "SPIDER-MAN-MILES",
+        "MS-MARVEL",
+        "NOVA-SAM-ALEXANDER",
+        "MOON-GIRL",
+        "BRAWN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "SPEEDBALL",
+        "LILANDRA",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.2146990181201487,
+      "score": 12.146990181201486
+    },
+    "drive_url": "https://drive.google.com/file/d/1I-XGrtJ16ilx_xXcU25XxEmiJWkdjH3e/view"
+  },
+  {
+    "filename": "24-06-2026_Bridge_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_Bridge_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 10005269,
+      "puissance_defense": 15619889,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Champion+Havok+Lilandra (-MoonGirl -SpiderManMiles)",
+      "persos_attaque_detectes": [
+        "JUGGERNAUT",
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "HIT-MONKEY",
+        "EMMA-FROST"
+      ],
+      "persos_defense_detectes": [
+        "MS-MARVEL",
+        "BRAWN",
+        "LILANDRA",
+        "HAVOK",
+        "NOVA-SAM-ALEXANDER"
+      ],
+      "defoff": 1.56116632146522,
+      "score": -5.7649206726116935
+    },
+    "drive_url": "https://drive.google.com/file/d/1rn1FJgPHMb_8NV1Tb_m0NnFjCqt4aRxX/view"
+  },
+  {
+    "filename": "24-06-2026_Engineering_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_Engineering_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 14358352,
+      "puissance_defense": 11097719,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "FRANKLIN-RICHARDS",
+        "OMEGA-RED",
+        "URSA-MAJOR",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "HIT-MONKEY",
+        "VICTORIA-HAND",
+        "VICTORIA-HAND",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.7729103590718489,
+      "score": 6.569738052110716
+    },
+    "drive_url": "https://drive.google.com/file/d/1s4Ju-Fq4RPI7DtYuf9bx8qP9f_-Gyr-I/view"
+  },
+  {
+    "filename": "24-06-2026_FD3_attack_combat_001.png",
+    "local_path": "captures/24-06-2026_FD3_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "FD3",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 9322063,
+      "puissance_defense": 2933936,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "persos_attaque_detectes": [
+        "NIGHT-THRASHER",
+        "SPEEDBALL",
+        "ECLIPSE",
+        "DAREDEVIL",
+        "JESSICA-JONES"
+      ],
+      "persos_defense_detectes": [
+        "DAREDEVIL",
+        "AGENT-COULSON",
+        "HIT-MONKEY",
+        "PANDAPOOL",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.31473033383275784,
+      "score": 3.1473033383275784
+    },
+    "drive_url": "https://drive.google.com/file/d/1Cm4sTzlnq2dqUVqpIfEfBDimeJ6z47ON/view"
+  },
+  {
+    "filename": "24-06-2026_FD3_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_FD3_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "FD3",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 6807468,
+      "puissance_defense": 4126485,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Phoenix Force+OldManLogan+Skrull",
+      "equipe_defense": "Spider-Society+VoidKnight (-GhostSpider)",
+      "persos_attaque_detectes": [
+        "SUPER-SKRULL",
+        "QUASAR",
+        "OMEGA-RED-PHOENIX-FORCE",
+        "BLACK-WIDOW",
+        "MAGNETO-PHOENIX-FORCE"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "PHANTOM-RIDER",
+        "MEPHISTO",
+        "HIT-MONKEY",
+        "RACHEL-SUMMERS"
+      ],
+      "defoff": 0.6061703117811204,
+      "score": 6.061703117811204
+    },
+    "drive_url": "https://drive.google.com/file/d/1lKTYRj4q9D5ZzQbjak2dHmvx2TPnlXAB/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_001.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 7697874,
+      "puissance_defense": 3940775,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Hive-Mind",
+      "persos_attaque_detectes": [
+        "LADY-BULLSEYE",
+        "SWORD-MASTER",
+        "STEEL-SERPENT",
+        "IRON-FIST-WW2",
+        "DAREDEVIL"
+      ],
+      "persos_defense_detectes": [
+        "VENOM",
+        "GWENOM",
+        "GWENOM",
+        "VOID-KNIGHT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 0.511930306991255,
+      "score": 5.11930306991255
+    },
+    "drive_url": "https://drive.google.com/file/d/1wLoP9S-tRzxDzoKTF2KUd5LHAqs8iguT/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5723414,
+      "puissance_defense": 5746659,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "MEDUSA",
+        "DEATHPOOL",
+        "ANNIHILUS",
+        "KAHHORI",
+        "MS-MARVEL-CLASSIC"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "EMMA-FROST-XMEN",
+        "LILANDRA",
+        "NEGASONIC"
+      ],
+      "defoff": 1.0040613871371178,
+      "score": 10.040613871371178
+    },
+    "drive_url": "https://drive.google.com/file/d/1I9GECklteUUuubVjxOPM7MnGRsakkADO/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_003.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5832691,
+      "puissance_defense": 6008613,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+Apocalypse+Ares (-Deadpool -Deathpool)",
+      "equipe_defense": "Cabal+Ares+OmegaRedPF",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "APOCALYPSE",
+        "PANDAPOOL",
+        "DAKEN",
+        "ARES"
+      ],
+      "persos_defense_detectes": [
+        "AZAZEL",
+        "HIGH-EVOLUTIONARY",
+        "WAR-MACHINE",
+        "WAR-MACHINE",
+        "OMEGA-RED-PHOENIX-FORCE"
+      ],
+      "defoff": 1.0301613783414894,
+      "score": 10.301613783414894
+    },
+    "drive_url": "https://drive.google.com/file/d/1iVJm5BNen5IWOOvbjCqmiPuKwoNcAC24/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_004.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5772700,
+      "puissance_defense": 5585956,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Alpha Flight",
+      "equipe_defense": "Out Of Time",
+      "persos_attaque_detectes": [
+        "BLASTAAR",
+        "WAR-MACHINE",
+        "SILVER-SURFER",
+        "SASQUATCH",
+        "NORTHSTAR"
+      ],
+      "persos_defense_detectes": [
+        "CAPTAIN-AMERICA",
+        "EMMA-FROST",
+        "COSMIC-GHOST-RIDER",
+        "JUGGERNAUT",
+        "STARBRAND"
+      ],
+      "defoff": 0.967650492836974,
+      "score": -10.334309829866186
+    },
+    "drive_url": "https://drive.google.com/file/d/1p2L9sKtMjqWU4TK2sj8SOfqIDdzK8RY3/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_005.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 8540968,
+      "puissance_defense": 6353143,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Mighty Avenger",
+      "persos_attaque_detectes": [
+        "DAREDEVIL",
+        "NIGHT-THRASHER",
+        "JESSICA-JONES",
+        "SPEEDBALL",
+        "ECLIPSE"
+      ],
+      "persos_defense_detectes": [
+        "EMMA-FROST",
+        "HIGH-EVOLUTIONARY",
+        "SIF",
+        "JUGGERNAUT",
+        "KRAVEN-THE-HUNTER"
+      ],
+      "defoff": 0.7438434378866657,
+      "score": 7.066512659923324
+    },
+    "drive_url": "https://drive.google.com/file/d/1VCYwxJNtltRccq4HEjgwsC4hmerPwkDi/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_006.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 9477237,
+      "puissance_defense": 6598531,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Annihilator",
+      "persos_attaque_detectes": [
+        "WAR-MACHINE",
+        "FALCON-JOAQUIN",
+        "PATRIOT",
+        "PEGGY-CARTER",
+        "CAPTAIN-AMERICA-SAM"
+      ],
+      "persos_defense_detectes": [
+        "APOCALYPSE",
+        "OMEGA-RED",
+        "SILVER-SURFER",
+        "JUGGERNAUT",
+        "MEPHISTO"
+      ],
+      "defoff": 0.6962505000138753,
+      "score": 6.962505000138753
+    },
+    "drive_url": "https://drive.google.com/file/d/1SdNPyXLLIIkqNKFAI7ZXv204J-SVO1IV/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_007.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 16969218,
+      "puissance_defense": 11567296,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Liberty",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "RED-GUARDIAN",
+        "URSA-MAJOR"
+      ],
+      "persos_defense_detectes": [
+        "WAR-MACHINE",
+        "JUGGERNAUT",
+        "EMMA-FROST",
+        "JUGGERNAUT",
+        "CAPTAIN-AMERICA-SAM"
+      ],
+      "defoff": 0.6816634685228277,
+      "score": 6.816634685228276
+    },
+    "drive_url": "https://drive.google.com/file/d/1sclOEYx2s80kFmtDhS1fx7CkSgeLfFEi/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_008.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5278094,
+      "puissance_defense": 10552403,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Thunderbolt",
+      "persos_attaque_detectes": [
+        "KESTREL-ZOMBIE",
+        "HELA",
+        "IRON-MAN-ZOMBIE",
+        "SCARLET-WITCH-ZOMBIE",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER",
+        "SILVER-SABLE",
+        "SPIDER-SLAYER",
+        "VICTORIA-HAND",
+        "AGENT-COULSON"
+      ],
+      "defoff": 1.9992828850717703,
+      "score": 19.992828850717704
+    },
+    "drive_url": "https://drive.google.com/file/d/1JVQ75Zya-GRDhA6GxpCJaf3VLxShAhb7/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_009.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 9057607,
+      "puissance_defense": 8334107,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Annihilator+Mephisto+SSBreaker (-SS -Ultimus)",
+      "equipe_defense": "Starjammer",
+      "persos_attaque_detectes": [
+        "MEPHISTO",
+        "THANOS-ENDGAME",
+        "GORR",
+        "GLADIATOR",
+        "SILVER-SURFER-BREAKER"
+      ],
+      "persos_defense_detectes": [
+        "SIF",
+        "PANDAPOOL",
+        "JUGGERNAUT-ZOMBIE",
+        "DAREDEVIL",
+        "VOID-KNIGHT"
+      ],
+      "defoff": 0.9201223899425091,
+      "score": 9.201223899425091
+    },
+    "drive_url": "https://drive.google.com/file/d/1eKQaMpmYPaLwxg0oE1NROkdZsGLUBLRm/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_010.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 8458807,
+      "puissance_defense": 8969275,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Champion+BlackKnight (-MoonGirl)",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "VICTORIA-HAND",
+        "STRANGE-HEARTLESS",
+        "HELLCAT",
+        "LIVING-MUMMY"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "GWENOM",
+        "MEPHISTO",
+        "ELEKTRA",
+        "JUGGERNAUT-ZOMBIE"
+      ],
+      "defoff": 1.060347517090767,
+      "score": 10.60347517090767
+    },
+    "drive_url": "https://drive.google.com/file/d/1JuUUAQ_JjQPeYVQm2a9q1_ZjLMHuvLjU/view"
+  },
+  {
+    "filename": "24-06-2026_Hangar_attack_combat_012.png",
+    "local_path": "captures/24-06-2026_Hangar_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "Hangar",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 10827409,
+      "puissance_defense": 8078276,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Immortal Weapon",
+      "persos_attaque_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "PROFESSOR-XAVIER",
+        "ODIN",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "persos_defense_detectes": [
+        "SILVER-SURFER",
+        "SWORD-MASTER",
+        "LADY-BULLSEYE",
+        "HANK-PYM",
+        "MOON-KNIGHT"
+      ],
+      "defoff": 0.7460950260584042,
+      "score": 7.460950260584042
+    },
+    "drive_url": "https://drive.google.com/file/d/1P4dxahVnqozvZN0AbFFPVTdNnaIWkKHz/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_001.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_001.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7294298,
+      "puissance_defense": 12782225,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Winter Guard",
+      "persos_attaque_detectes": [
+        "EXECUTIONER",
+        "THANOS",
+        "SYLVIE",
+        "HIGH-EVOLUTIONARY",
+        "MALEKITH"
+      ],
+      "persos_defense_detectes": [
+        "OMEGA-RED",
+        "SILVER-SABLE",
+        "MS-MARVEL-CLASSIC",
+        "JUGGERNAUT",
+        "PANDAPOOL"
+      ],
+      "defoff": 1.7523584860393693,
+      "score": 17.523584860393694
+    },
+    "drive_url": "https://drive.google.com/file/d/1Rp0AMresFSf9DJK2Txlst7SLXIzj-kNj/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_002.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_002.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 11245642,
+      "puissance_defense": 12562225,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "F3+Torch+EmmaFrost",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "persos_attaque_detectes": [
+        "HUMAN-TORCH",
+        "INVISIBLE-WOMAN-MCU",
+        "EMMA-FROST",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU"
+      ],
+      "persos_defense_detectes": [
+        "SPIDER-MAN",
+        "GHOST-SPIDER",
+        "DAREDEVIL",
+        "JUGGERNAUT",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.1170749522348302,
+      "score": 10.612212046230887
+    },
+    "drive_url": "https://drive.google.com/file/d/14CdJoy2_QqETsyJkw2IHnU8gobru47Uj/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_003.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_003.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 10557954,
+      "puissance_defense": 9348624,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Quasar+Odin+Sentry+SSBreaker+StormMighty",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "persos_attaque_detectes": [
+        "SENTRY",
+        "QUASAR",
+        "ODIN",
+        "SILVER-SURFER-BREAKER",
+        "STORM-MIGHTY"
+      ],
+      "persos_defense_detectes": [
+        "VOID-KNIGHT",
+        "GWENOM",
+        "GWENOM",
+        "CARNAGE",
+        "WAR-MACHINE"
+      ],
+      "defoff": 0.8854579211085785,
+      "score": 8.854579211085785
+    },
+    "drive_url": "https://drive.google.com/file/d/1amKTbSCvv4oRKOinAiApKJnD-ZDLzneG/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_004.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_004.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 10270853,
+      "puissance_defense": 8526052,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "SILVER-SABLE",
+        "HIT-MONKEY",
+        "PUNISHER",
+        "ELEKTRA",
+        "DAREDEVIL-MODERN"
+      ],
+      "persos_defense_detectes": [
+        "MEPHISTO",
+        "GHOST-SPIDER",
+        "JUGGERNAUT",
+        "SILVER-SABLE",
+        "LILANDRA"
+      ],
+      "defoff": 0.830121120417165,
+      "score": 8.30121120417165
+    },
+    "drive_url": "https://drive.google.com/file/d/1ITWZtitQiZty0ag9BfVT4WCMFBJiZ36F/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_005.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_005.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 2778591,
+      "puissance_defense": 4769787,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Knowhere",
+      "equipe_defense": "Infestation",
+      "persos_attaque_detectes": [
+        "DAREDEVIL",
+        "THOR-INFINITY-WAR",
+        "KORG",
+        "ANNIHILUS",
+        "COSMO"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "GHOST-SPIDER",
+        "JUGGERNAUT",
+        "EMMA-FROST",
+        "JUGGERNAUT"
+      ],
+      "defoff": 1.716620762105686,
+      "score": 15.449586858951173
+    },
+    "drive_url": "https://drive.google.com/file/d/1zNNJsj_KvCjArpMAQuJTrJ929e4mc3-K/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_006.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_006.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 9713425,
+      "puissance_defense": 12411242,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Starjammer",
+      "persos_attaque_detectes": [
+        "CAPTAIN-AMERICA-SAM",
+        "FALCON-JOAQUIN",
+        "WAR-MACHINE",
+        "PATRIOT",
+        "PEGGY-CARTER"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "PANDAPOOL",
+        "SIF",
+        "JUGGERNAUT",
+        "SUNFIRE"
+      ],
+      "defoff": 1.2777410645575582,
+      "score": 12.777410645575582
+    },
+    "drive_url": "https://drive.google.com/file/d/1ykjunUm0tHbk5nSySsuKoK7d1yreasmv/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_007.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_007.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 14740594,
+      "puissance_defense": 11014556,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Torch",
+      "equipe_defense": "Phoenix Force+Daimon+Nightcrawler",
+      "persos_attaque_detectes": [
+        "INVISIBLE-WOMAN-MCU",
+        "FRANKLIN-RICHARDS",
+        "MISTER-FANTASTIC-MCU",
+        "PROFESSOR-XAVIER",
+        "HUMAN-TORCH"
+      ],
+      "persos_defense_detectes": [
+        "GHOST-SPIDER",
+        "MEPHISTO",
+        "MEPHISTO",
+        "LILANDRA",
+        "HIT-MONKEY"
+      ],
+      "defoff": 0.7472260615820502,
+      "score": 7.472260615820502
+    },
+    "drive_url": "https://drive.google.com/file/d/1XqS5rZGKTE3atxE8LGldd1wf5eB2D4Ll/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_008.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_008.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 18416402,
+      "puissance_defense": 15362963,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "persos_attaque_detectes": [
+        "OMEGA-RED",
+        "URSA-MAJOR",
+        "YELENA-BELOVA",
+        "DARKSTAR",
+        "JUGGERNAUT"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT-ZOMBIE",
+        "SIF",
+        "JUGGERNAUT",
+        "SILVER-SURFER-BREAKER",
+        "LILANDRA"
+      ],
+      "defoff": 0.8342000245216193,
+      "score": 7.507800220694574
+    },
+    "drive_url": "https://drive.google.com/file/d/14k2HkybniBuzcM3j5jm_p034gZ8exyCu/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_009.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_009.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 9833822,
+      "puissance_defense": 8456567,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Astral+Quasar (-Moondragon)",
+      "equipe_defense": "Astral",
+      "persos_attaque_detectes": [
+        "QUASAR",
+        "DOCTOR-STRANGE",
+        "SHADOW-KING",
+        "YELENA-BELOVA",
+        "EMMA-FROST-XMEN"
+      ],
+      "persos_defense_detectes": [
+        "JUGGERNAUT",
+        "LILANDRA",
+        "SILVER-SABLE",
+        "MEPHISTO",
+        "INVISIBLE-WOMAN-MCU"
+      ],
+      "defoff": 0.8599471294070606,
+      "score": 8.599471294070607
+    },
+    "drive_url": "https://drive.google.com/file/d/1cmzf4HseBAoP8ZLqwRAx24DkHnBDgX3B/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_010.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_010.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 7826492,
+      "puissance_defense": 4963405,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Out Of Time",
+      "persos_attaque_detectes": [
+        "AZAZEL",
+        "EMMA-FROST",
+        "MADELYNE-PRYOR",
+        "SEBASTIAN-SHAW",
+        "SIF"
+      ],
+      "persos_defense_detectes": [
+        "HIGH-EVOLUTIONARY",
+        "HIT-MONKEY",
+        "LILANDRA",
+        "JUGGERNAUT",
+        "MEPHISTO"
+      ],
+      "defoff": 0.6341800387708822,
+      "score": 5.073440310167058
+    },
+    "drive_url": "https://drive.google.com/file/d/1Zqrf7bftSBvrZH8H3wL5UxbL843Kkkk6/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_011.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_011.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 4532594,
+      "puissance_defense": 9187686,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Odin+BetaRayBill+Thor+ThorInfinityWar+Vahl",
+      "equipe_defense": "Liberty",
+      "persos_attaque_detectes": [
+        "ODIN",
+        "SIF",
+        "THOR-INFINITY-WAR",
+        "OMEGA-RED",
+        "PANDAPOOL"
+      ],
+      "persos_defense_detectes": [
+        "CAPTAIN-AMERICA-SAM",
+        "JUGGERNAUT",
+        "WAR-MACHINE",
+        "MADELYNE-PRYOR",
+        "JUGGERNAUT"
+      ],
+      "defoff": 2.0270260252738277,
+      "score": 12.162156151642966
+    },
+    "drive_url": "https://drive.google.com/file/d/1215Nb0upr4dJL0DTGZNalJ-EGPkz9l99/view"
+  },
+  {
+    "filename": "24-06-2026_Security_attack_combat_012.png",
+    "local_path": "captures/24-06-2026_Security_attack_combat_012.png",
+    "date": "23-06-2026",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 10700628,
+      "puissance_defense": 10063001,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Annihilator+Mephisto (-SS)",
+      "persos_attaque_detectes": [
+        "DAIMON-HELLSTROM",
+        "VICTORIA-HAND",
+        "HELLCAT",
+        "LIVING-MUMMY",
+        "KRAVEN-THE-HUNTER"
+      ],
+      "persos_defense_detectes": [
+        "HIT-MONKEY",
+        "MEPHISTO",
+        "JUGGERNAUT",
+        "OMEGA-RED",
+        "MEPHISTO"
+      ],
+      "defoff": 0.9404121888920912,
+      "score": 9.404121888920912
+    },
+    "drive_url": "https://drive.google.com/file/d/1DR9ol84BZAMLyZeso8Zf1CYdsH2zbDxV/view"
+  },
+  {
     "filename": "23-06-2026_Bridge_defense_combat_001.png",
     "local_path": "captures/23-06-2026_Bridge_defense_combat_001.png",
     "date": "2026-06-23",
