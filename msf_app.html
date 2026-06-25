@@ -457,18 +457,18 @@
     <div>
       <div class="field-label">Filters</div>
       <div class="filter-group">
-        <select id="filter-result" onchange="s()">
+        <select id="filter-result" onchange="applyFilters()">
           <option value="">All results</option>
           <option value="Win">Wins only</option>
           <option value="Fail">Losses only</option>
         </select>
-        <select id="filter-room" onchange="s()">
+        <select id="filter-room" onchange="applyFilters()">
           <option value="">All rooms</option>
         </select>
-        <select id="filter-date" onchange="s()">
+        <select id="filter-date" onchange="applyFilters()">
           <option value="">All wars</option>
         </select>
-        <select id="filter-attacker" onchange="s()">
+        <select id="filter-attacker" onchange="applyFilters()">
           <option value="">All attackers</option>
         </select>
       </div>
