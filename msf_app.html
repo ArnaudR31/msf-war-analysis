@@ -544,8 +544,9 @@ let currentView = 'grouped';
 let groupSortKey = 'avgScore';
 let groupSortAsc = false;
 let expandedGroups = new Set();
+let currentRows = []; // Déclaré en haut pour éviter toute erreur de référence
 
-// ── URL du resultats.json hébergé (à configurer) ──
+// ── URL du resultats.json hébergé ──
 const REMOTE_DATA_URL = "https://raw.githubusercontent.com/ArnaudR31/msf-war-analysis/main/resultats.json";
 
 // ── Chargement automatique au démarrage ──
@@ -558,6 +559,7 @@ async function autoLoadData() {
     document.getElementById('data-status').textContent = `${allData.length} battles loaded (auto)`;
     buildTeamList();
     buildFilters();
+    applyFilters(); // Déclenche l'affichage initial immédiat ("All teams")
   } catch (err) {
     console.warn('Chargement automatique impossible :', err.message);
     document.getElementById('load-status').textContent =
@@ -567,7 +569,7 @@ async function autoLoadData() {
 }
 autoLoadData();
 
-// ── Chargement fichier ──
+// ── Chargement manuel par fichier ──
 function loadFile(input) {
   const file = input.files[0];
   if (!file) return;
@@ -579,6 +581,7 @@ function loadFile(input) {
       document.getElementById('data-status').textContent = `${allData.length} battles loaded`;
       buildTeamList();
       buildFilters();
+      applyFilters(); // Déclenche l'affichage immédiat
     } catch(err) {
       alert('Error reading JSON: ' + err.message);
     }
@@ -588,10 +591,10 @@ function loadFile(input) {
 
 // ── Liste des équipes disponibles ──
 function buildTeamList() {
+  const field = currentMode === 'defense' ? 'equipe_defense' : 'equipe_offense';
   const set = new Set();
   allData.forEach(r => {
-    if (r.data['equipe_defense']) set.add(r.data['equipe_defense']);
-    if (r.data['equipe_offense']) set.add(r.data['equipe_offense']);
+    if (r.data[field]) set.add(r.data[field]);
   });
   teams = Array.from(set).sort();
 }
@@ -602,12 +605,15 @@ function buildFilters() {
   const attackers = [...new Set(allData.map(r => r.data.attaquant).filter(Boolean))].sort();
 
   const rSel = document.getElementById('filter-room');
+  rSel.innerHTML = '<option value="">All rooms</option>';
   rooms.forEach(r => { const o = document.createElement('option'); o.value = r; o.textContent = r; rSel.appendChild(o); });
 
   const dSel = document.getElementById('filter-date');
+  dSel.innerHTML = '<option value="">All wars</option>';
   dates.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d; dSel.appendChild(o); });
 
   const aSel = document.getElementById('filter-attacker');
+  aSel.innerHTML = '<option value="">All attackers</option>';
   attackers.forEach(a => { const o = document.createElement('option'); o.value = a; o.textContent = a; aSel.appendChild(o); });
 }
 
@@ -619,24 +625,18 @@ function setMode(mode) {
   document.getElementById('scope-section').style.display = 'none';
   document.getElementById('btn-defense').classList.toggle('active', mode === 'defense');
   document.getElementById('btn-offense').classList.toggle('active', mode === 'offense');
-  updateTeamsForMode();
-}
-
-function updateTeamsForMode() {
-  const field = currentMode === 'defense' ? 'equipe_defense' : 'equipe_offense';
-  const set = new Set();
-  allData.forEach(r => { if (r.data[field]) set.add(r.data[field]); });
-  teams = Array.from(set).sort();
+  buildTeamList(); // Recalcule la liste des équipes disponibles pour ce mode
+  applyFilters(); // Met à jour l'affichage immédiatement
 }
 
 // ── Autocomplétion ──
 function onTeamSearch() {
   const q = document.getElementById('team-search').value.trim().toLowerCase();
   if (!q) { 
-    selectedTeam = ''; // On remet à zéro l'équipe sélectionnée
-    document.getElementById('scope-section').style.display = 'none'; // On cache le périmètre
+    selectedTeam = '';
+    document.getElementById('scope-section').style.display = 'none';
     hideDropdown(); 
-    s(); // AJOUT ICI : recalcule immédiatement avec "All teams"
+    applyFilters();
     return; 
   }
   const matches = teams.filter(t => t.toLowerCase().includes(q)).slice(0, 15);
@@ -655,7 +655,6 @@ function selectTeam(name) {
   document.getElementById('team-search').value = name;
   hideDropdown();
 
-  // Afficher le sélecteur de périmètre
   const base = getBase(name);
   const hasVariants = teams.some(t => t !== name && getBase(t) === base);
   document.getElementById('scope-section').style.display = hasVariants ? 'block' : 'none';
@@ -664,8 +663,7 @@ function selectTeam(name) {
   currentScope = 'exact';
   updateScopeLabels();
 
-  // filtre automatiquement dès qu'on clique sur une équipe
-  s();
+  applyFilters();
 }
 
 function hideDropdown() {
@@ -679,8 +677,7 @@ function getBase(name) {
 function updateScope(radio) {
   currentScope = radio.value;
   updateScopeLabels();
-  // filtre si on change le périmètre de l'équipe
-  s();
+  applyFilters();
 }
 
 function updateScopeLabels() {
@@ -701,7 +698,6 @@ function getMatchingTeams() {
 }
 
 function applyFilters() {
-  // On vide les groupes développés à chaque nouvelle analyse
   expandedGroups.clear();
 
   const matchTeams = getMatchingTeams();
@@ -716,14 +712,10 @@ function applyFilters() {
   const counterField = currentMode === 'defense' ? atkField : defField;
 
   let rows = allData.filter(r => {
-    // Changement ici : On applique le filtre d'équipe uniquement si une équipe est sélectionnée.
-    // Si le champ est vide (supprimé), on laisse tout passer ("All teams").
     if (selectedTeam) {
       const team = r.data[teamField] || '';
       if (!matchTeams.includes(team)) return false;
     }
-    
-    // Tes autres filtres (Résultat, Salle, Date, Attaquant) s'appliquent par-dessus naturellement
     if (filterResult   && r.data.statut    !== filterResult)   return false;
     if (filterRoom     && r.room            !== filterRoom)     return false;
     if (filterDate     && r.date            !== filterDate)     return false;
@@ -731,7 +723,6 @@ function applyFilters() {
     return true;
   });
 
-  // Calcul du punch, defoff et score (identique à ton code d'origine)
   rows = rows.map(r => {
     const d = {...r, data: {...r.data}};
     const atk = parseFloat(d.data.puissance_attaque) || 0;
@@ -746,7 +737,7 @@ function applyFilters() {
     return d;
   });
 
-  // Mise à jour de l'affichage et des statistiques
+  currentRows = rows; // Stockage indispensable pour les tris et changements de vue
   renderStats(rows);
   renderTable(rows);
   renderGrouped(rows);
@@ -768,17 +759,13 @@ function sortGroupBy(key) {
 }
 
 function renderGrouped(rows) {
-  // Grouper par équipe counter
   const groups = {};
   rows.forEach(r => {
     const counter = r.data.counter || '—';
-    if (!groups[counter]) {
-      groups[counter] = { counter, items: [] };
-    }
+    if (!groups[counter]) groups[counter] = { counter, items: [] };
     groups[counter].items.push(r);
   });
 
-  // Calculer les agrégats
   const groupList = Object.values(groups).map(g => {
     const items = g.items;
     const wins = items.filter(r => r.data.statut === 'Win').length;
@@ -799,7 +786,6 @@ function renderGrouped(rows) {
     };
   });
 
-  // Tri
   groupList.sort((a, b) => {
     let va = a[groupSortKey], vb = b[groupSortKey];
     if (typeof va === 'string') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
@@ -833,10 +819,10 @@ function renderGrouped(rows) {
 
     if (isExpanded) {
       const detailRows = [...g.items].sort((a, b) => {
-      const sa = parseFloat(a.data.score) || 0;
-      const sb = parseFloat(b.data.score) || 0;
-      return sb - sa;
-    }).map(r => {
+        const sa = parseFloat(a.data.score) || 0;
+        const sb = parseFloat(b.data.score) || 0;
+        return sb - sa;
+      }).map(r => {
         const d = r.data;
         const statut = d.statut || '?';
         const badge = `<span class="badge ${statut.toLowerCase()}">${statut}</span>`;
@@ -902,10 +888,7 @@ function renderStats(rows) {
 }
 
 // ── Tableau ──
-let currentRows = [];
-
 function renderTable(rows) {
-  currentRows = rows;
   sortAndRender();
 }
 
@@ -934,14 +917,10 @@ function sortAndRender() {
     const badge = `<span class="badge ${statut.toLowerCase()}">${statut}</span>`;
     const score  = d.score  != null ? parseFloat(d.score).toFixed(2)  : '—';
     const scoreClass = parseFloat(score) > 0 ? 'score-pos' : parseFloat(score) < 0 ? 'score-neg' : '';
-    const imgLink = r.drive_url
-      ? `<a class="img-link" href="${r.drive_url}" target="_blank">View ↗</a>`
-      : '—';
+    const imgLink = r.drive_url ? `<a class="img-link" href="${r.drive_url}" target="_blank">View ↗</a>` : '—';
     const atkM = d.puissance_attaque ? (d.puissance_attaque/1e6).toFixed(2)+'M' : '—';
     const defM = d.puissance_defense ? (d.puissance_defense/1e6).toFixed(2)+'M' : '—';
-    const punchVal = (d.puissance_defense && d.puissance_attaque)
-      ? ((d.puissance_defense - d.puissance_attaque) / 1e6).toFixed(2)
-      : null;
+    const punchVal = (d.puissance_defense && d.puissance_attaque) ? ((d.puissance_defense - d.puissance_attaque) / 1e6).toFixed(2) : null;
     const punchClass = punchVal > 0 ? 'punch-up' : punchVal < 0 ? 'punch-down' : '';
     const punchDisplay = punchVal !== null ? (punchVal > 0 ? '+' : '') + punchVal + 'M' : '—';
     return `<tr>
