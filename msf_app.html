@@ -786,7 +786,19 @@ function renderGrouped(rows) {
     };
   });
 
+  // ── Système de tri amélioré ──
   groupList.sort((a, b) => {
+    // Si on trie par Win Rate, on applique la règle spécifique avec départage par les victoires
+    if (groupSortKey === 'winrate') {
+      if (a.winrate !== b.winrate) {
+        return groupSortAsc ? (a.winrate - b.winrate) : (b.winrate - a.winrate);
+      }
+      // En cas d'égalité stricte du winrate, on départage par le nombre total de victoires ("wins")
+      // L'ordre suit logiquement la direction demandée (croissant ou décroissant)
+      return groupSortAsc ? (a.wins - b.wins) : (b.wins - a.wins);
+    }
+
+    // Comportement standard pour toutes les autres colonnes
     let va = a[groupSortKey], vb = b[groupSortKey];
     if (typeof va === 'string') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
     if (va < vb) return groupSortAsc ? -1 : 1;
