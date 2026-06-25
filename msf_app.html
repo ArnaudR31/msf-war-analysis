@@ -457,24 +457,22 @@
     <div>
       <div class="field-label">Filters</div>
       <div class="filter-group">
-        <select id="filter-result">
+        <select id="filter-result" onchange="applyFilters()">
           <option value="">All results</option>
           <option value="Win">Wins only</option>
           <option value="Fail">Losses only</option>
         </select>
-        <select id="filter-room">
+        <select id="filter-room" onchange="applyFilters()">
           <option value="">All rooms</option>
         </select>
-        <select id="filter-date">
+        <select id="filter-date" onchange="applyFilters()">
           <option value="">All wars</option>
         </select>
-        <select id="filter-attacker">
+        <select id="filter-attacker" onchange="applyFilters()">
           <option value="">All attackers</option>
         </select>
       </div>
     </div>
-
-    <button id="apply-btn" onclick="applyFilters()">Analyze</button>
 
   </aside>
 
@@ -634,7 +632,13 @@ function updateTeamsForMode() {
 // ── Autocomplétion ──
 function onTeamSearch() {
   const q = document.getElementById('team-search').value.trim().toLowerCase();
-  if (!q) { hideDropdown(); return; }
+  if (!q) { 
+    selectedTeam = ''; // On remet à zéro l'équipe sélectionnée
+    document.getElementById('scope-section').style.display = 'none'; // On cache le périmètre
+    hideDropdown(); 
+    applyFilters(); // AJOUT ICI : recalcule immédiatement avec "All teams"
+    return; 
+  }
   const matches = teams.filter(t => t.toLowerCase().includes(q)).slice(0, 15);
   const dd = document.getElementById('team-dropdown');
   if (!matches.length) { hideDropdown(); return; }
@@ -659,6 +663,9 @@ function selectTeam(name) {
   document.querySelector('input[name=scope][value=exact]').checked = true;
   currentScope = 'exact';
   updateScopeLabels();
+
+  // filtre automatiquement dès qu'on clique sur une équipe
+  applyFilters();
 }
 
 function hideDropdown() {
@@ -672,6 +679,8 @@ function getBase(name) {
 function updateScope(radio) {
   currentScope = radio.value;
   updateScopeLabels();
+  // filtre si on change le périmètre de l'équipe
+  applyFilters();
 }
 
 function updateScopeLabels() {
