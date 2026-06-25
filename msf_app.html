@@ -457,18 +457,18 @@
     <div>
       <div class="field-label">Filters</div>
       <div class="filter-group">
-        <select id="filter-result" onchange="applyFilters()">
+        <select id="filter-result" onchange="s()">
           <option value="">All results</option>
           <option value="Win">Wins only</option>
           <option value="Fail">Losses only</option>
         </select>
-        <select id="filter-room" onchange="applyFilters()">
+        <select id="filter-room" onchange="s()">
           <option value="">All rooms</option>
         </select>
-        <select id="filter-date" onchange="applyFilters()">
+        <select id="filter-date" onchange="s()">
           <option value="">All wars</option>
         </select>
-        <select id="filter-attacker" onchange="applyFilters()">
+        <select id="filter-attacker" onchange="s()">
           <option value="">All attackers</option>
         </select>
       </div>
@@ -636,7 +636,7 @@ function onTeamSearch() {
     selectedTeam = ''; // On remet à zéro l'équipe sélectionnée
     document.getElementById('scope-section').style.display = 'none'; // On cache le périmètre
     hideDropdown(); 
-    applyFilters(); // AJOUT ICI : recalcule immédiatement avec "All teams"
+    s(); // AJOUT ICI : recalcule immédiatement avec "All teams"
     return; 
   }
   const matches = teams.filter(t => t.toLowerCase().includes(q)).slice(0, 15);
@@ -665,7 +665,7 @@ function selectTeam(name) {
   updateScopeLabels();
 
   // filtre automatiquement dès qu'on clique sur une équipe
-  applyFilters();
+  s();
 }
 
 function hideDropdown() {
@@ -680,7 +680,7 @@ function updateScope(radio) {
   currentScope = radio.value;
   updateScopeLabels();
   // filtre si on change le périmètre de l'équipe
-  applyFilters();
+  s();
 }
 
 function updateScopeLabels() {
@@ -701,7 +701,7 @@ function getMatchingTeams() {
 }
 
 function applyFilters() {
-  if (!selectedTeam) { alert('Select a team.'); return; }
+  // On vide les groupes développés à chaque nouvelle analyse
   expandedGroups.clear();
 
   const matchTeams = getMatchingTeams();
@@ -709,14 +709,21 @@ function applyFilters() {
   const filterRoom     = document.getElementById('filter-room').value;
   const filterDate     = document.getElementById('filter-date').value;
   const filterAttacker = document.getElementById('filter-attacker').value;
+  
   const defField = 'equipe_defense';
   const atkField = 'equipe_offense';
   const teamField = currentMode === 'defense' ? defField : atkField;
   const counterField = currentMode === 'defense' ? atkField : defField;
 
   let rows = allData.filter(r => {
-    const team = r.data[teamField] || '';
-    if (!matchTeams.includes(team)) return false;
+    // Changement ici : On applique le filtre d'équipe uniquement si une équipe est sélectionnée.
+    // Si le champ est vide (supprimé), on laisse tout passer ("All teams").
+    if (selectedTeam) {
+      const team = r.data[teamField] || '';
+      if (!matchTeams.includes(team)) return false;
+    }
+    
+    // Tes autres filtres (Résultat, Salle, Date, Attaquant) s'appliquent par-dessus naturellement
     if (filterResult   && r.data.statut    !== filterResult)   return false;
     if (filterRoom     && r.room            !== filterRoom)     return false;
     if (filterDate     && r.date            !== filterDate)     return false;
@@ -724,7 +731,7 @@ function applyFilters() {
     return true;
   });
 
-  // Calcul defoff et score si absent
+  // Calcul du punch, defoff et score (identique à ton code d'origine)
   rows = rows.map(r => {
     const d = {...r, data: {...r.data}};
     const atk = parseFloat(d.data.puissance_attaque) || 0;
@@ -739,6 +746,7 @@ function applyFilters() {
     return d;
   });
 
+  // Mise à jour de l'affichage et des statistiques
   renderStats(rows);
   renderTable(rows);
   renderGrouped(rows);
