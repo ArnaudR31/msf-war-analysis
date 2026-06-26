@@ -1,5 +1,366 @@
 [
   {
+    "filename": "2026-06-25_CargoBay_defense_combat_001.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_001.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 10851534,
+      "puissance_defense": 13138489,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Champion",
+      "defoff": 1.2107494663888074,
+      "score": 12.107494663888074
+    },
+    "drive_url": "https://drive.google.com/file/d/1FLz2huiaAiCY0slDEMlLEYuPaX4zhh4R/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_002.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_002.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 8310845,
+      "puissance_defense": 11912312,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.4333454660747493,
+      "score": -4.186011078286063
+    },
+    "drive_url": "https://drive.google.com/file/d/140fDBQj9GNHPC4Rfgro7EnTH6Q7wEnAu/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_003.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_003.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 16495025,
+      "puissance_defense": 11404737,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.6914046507962249,
+      "score": 6.568344182564137
+    },
+    "drive_url": "https://drive.google.com/file/d/10-DlrrCgFqWa_h_y4VVzkt8xspInpWq1/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_005.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_005.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11869769,
+      "puissance_defense": 11003400,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.927010458249019,
+      "score": -8.629891851609502
+    },
+    "drive_url": "https://drive.google.com/file/d/1HyjmB234LavF4pjFKrKw8ISK3-tS0E8q/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_007.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_007.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 8673485,
+      "puissance_defense": 8462793,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9.5,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.975708495489414,
+      "score": -9.73651458803258
+    },
+    "drive_url": "https://drive.google.com/file/d/1z_XEMffcI0M9tCkhsIyHeW9AM0zcADqM/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_009.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_009.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6667954,
+      "puissance_defense": 9343548,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Accursed",
+      "defoff": 1.4012616163818767,
+      "score": 14.012616163818768
+    },
+    "drive_url": "https://drive.google.com/file/d/1tRg8UjBQMs6KXipVoI-MuUmDo3M_3sMc/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_010.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_010.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 4425618,
+      "puissance_defense": 8334842,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9,
+      "equipe_offense": "Illuminati IronMan (-MrFantastic)",
+      "equipe_defense": "Nightstalker",
+      "defoff": 1.88331708701474,
+      "score": -4.7788022856342085
+    },
+    "drive_url": "https://drive.google.com/file/d/1L1cnXgSrVMGBXMBghk09blWnqiv6mvz0/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_012.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_012.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7396061,
+      "puissance_defense": 10452056,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.4131922384090667,
+      "score": -5.660942497820525
+    },
+    "drive_url": "https://drive.google.com/file/d/1sFwvnzFCahwq8rMG9RBhSoviKWnWPt2x/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_014.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_014.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 10488593,
+      "puissance_defense": 9406796,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8968596645899026,
+      "score": 8.520166813604074
+    },
+    "drive_url": "https://drive.google.com/file/d/1S1bxFRGib4HnWFp7oNPIgt44-A5xCtTs/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_015.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_015.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5370226,
+      "puissance_defense": 6099821,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Infestation",
+      "defoff": 1.1358592729616965,
+      "score": 11.358592729616966
+    },
+    "drive_url": "https://drive.google.com/file/d/1z1ULx1d0GX7Kd5lVywiJc1azNggZKEoK/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_016.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_016.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9097382,
+      "puissance_defense": 10956729,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.2043826454687734,
+      "score": 12.043826454687734
+    },
+    "drive_url": "https://drive.google.com/file/d/1VBivINjQIRytB_NH1Gqk9usI6fig5OgR/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_017.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_017.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11592232,
+      "puissance_defense": 9642550,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.8318113371091952,
+      "score": 8.318113371091952
+    },
+    "drive_url": "https://drive.google.com/file/d/1ux8-aC5GgE2v3_RSRRfuQ3FOtLfEw-Km/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_018.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_018.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9006416,
+      "puissance_defense": 9429094,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Omen",
+      "defoff": 1.0469307658007359,
+      "score": 10.46930765800736
+    },
+    "drive_url": "https://drive.google.com/file/d/1ywJ4Sn4j60G677yaNqSa1G0hypSfCHuD/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_019.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_019.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5681450,
+      "puissance_defense": 9093645,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.6005852379234173,
+      "score": 16.005852379234174
+    },
+    "drive_url": "https://drive.google.com/file/d/1YAMPM6xsQoTGN7mK1StTQhYl3Pf5DFEy/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_020.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_020.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11394564,
+      "puissance_defense": 14809443,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "F3+X+Thing",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.2996936960466412,
+      "score": 11.697243264419772
+    },
+    "drive_url": "https://drive.google.com/file/d/1tI3uZxZSGT5_vjQs0EYGxCb95fblDWM6/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_021.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_021.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6411337,
+      "puissance_defense": 10546318,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Vigilante",
+      "defoff": 1.6449483157725135,
+      "score": 16.449483157725137
+    },
+    "drive_url": "https://drive.google.com/file/d/1iU7cu7TnNJ1MNvxuFmbARkBo2erTgMVU/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_022.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_022.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7966511,
+      "puissance_defense": 9108748,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker+Mephisto (-MoonKnight)",
+      "equipe_defense": "Accursed",
+      "defoff": 1.1433798308946037,
+      "score": 11.433798308946038
+    },
+    "drive_url": "https://drive.google.com/file/d/13Ebv48fQcPMGL321fTSB5bT2rpZlxNG0/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_023.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_023.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9355014,
+      "puissance_defense": 9908671,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "defoff": 1.059182915172548,
+      "score": 10.59182915172548
+    },
+    "drive_url": "https://drive.google.com/file/d/1WQZZmEXfaZ-fIIZfn97fRGy4vbxhWcx9/view"
+  },
+  {
+    "filename": "2026-06-25_CargoBay_defense_combat_024.png",
+    "local_path": "captures/2026-06-25_CargoBay_defense_combat_024.png",
+    "date": "2026-06-25",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 16058189,
+      "puissance_defense": 14655502,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.9126497390210067,
+      "score": 9.126497390210066
+    },
+    "drive_url": "https://drive.google.com/file/d/1oNkQizkgGuk_i-POuoMYDM_zau6fhDHj/view"
+  },
+  {
     "filename": "2026-06-25_Bridge_defense_combat_001.png",
     "local_path": "captures/2026-06-25_Bridge_defense_combat_001.png",
     "date": "2026-06-25",
