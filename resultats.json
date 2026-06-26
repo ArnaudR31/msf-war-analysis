@@ -1,5 +1,100 @@
 [
   {
+    "filename": "2026-06-25_Engineering_defense_combat_001.png",
+    "local_path": "captures/2026-06-25_Engineering_defense_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 10596964,
+      "puissance_defense": 8347488,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.7877244841069574,
+      "score": 7.877244841069574
+    },
+    "drive_url": "https://drive.google.com/file/d/1PPW_etiPM71Olx4S40lNWnBBejRbdDin/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_defense_combat_002.png",
+    "local_path": "captures/2026-06-25_Engineering_defense_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6423736,
+      "puissance_defense": 7275369,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Illuminati+Odin (-MrFantastic -IronMan)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.1325759651392897,
+      "score": -8.829429819985762
+    },
+    "drive_url": "https://drive.google.com/file/d/1hZzzKfzi3Zv6_P64R1kmews_6RnCt8tg/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_defense_combat_003.png",
+    "local_path": "captures/2026-06-25_Engineering_defense_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11715738,
+      "puissance_defense": 7275368,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Blastaar+Knull+Odin+OldManLogan+Thunderstrike",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.6209910122606019,
+      "score": -16.103292644440803
+    },
+    "drive_url": "https://drive.google.com/file/d/15UsMywVWxv9wR7N4WCHmIz227lI9WFhs/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_defense_combat_005.png",
+    "local_path": "captures/2026-06-25_Engineering_defense_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 4929178,
+      "puissance_defense": 6620332,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.343090470662654,
+      "score": 13.43090470662654
+    },
+    "drive_url": "https://drive.google.com/file/d/19baQocnLJuTzrZyRyDqJAdCdCXRSGZCo/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_defense_combat_006.png",
+    "local_path": "captures/2026-06-25_Engineering_defense_combat_006.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 10171270,
+      "puissance_defense": 10599907,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.0421419350779204,
+      "score": -9.595621923852729
+    },
+    "drive_url": "https://drive.google.com/file/d/1-ikOEtN7F3JFmyOi0I7OHmEpxRaedfyj/view"
+  },
+  {
     "filename": "2026-06-25_CargoBay_defense_combat_001.png",
     "local_path": "captures/2026-06-25_CargoBay_defense_combat_001.png",
     "date": "2026-06-25",
