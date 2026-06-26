@@ -1,5 +1,176 @@
 [
   {
+    "filename": "2026-06-25_Bridge_defense_combat_001.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 16495025,
+      "puissance_defense": 16062855,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.9737999790846028,
+      "score": -10.269049306614546
+    },
+    "drive_url": "https://drive.google.com/file/d/14Vwo5IX0cXQEp-vmb_ugXx1U_rnoT7Xb/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_002.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5021272,
+      "puissance_defense": 10180687,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Starjammer",
+      "defoff": 2.0275115548410843,
+      "score": 20.27511554841084
+    },
+    "drive_url": "https://drive.google.com/file/d/12ZonKpcTTcYhdYLHlZvrfyHYE1kabh0p/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_003.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6657167,
+      "puissance_defense": 16062855,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Odin+Thunderstrike+BetaRayBill+Vahl+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 2.4128664640679736,
+      "score": -4.144448169394544
+    },
+    "drive_url": "https://drive.google.com/file/d/1_UxwKQSOIZ8YY-XToQ5sryuz9uODy9xa/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_005.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 3402432,
+      "puissance_defense": 13131424,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Infestation Scorpion (-BlackWidow)",
+      "defoff": 3.8594229069089403,
+      "score": 38.5942290690894
+    },
+    "drive_url": "https://drive.google.com/file/d/1iryjbkAUlpn2ZW-yqipdr8lBeOr-dIRG/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_007.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_007.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9825298,
+      "puissance_defense": 14891232,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+X+ShadowKing",
+      "defoff": 1.5156010535252977,
+      "score": 15.156010535252978
+    },
+    "drive_url": "https://drive.google.com/file/d/1InHQWme6Pp4_cfvgUEKgFLiXOzrg-R8S/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_008.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_008.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7145719,
+      "puissance_defense": 13067879,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hive-Mind Knull (-Gwenom)",
+      "equipe_defense": "Exalted X-Men+Odin (-Morph)",
+      "defoff": 1.828770344873623,
+      "score": 18.28770344873623
+    },
+    "drive_url": "https://drive.google.com/file/d/1LyajgUejksmY3Olj6NYfigVUHS235p5D/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_009.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_009.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6659099,
+      "puissance_defense": 12926572,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Phoenix Force+Mephisto+Groot",
+      "defoff": 1.9411893410805277,
+      "score": 19.411893410805277
+    },
+    "drive_url": "https://drive.google.com/file/d/1oaX_iz7QSJgM1PK2it3vVxOTEQwPTn9K/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_011.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_011.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11578616,
+      "puissance_defense": 13187562,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Quasar+Thing",
+      "equipe_defense": "Hive-Mind Knull (-Carnage)",
+      "defoff": 1.1389584040095984,
+      "score": 11.389584040095983
+    },
+    "drive_url": "https://drive.google.com/file/d/16fLRL5uW5dgnSDhMCMpLXAso-aHrzOXR/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_defense_combat_012.png",
+    "local_path": "captures/2026-06-25_Bridge_defense_combat_012.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7508704,
+      "puissance_defense": 11588238,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Nightstalker+Apocalypse (-MoonKnight)",
+      "equipe_defense": "Champion",
+      "defoff": 1.5433073403879018,
+      "score": -6.4795907712630685
+    },
+    "drive_url": "https://drive.google.com/file/d/1L92lPmXo7iGbV7K6mx4R9fRi3JQYxhyj/view"
+  },
+  {
     "filename": "2026-06-25_Hangar_defense_combat_001.png",
     "local_path": "captures/2026-06-25_Hangar_defense_combat_001.png",
     "date": "2026-06-25",
