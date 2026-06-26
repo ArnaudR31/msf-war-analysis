@@ -1,5 +1,328 @@
 [
   {
+    "filename": "2026-06-25_FD2_defense_combat_001.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_001.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7302367,
+      "puissance_defense": 8235344,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Quasar (-Deadpool)",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.1277636415699184,
+      "score": 10.149872774129266
+    },
+    "drive_url": "https://drive.google.com/file/d/1pV5urhFlLgOkWKV5pDk3DJXOBSI1i0AQ/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_002.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_002.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6616837,
+      "puissance_defense": 9033251,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Apocalypse (-Deadpool)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.3651917071555488,
+      "score": 12.28672536439994
+    },
+    "drive_url": "https://drive.google.com/file/d/1Ls1sI5fGY0GmJXY6rVCenA878mfn4Z1r/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_003.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_003.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11136133,
+      "puissance_defense": 12056199,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Liberty+Quasar (-WarMachine)",
+      "equipe_defense": "Champion",
+      "defoff": 1.0826198825031992,
+      "score": 9.743578942528792
+    },
+    "drive_url": "https://drive.google.com/file/d/1-HAJRnkIr9C2aJzUtUE17izF6NbQsMa1/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_004.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_004.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7837580,
+      "puissance_defense": 8408664,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.072864838381235,
+      "score": -9.320838601708903
+    },
+    "drive_url": "https://drive.google.com/file/d/1JcHzYWQ9joc-ceKKuuYoZVwLiBLBL7hx/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_005.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_005.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 8026996,
+      "puissance_defense": 8408664,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 6.5,
+      "equipe_offense": "Illuminati+Odin (-MrFantastic -IronMan)",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.047548049108284,
+      "score": 6.809062319203846
+    },
+    "drive_url": "https://drive.google.com/file/d/1yEWVze6l9UYnKo3EFYMh00_szOoZRNZx/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_006.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_006.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9801842,
+      "puissance_defense": 8563834,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8736963929840942,
+      "score": 7.863267536856847
+    },
+    "drive_url": "https://drive.google.com/file/d/1e3iMI78ofNZBzkV5jL6XHTAF32E_UEyi/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_007.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_007.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 12588689,
+      "puissance_defense": 7734001,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Galactic Council+BlackKnight (-StarLord)",
+      "defoff": 0.6143611141716186,
+      "score": 5.836430584630377
+    },
+    "drive_url": "https://drive.google.com/file/d/1LLm8_81q3Q1pzJ37BKNS_SRVWsMRv0OG/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_008.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_008.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 9003822,
+      "puissance_defense": 8674872,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6.5,
+      "equipe_offense": "Ares+BlackCat+BlueMarvel+Kahhori+Sentry",
+      "equipe_defense": "Retcon",
+      "defoff": 0.9634655149779727,
+      "score": -6.7464791411331495
+    },
+    "drive_url": "https://drive.google.com/file/d/1KjMfwa4U-HQ6l5-XUgGTLijxYBdLknjF/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_009.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_009.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 8990453,
+      "puissance_defense": 8177280,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker+ShadowKing (-MoonKnight)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.9095514986842154,
+      "score": 9.095514986842154
+    },
+    "drive_url": "https://drive.google.com/file/d/1uIsxwhmnOX0utt4d3va6lKYakAd6rP_i/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_010.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_010.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 22287437,
+      "puissance_defense": 6672483,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.29938314576054664,
+      "score": 2.9938314576054665
+    },
+    "drive_url": "https://drive.google.com/file/d/16fdD9lJvJpSuZ600i6es3EkuzUZ15QD8/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_011.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_011.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 11036266,
+      "puissance_defense": 6387833,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Phoenix Force+Skrull+SpiderManBigTime",
+      "defoff": 0.5788038273089829,
+      "score": 5.788038273089829
+    },
+    "drive_url": "https://drive.google.com/file/d/13olJckmTfMxONEFyhVcuJB5csURGW_nM/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_012.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_012.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5856226,
+      "puissance_defense": 7719797,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Astral",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.318220471682616,
+      "score": 13.18220471682616
+    },
+    "drive_url": "https://drive.google.com/file/d/1fANCQXQMUdEgyoYBNCF3E5yYWNKUCO_E/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_013.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_013.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 5105323,
+      "puissance_defense": 4514860,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hive-Mind Knull (-Venom)",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.884343654652213,
+      "score": 8.84343654652213
+    },
+    "drive_url": "https://drive.google.com/file/d/1gyQFzCAKl49-O4msiYzUQfFFdGVChdjw/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_defense_combat_014.png",
+    "local_path": "captures/2026-06-25_FD2_defense_combat_014.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 7075679,
+      "puissance_defense": 7233148,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Hive-Mind Knull (-Gwenom)",
+      "defoff": 1.0222549666258178,
+      "score": -9.782295343604195
+    },
+    "drive_url": "https://drive.google.com/file/d/1imfxF3E74id00F2lMXMQbwjQveSNh24h/view"
+  },
+  {
+    "filename": "2026-06-25_FD3_defense_combat_001.png",
+    "local_path": "captures/2026-06-25_FD3_defense_combat_001.png",
+    "date": "2026-06-25",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 4673910,
+      "puissance_defense": 4128447,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Phoenix Force+Apocalypse+Dormammu",
+      "equipe_defense": "Astral",
+      "defoff": 0.883296212378929,
+      "score": 7.508017805220896
+    },
+    "drive_url": "https://drive.google.com/file/d/18G6DRUIjS3k3qdn6olKBUbrQKlBVakFR/view"
+  },
+  {
+    "filename": "2026-06-25_FD3_defense_combat_002.png",
+    "local_path": "captures/2026-06-25_FD3_defense_combat_002.png",
+    "date": "2026-06-25",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 6896721,
+      "puissance_defense": 5740308,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.8323242306017599,
+      "score": 8.3232423060176
+    },
+    "drive_url": "https://drive.google.com/file/d/1X_yMvzE8preW8SImJ3rCBSIA8sok8_ed/view"
+  },
+  {
+    "filename": "2026-06-25_FD3_defense_combat_004.png",
+    "local_path": "captures/2026-06-25_FD3_defense_combat_004.png",
+    "date": "2026-06-25",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "puissance_attaque": 4525591,
+      "puissance_defense": 3938933,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6,
+      "equipe_offense": "Cabal+Odin+Skrull",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.8703687540478139,
+      "score": -6.89362982310184
+    },
+    "drive_url": "https://drive.google.com/file/d/1_qIeeImWEejraPra5SB0V7WzNlq-oiug/view"
+  },
+  {
     "filename": "2026-06-25_Engineering_defense_combat_001.png",
     "local_path": "captures/2026-06-25_Engineering_defense_combat_001.png",
     "date": "2026-06-25",
