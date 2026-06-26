@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-06-25_Barracks_attack_combat_001.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 3726161,
+      "puissance_defense": 6358400,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 1.7064211664498663,
+      "score": 14.504579914823864
+    },
+    "drive_url": "https://drive.google.com/file/d/1uSVBAYqswZFaWDyqWUsUb1uyR9AuqgAW/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_002.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6508732,
+      "puissance_defense": 9536257,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.4651482039819737,
+      "score": 14.651482039819737
+    },
+    "drive_url": "https://drive.google.com/file/d/1jifxD44YH1XhEYtB_pRDebp0Ydwe8Oli/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_003.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9709596,
+      "puissance_defense": 8272756,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Astral",
+      "defoff": 0.8520185597835378,
+      "score": 8.520185597835377
+    },
+    "drive_url": "https://drive.google.com/file/d/1g0z7tt9DK04Q2vkpUoRqnu-Az9Hj5FTP/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_004.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_004.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 5201893,
+      "puissance_defense": 8204676,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.5772481287100677,
+      "score": 15.772481287100677
+    },
+    "drive_url": "https://drive.google.com/file/d/1dwZrWgdxMQfIO0DJTAailqdB0-XVj5-_/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_005.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9727168,
+      "puissance_defense": 8572692,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8813142735891886,
+      "score": 8.813142735891885
+    },
+    "drive_url": "https://drive.google.com/file/d/1rpjyg917glBMiARecwJNyDQkaFRcGDU4/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_006.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_006.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 5962330,
+      "puissance_defense": 10052614,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.6860210689445234,
+      "score": 16.860210689445235
+    },
+    "drive_url": "https://drive.google.com/file/d/1r4bsxjbtPJLgTm32tuSnZq7I5ynForJ_/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_007.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_007.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 8021988,
+      "puissance_defense": 6656451,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 0.8297757363885361,
+      "score": 8.29775736388536
+    },
+    "drive_url": "https://drive.google.com/file/d/1pM4l3mZMq2O7ionlG4zMjlZ8OmlBPCUk/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_008.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_008.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 10436844,
+      "puissance_defense": 9220558,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone+EmmaFrost (-Elsa)",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.8834622803598482,
+      "score": 8.834622803598482
+    },
+    "drive_url": "https://drive.google.com/file/d/1A7TBMzrx6kLEpjGbKHeSbM_9gp3dNtoZ/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_009.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_009.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 9502748,
+      "puissance_defense": 9557874,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "defoff": 1.005801058809515,
+      "score": 10.05801058809515
+    },
+    "drive_url": "https://drive.google.com/file/d/1VqJ6ZQMD4qeWQhbj1UMe3S5mxQtk0OdT/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_010.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_010.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 6331411,
+      "puissance_defense": 9165958,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Apocalypse (-Deadpool)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.4476959401308809,
+      "score": 13.029263461177928
+    },
+    "drive_url": "https://drive.google.com/file/d/1Z0ZC7aGp6ASCXlawVvNjyZn3Qj06L3vg/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_011.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_011.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9967848,
+      "puissance_defense": 16281226,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "X+Quasar+Blade+Oath+Agatha",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.6333742248076013,
+      "score": -6.122295704266988
+    },
+    "drive_url": "https://drive.google.com/file/d/1bGD_wAsgp5NZc9wlPzYieOaFFVpTSjGl/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_012.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_012.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 13985298,
+      "puissance_defense": 13626494,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+X+Nightcrawler",
+      "defoff": 0.9743442006026615,
+      "score": 9.743442006026616
+    },
+    "drive_url": "https://drive.google.com/file/d/1gOc36NmjoHxbd2XN-ik6tdc96VOpQ9A2/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_013.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_013.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9967847,
+      "puissance_defense": 16281226,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "X+Quasar+Blade+Oath+Agatha",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.6333743886718968,
+      "score": 12.250307915039226
+    },
+    "drive_url": "https://drive.google.com/file/d/18YpchdXjJqELKpfdyONubQux-iSJ2Tgm/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_014.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_014.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 11822398,
+      "puissance_defense": 12057920,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Champion",
+      "defoff": 1.0199216774803217,
+      "score": 10.199216774803217
+    },
+    "drive_url": "https://drive.google.com/file/d/1g21ypZtIGjKww2cYwceJNV4dyyMpwV4j/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_015.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_015.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 6639166,
+      "puissance_defense": 6354253,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 0.9570860255640543,
+      "score": 9.570860255640543
+    },
+    "drive_url": "https://drive.google.com/file/d/1cydqbHvPTj5FixTXPZz3wkXwB1OntwtC/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_016.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_016.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 20014352,
+      "puissance_defense": 6665424,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.3330322160817397,
+      "score": 2.497741620613048
+    },
+    "drive_url": "https://drive.google.com/file/d/1qQd4xCX4nIeHHm1DNBMnhhAwtwd9NUkl/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_017.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_017.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 18419554,
+      "puissance_defense": 14546021,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Retcon",
+      "defoff": 0.7897053859175961,
+      "score": 7.897053859175961
+    },
+    "drive_url": "https://drive.google.com/file/d/1hjywN05ZgxVLLpROTbak11FIJzdrDaAy/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_018.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_018.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 11519676,
+      "puissance_defense": 9156518,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Annihilator+Apocalypse+Skrull (-SS -Ultimus)",
+      "equipe_defense": "Annihilator+Blastaar+Skrull",
+      "defoff": 0.7948589873534637,
+      "score": 6.756301392504442
+    },
+    "drive_url": "https://drive.google.com/file/d/1ETziBVCXVksvvtZJL6sBj6q_lSkiTUMY/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_019.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_019.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 16584810,
+      "puissance_defense": 5422536,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.32695798142999527,
+      "score": -27.526472853292262
+    },
+    "drive_url": "https://drive.google.com/file/d/1tU1RtHVtT2UXJk0oK0aCA2SBY0I_a8ep/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_021.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_021.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 16481208,
+      "puissance_defense": 12244491,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Retcon",
+      "defoff": 0.74293650077106,
+      "score": -13.46010054644166
+    },
+    "drive_url": "https://drive.google.com/file/d/1fSW0fIdPK3Xvl9WY7L84CUpEpnqjRpf3/view"
+  },
+  {
+    "filename": "2026-06-25_Barracks_attack_combat_024.png",
+    "local_path": "captures/2026-06-25_Barracks_attack_combat_024.png",
+    "date": "2026-06-25",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 16177406,
+      "puissance_defense": 17318829,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "F3+Mephisto+X",
+      "equipe_defense": "F3+X+Knull",
+      "defoff": 1.0705566145771455,
+      "score": 7.493896302040018
+    },
+    "drive_url": "https://drive.google.com/file/d/1NNq7Bq-XYZX6fnNX62aXmlNQNn7pCXcI/view"
+  },
+  {
     "filename": "2026-06-25_Armory_attack_combat_003.png",
     "local_path": "captures/2026-06-25_Armory_attack_combat_003.png",
     "date": "2026-06-25",
