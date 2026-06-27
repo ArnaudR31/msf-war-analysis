@@ -1,5 +1,245 @@
 [
   {
+    "filename": "2026-06-25_Engineering_attack_combat_001.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 15472160,
+      "puissance_defense": 6921285,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.4473379928852856,
+      "score": -22.35446163537551
+    },
+    "drive_url": "https://drive.google.com/file/d/1Hxk7lxINppp_vKLdStmaUHuIKV3U7Hgk/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_002.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 7826492,
+      "puissance_defense": 6640339,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.8484438494283263,
+      "score": 8.484438494283262
+    },
+    "drive_url": "https://drive.google.com/file/d/1Ye6-rkXKg_o1LzHcxSiQA19dic0DSWsq/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_003.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 10827409,
+      "puissance_defense": 5511856,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Hive-Mind Knull+ShadowKing (-Venom -Gwenom)",
+      "defoff": 0.5090650958137815,
+      "score": 5.0906509581378145
+    },
+    "drive_url": "https://drive.google.com/file/d/12sMc9SV7lYR_GdKY7nLk03lhy1qYLIAg/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_005.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 8459150,
+      "puissance_defense": 7611218,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Illuminati+Odin (-MrFantastic -IronMan)",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8997615599676091,
+      "score": 8.547734819692286
+    },
+    "drive_url": "https://drive.google.com/file/d/19yy7Y5MHvtq-6hmAEIsc-TnuprHzsxWL/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_006.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_006.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 6014577,
+      "puissance_defense": 4237775,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+Skrull (-Deadpool)",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.7045840463926225,
+      "score": 7.0458404639262255
+    },
+    "drive_url": "https://drive.google.com/file/d/1Ln5H4O5V5AUbjtfnDr0bNdP8ZCGx1qbL/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_007.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_007.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8627908,
+      "puissance_defense": 8995476,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.0426022159717048,
+      "score": 8.86211883575949
+    },
+    "drive_url": "https://drive.google.com/file/d/1uzOnuLDz-eSI6GK4ad9Ee81hZeyDMYm2/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_008.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_008.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 8785189,
+      "puissance_defense": 5787029,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Champion",
+      "defoff": 0.6587256119361803,
+      "score": 5.928530507425623
+    },
+    "drive_url": "https://drive.google.com/file/d/1JbLcwBwUNxlE-X1cNG1Nq4KbNVptUdfM/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_009.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_009.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 10270853,
+      "puissance_defense": 10539637,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.0261695888355136,
+      "score": 10.261695888355135
+    },
+    "drive_url": "https://drive.google.com/file/d/1nT8FMa6yUj7MLGN_84wrQzUzMvv36PeM/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_010.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_010.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 8106385,
+      "puissance_defense": 8424772,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "BlackCat+BlackKnight+GhostRiderRobbie+Quasar+OldManLogan",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.0392760768209257,
+      "score": 7.794570576156943
+    },
+    "drive_url": "https://drive.google.com/file/d/1jVChS_IlX4P8X7h7xKN4VHFGq9S9dPxw/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_011.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_011.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7294298,
+      "puissance_defense": 9770843,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "F3+Mephisto+X",
+      "defoff": 1.3395179357903941,
+      "score": -6.345566395857553
+    },
+    "drive_url": "https://drive.google.com/file/d/1m6hpTnZ1rFSGlhSCu-TqDCNtTMNeFurp/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_014.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_014.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8934002,
+      "puissance_defense": 10096471,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Quasar (-Deadpool)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.130117387482116,
+      "score": 10.736115181080102
+    },
+    "drive_url": "https://drive.google.com/file/d/1-sDdryGZlgi8HEtwLa_DHlRf-6CcFeFY/view"
+  },
+  {
+    "filename": "2026-06-25_Engineering_attack_combat_016.png",
+    "local_path": "captures/2026-06-25_Engineering_attack_combat_016.png",
+    "date": "2026-06-25",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 11301078,
+      "puissance_defense": 8185902,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Hive-Mind Knull (-Gwenom)",
+      "defoff": 0.724347004772465,
+      "score": 6.881296545338418
+    },
+    "drive_url": "https://drive.google.com/file/d/1eVNyd-HmTnG7I_f6a7ORJicjrH-_75ME/view"
+  },
+  {
     "filename": "2026-06-25_CargoBay_attack_combat_001.png",
     "local_path": "captures/2026-06-25_CargoBay_attack_combat_001.png",
     "date": "2026-06-25",
