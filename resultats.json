@@ -1,5 +1,365 @@
 [
   {
+    "filename": "2026-06-25_Bridge_attack_combat_001.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 4091997,
+      "puissance_defense": 13353717,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Odin+BetaRayBill+MightyThor+Vahl+Valkyrie",
+      "equipe_defense": "Starjammer",
+      "defoff": 3.2633740933827666,
+      "score": 19.5802445602966
+    },
+    "drive_url": "https://drive.google.com/file/d/1uemPm5d2Z42Chf_LmsmGgajjjrI3bzn_/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_002.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 14740594,
+      "puissance_defense": 12446100,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Torch",
+      "equipe_defense": "Symbiote 6+Carnage+Gorr (-Riot -Toxin)",
+      "defoff": 0.8443418223173368,
+      "score": 8.443418223173367
+    },
+    "drive_url": "https://drive.google.com/file/d/1BQktbVscqhjqFO5Vu2PuCYxWoB6_RBou/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_003.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 11425655,
+      "puissance_defense": 11319508,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "New Mutant+Apocalypse (-Magik)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9907097667486021,
+      "score": -10.093773510297444
+    },
+    "drive_url": "https://drive.google.com/file/d/10oLHzrwopWSteeOc6Xih4LdSssXLhhhq/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_004.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_004.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 11156136,
+      "puissance_defense": 11319508,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Daring Warrior+Apocalypse (-JessicaJones)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.0146441384364622,
+      "score": 8.117153107491697
+    },
+    "drive_url": "https://drive.google.com/file/d/1o4SA7hQsFVPqL3EZWwmITYsFqwQuMLef/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_005.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 12551253,
+      "puissance_defense": 14646802,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Brimstone+Guardian (-Elsa)",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.1669593466086614,
+      "score": -6.855423047297287
+    },
+    "drive_url": "https://drive.google.com/file/d/1CHcNnzXlFCOCwcFMs21OBYR1xwGAL67b/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_007.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_007.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 7360805,
+      "puissance_defense": 10642884,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Mercs 4 Money",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.4458858779712274,
+      "score": 12.290029962755433
+    },
+    "drive_url": "https://drive.google.com/file/d/1CE6lQ1_HkLhN5mO5hB32nBcbRyeG8CPX/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_008.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_008.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10777967,
+      "puissance_defense": 10476659,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Exalted X-Men",
+      "defoff": 0.9720440784426229,
+      "score": 9.720440784426229
+    },
+    "drive_url": "https://drive.google.com/file/d/15-AK-ksUIm2VDGNJA-wrjYrfMgkjOtC-/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_009.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_009.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10580161,
+      "puissance_defense": 8861164,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.8375263854680473,
+      "score": 8.375263854680473
+    },
+    "drive_url": "https://drive.google.com/file/d/1UABvJ5g1YW3lP8SiH81vZTMNZcgBbVpL/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_010.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_010.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10994167,
+      "puissance_defense": 6149205,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Undying",
+      "defoff": 0.5593152259739187,
+      "score": 5.033837033765268
+    },
+    "drive_url": "https://drive.google.com/file/d/1hga2bhlyo1f24WDwdHDIkqQeuneTIIbc/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_011.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_011.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 11348605,
+      "puissance_defense": 10250448,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Accursed+Mephisto (-Mordo)",
+      "defoff": 0.9032341860519421,
+      "score": 9.03234186051942
+    },
+    "drive_url": "https://drive.google.com/file/d/1xanQuFDONEMahFjoS2Lcgwtd-9LY8oDa/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_012.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_012.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 10062417,
+      "puissance_defense": 7758317,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 0.7710192292766241,
+      "score": 7.710192292766242
+    },
+    "drive_url": "https://drive.google.com/file/d/17qjmkYYB6ScJOMsEIlPHiLuhip0kpplL/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_013.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_013.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 10194216,
+      "puissance_defense": 14371912,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "F3+X+Nightcrawler",
+      "defoff": 1.4098104258336295,
+      "score": -7.0931522542025025
+    },
+    "drive_url": "https://drive.google.com/file/d/1mr0bLODEgBPPn97EKAtoDnvNsFb0S-u5/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_014.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_014.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 10341342,
+      "puissance_defense": 8988227,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8691547963504156,
+      "score": 5.214928778102493
+    },
+    "drive_url": "https://drive.google.com/file/d/1_YCN2c-tDaXv6rxCS3KY-wGJiJdLb7j-/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_015.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_015.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 9788373,
+      "puissance_defense": 8690073,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker+Knull (-MoonKnight)",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.8877954487431159,
+      "score": 8.87795448743116
+    },
+    "drive_url": "https://drive.google.com/file/d/1Nnjstc1bDu4N1XAfgXr-DVvpQY49edpN/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_016.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_016.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 10194216,
+      "puissance_defense": 12250131,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "Undying",
+      "equipe_defense": "F3+X+Nightcrawler",
+      "defoff": 1.2016746555105366,
+      "score": -5.825203991696089
+    },
+    "drive_url": "https://drive.google.com/file/d/12DcMGOavQacm3FGSk12JDQi8rNdwI3oU/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_017.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_017.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 11302811,
+      "puissance_defense": 7563912,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.6692062709002212,
+      "score": 6.6920627090022125
+    },
+    "drive_url": "https://drive.google.com/file/d/1IW3RA2toHRD1Sgae1FSLsFqHPVFFzETk/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_018.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_018.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 7168084,
+      "puissance_defense": 5502352,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Superior 6+Vulture (-SpiderSlayer)",
+      "equipe_defense": "Infestation",
+      "defoff": 0.7676182366166467,
+      "score": 7.676182366166468
+    },
+    "drive_url": "https://drive.google.com/file/d/1xHTG6-eu05qhqF1is23eyP4jjtKnXlCO/view"
+  },
+  {
+    "filename": "2026-06-25_Bridge_attack_combat_020.png",
+    "local_path": "captures/2026-06-25_Bridge_attack_combat_020.png",
+    "date": "2026-06-25",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 12132148,
+      "puissance_defense": 11259807,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+EmmaFrost+Odin",
+      "equipe_defense": "Champion",
+      "defoff": 0.9280967393407994,
+      "score": 9.280967393407995
+    },
+    "drive_url": "https://drive.google.com/file/d/1Tbhcb3ymGduQviLzigg3_KfWwiGMWAXW/view"
+  },
+  {
     "filename": "2026-06-25_Barracks_attack_combat_001.png",
     "local_path": "captures/2026-06-25_Barracks_attack_combat_001.png",
     "date": "2026-06-25",
