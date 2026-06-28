@@ -14001,7 +14001,7 @@
       "puissance_defense": 14009867,
       "num": -10,
       "equipe_defense": "Retcon",
-      "equipe_offense": "Uncanny Avenger",
+      "equipe_offense": "Mighty Avenger",
       "defoff": 1.4391518558969012,
       "score": -6.948537056061989
     },
@@ -15482,7 +15482,7 @@
       "puissance_defense": 16529221,
       "num": -10,
       "equipe_defense": "Retcon",
-      "equipe_offense": "F3+X+Thing",
+      "equipe_offense": "F3+X+Torch",
       "defoff": 1.1213402255024458,
       "score": -8.917900002668002
     },
@@ -16927,7 +16927,7 @@
       "puissance_defense": 6777067,
       "num": 10,
       "equipe_defense": "Hellfire Club",
-      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_offense": "Insidious 6+Vulture+Shocker+GreenGoblinClassic (-Scorpion)",
       "defoff": 0.8056245757644561,
       "score": 8.056245757644561
     },
@@ -24775,25 +24775,6 @@
       "score": 11.867449697817886
     },
     "drive_url": "https://drive.google.com/file/d/1timl3NdagcszkRVXVokJi-jcgBx519Fc/view"
-  },
-  {
-    "filename": "2026-06-18_Engineering_attack_combat_019.png",
-    "local_path": "captures/2026-06-18_Engineering_attack_combat_019.png",
-    "date": "2026-06-18",
-    "room": "Engineering",
-    "mode": "attack",
-    "data": {
-      "statut": "Fail",
-      "attaquant": "Cosmicful",
-      "puissance_attaque": 10341342,
-      "puissance_defense": 13603321,
-      "equipe_offense": "Immortal Weapon+Odin (-IronFistWW2)",
-      "equipe_defense": "Retcon",
-      "num": -10,
-      "defoff": 1.3154309179601642,
-      "score": -7.602071582373158
-    },
-    "drive_url": "https://drive.google.com/file/d/1D3nk8M-DRYONE5PIUMcbD6KNJx5Lo8NL/view"
   },
   {
     "filename": "2026-06-18_Engineering_attack_combat_020.png",
