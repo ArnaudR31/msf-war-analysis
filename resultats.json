@@ -1,5 +1,225 @@
 [
   {
+    "filename": "2026-06-25_FD2_attack_combat_001.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_001.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 8765369,
+      "puissance_defense": 3537953,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Mighty Avenger",
+      "defoff": 0.4036285295005835,
+      "score": 4.036285295005834
+    },
+    "drive_url": "https://drive.google.com/file/d/145F0gKzZeZVk1gy6u1txhwuNwou8GMdU/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_002.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_002.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 9115243,
+      "puissance_defense": 5368851,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Apocalypse+Blastaar+Sentry+Skrull+Thunderstrike",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 0.5889970239959593,
+      "score": 5.8899702399595935
+    },
+    "drive_url": "https://drive.google.com/file/d/1gbpUotX9U4tbEJPK4nqHr9YI57aZsZly/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_003.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_003.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 12335798,
+      "puissance_defense": 5475361,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Champion",
+      "defoff": 0.44385948926854996,
+      "score": 4.4385948926855
+    },
+    "drive_url": "https://drive.google.com/file/d/1remBy_KgBbPjJ2dbzTxHMEvwqOA_SRzY/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_004.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_004.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 4092113,
+      "puissance_defense": 4414077,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 1.0786791567095044,
+      "score": 7.550754096966531
+    },
+    "drive_url": "https://drive.google.com/file/d/1NBj23qa53e8FfONglNvR37wUpL4ZtHSY/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_005.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_005.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 4325872,
+      "puissance_defense": 6198102,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money (-Deadpool)",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.4327982889923696,
+      "score": 14.327982889923696
+    },
+    "drive_url": "https://drive.google.com/file/d/1iyg78DUjf6KJjIXuDw1oOUTc_PuJGX8-/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_006.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_006.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5867340,
+      "puissance_defense": 6335901,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hellfire Club+Apocalypse (-EmmaFrost)",
+      "defoff": 1.0798591866160816,
+      "score": 10.798591866160816
+    },
+    "drive_url": "https://drive.google.com/file/d/1N_fFAYaij-p4wEvIgkEVRDT-u29g8EBL/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_007.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_007.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12416706,
+      "puissance_defense": 6787769,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Champion+Odin (-MsMarvel)",
+      "equipe_defense": "Retcon",
+      "defoff": 0.5466642280166737,
+      "score": -18.29276452984773
+    },
+    "drive_url": "https://drive.google.com/file/d/1zwR6uEWSdQFJeqQdTCSdza4V-4vcwze5/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_008.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_008.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 14564570,
+      "puissance_defense": 6787769,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.46604664607331353,
+      "score": 4.4274431376964785
+    },
+    "drive_url": "https://drive.google.com/file/d/1kLjHxmJntqLHzPS_0Dc9PaPFM56PNUy2/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_009.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_009.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 8053505,
+      "puissance_defense": 5931689,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Insidious 6+Vulture+Shocker+Lizard (-Scorpion)",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 0.7365350862760996,
+      "score": 5.892280690208797
+    },
+    "drive_url": "https://drive.google.com/file/d/1KoiY-vHrNCobww3jSjY0jGCbEHxf-vgv/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_010.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_010.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 4078938,
+      "puissance_defense": 3319121,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8137218560321339,
+      "score": 5.696052992224937
+    },
+    "drive_url": "https://drive.google.com/file/d/1Y2MQgAZ9UyDLkehHWoEIX6yfWw2qdmBt/view"
+  },
+  {
+    "filename": "2026-06-25_FD2_attack_combat_012.png",
+    "local_path": "captures/2026-06-25_FD2_attack_combat_012.png",
+    "date": "2026-06-25",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 3399543,
+      "puissance_defense": 3861583,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.135912385870689,
+      "score": 9.655255279900857
+    },
+    "drive_url": "https://drive.google.com/file/d/1UW2ftKem6xzFZjlLWPJgJBFtT4DKKjtY/view"
+  },
+  {
     "filename": "2026-06-25_Medbay_attack_combat_001.png",
     "local_path": "captures/2026-06-25_Medbay_attack_combat_001.png",
     "date": "2026-06-25",
