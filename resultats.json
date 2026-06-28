@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-06-25_Medbay_attack_combat_001.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_001.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10331535,
+      "puissance_defense": 8912502,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 0.8626503225319374,
+      "score": 8.626503225319373
+    },
+    "drive_url": "https://drive.google.com/file/d/1Cq9NC21gcAuK9wLYwRJE-l3RWXB6Wara/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_002.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_002.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 7797338,
+      "puissance_defense": 7340306,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Mysterio (-Scorpion)",
+      "equipe_defense": "Insidious 6+Vulture+SpiderManBigTime",
+      "defoff": 0.9413861499911893,
+      "score": 9.413861499911892
+    },
+    "drive_url": "https://drive.google.com/file/d/1TVFSHlXD4XdQ3MlTbmnFL6uZMdUWp6C5/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_003.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_003.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8053215,
+      "puissance_defense": 10336120,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral+Knull (-Moondragon)",
+      "defoff": 1.283477468315449,
+      "score": 12.83477468315449
+    },
+    "drive_url": "https://drive.google.com/file/d/1_6vx4W9KznACRdqrBzIMnAUp-tPcRRRx/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_004.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_004.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 6007561,
+      "puissance_defense": 11642282,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.9379382082012984,
+      "score": -5.16012324731526
+    },
+    "drive_url": "https://drive.google.com/file/d/17-qP4Ac6iuU3Z-CmGiPiYx4OKSIx_CtE/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_005.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_005.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 7404186,
+      "puissance_defense": 8762953,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Astral",
+      "defoff": 1.1835133531221393,
+      "score": 11.243376854660324
+    },
+    "drive_url": "https://drive.google.com/file/d/1wsl9LNtjmJr-DPPHjmPzrQ3I0naQ32MB/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_006.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_006.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8690423,
+      "puissance_defense": 9715238,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Hellfire Club+Mephisto (-MadelynePryor)",
+      "defoff": 1.1179246395716296,
+      "score": -7.603374770643807
+    },
+    "drive_url": "https://drive.google.com/file/d/1u4WjuOsHPrgjCfHM1y-EuH4wIHBLqtxe/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_007.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_007.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 9733864,
+      "puissance_defense": 6780701,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Alpha Flight+Dormammu (-Sunfire)",
+      "defoff": 0.6966093834884071,
+      "score": 6.96609383488407
+    },
+    "drive_url": "https://drive.google.com/file/d/1tLXg6J2GceJt15Y8ZtMeR51yQ8NZb88r/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_008.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_008.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 7769904,
+      "puissance_defense": 8972660,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Annihilator+Mephisto+Skrull (-SS -Ultimus)",
+      "defoff": 1.1547967645417498,
+      "score": 11.547967645417499
+    },
+    "drive_url": "https://drive.google.com/file/d/1lydmI_VpeFXhncGQgjiNXFZeSvnIRxSM/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_009.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_009.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 13642109,
+      "puissance_defense": 9027856,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Quasar+Mephisto",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.6617639545322501,
+      "score": 6.617639545322501
+    },
+    "drive_url": "https://drive.google.com/file/d/1SaehThNi2cBo2YpdoQOoEJkXDuRL8SXu/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_011.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_011.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 10064200,
+      "puissance_defense": 10876432,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Accursed+Odin (-Mordo)",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.0807050734285886,
+      "score": 10.807050734285886
+    },
+    "drive_url": "https://drive.google.com/file/d/10_ZYNxxjcN33cEi3nu4x5ZTRF0m3AUUu/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_012.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_012.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 18615130,
+      "puissance_defense": 14476693,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.7776842278297278,
+      "score": 7.388000164382414
+    },
+    "drive_url": "https://drive.google.com/file/d/1rTkzc6f4aJPrcNNVLUdf1w9J2f9iQ97s/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_013.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_013.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 6674570,
+      "puissance_defense": 12663796,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Champion",
+      "defoff": 1.897320126989454,
+      "score": -5.270591850974226
+    },
+    "drive_url": "https://drive.google.com/file/d/1nVJXOssPqjy7W_Jf1UxnXLELToZ-CUkz/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_014.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_014.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 5502082,
+      "puissance_defense": 12663796,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Champion",
+      "defoff": 2.301637089378166,
+      "score": 23.016370893781662
+    },
+    "drive_url": "https://drive.google.com/file/d/1lBpSa0oEDJwe0gLLefxXHAFdKbFC2tSr/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_015.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_015.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 6674570,
+      "puissance_defense": 12577183,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Starjammer+JeanGrey+Storm (-Groot -Raccoon)",
+      "defoff": 1.8843435607087797,
+      "score": 11.306061364252677
+    },
+    "drive_url": "https://drive.google.com/file/d/1ra4VkJZUfzg6RES97iRI5AuyR74tMruf/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_016.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_016.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 7724725,
+      "puissance_defense": 7065459,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Champion",
+      "defoff": 0.9146550848088443,
+      "score": -9.293120588485476
+    },
+    "drive_url": "https://drive.google.com/file/d/15Dq0yGW2vhpwA3Cda9LxDpnU3fEiz535/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_017.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_017.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9304120,
+      "puissance_defense": 9279231,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.997324948517431,
+      "score": 9.97324948517431
+    },
+    "drive_url": "https://drive.google.com/file/d/1lLnEGcjuaMIq0vJ7exWf4F8IevaXeaCx/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_018.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_018.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9234747,
+      "puissance_defense": 8743694,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Quasar",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 0.9468255058855429,
+      "score": 9.46825505885543
+    },
+    "drive_url": "https://drive.google.com/file/d/15FLJiH7E1U2x8g0F_Qi9Z10gAewRgDhA/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_019.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_019.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10941460,
+      "puissance_defense": 7084093,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Alpha Flight+Skrull (-Sasquatch)",
+      "defoff": 0.6474540874800986,
+      "score": 6.474540874800986
+    },
+    "drive_url": "https://drive.google.com/file/d/1GGzTqoj_JmXo9jzzRbgGt3vaCNTYS_QZ/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_020.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_020.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9322006,
+      "puissance_defense": 8818275,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 0.9459632401008967,
+      "score": 9.459632401008967
+    },
+    "drive_url": "https://drive.google.com/file/d/1FPH4Ub482giXJ6omSYTgf-BjhI3BhbG9/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_021.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_021.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9941767,
+      "puissance_defense": 10216491,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6.5,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "defoff": 1.027633317095442,
+      "score": 6.679616561120373
+    },
+    "drive_url": "https://drive.google.com/file/d/1fqz3aaj3aV6iYslepShC_WF9K3BIyE_p/view"
+  },
+  {
+    "filename": "2026-06-25_Medbay_attack_combat_022.png",
+    "local_path": "captures/2026-06-25_Medbay_attack_combat_022.png",
+    "date": "2026-06-25",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 14435041,
+      "puissance_defense": 11342303,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6.5,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "F3+X+Nightcrawler",
+      "defoff": 0.7857478894587137,
+      "score": -8.27237347653294
+    },
+    "drive_url": "https://drive.google.com/file/d/1NlAbrsizk9zF9wJm77zBITSPiEtHbqak/view"
+  },
+  {
     "filename": "2026-06-25_Security_attack_combat_009.png",
     "local_path": "captures/2026-06-25_Security_attack_combat_009.png",
     "date": "2026-06-25",
