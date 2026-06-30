@@ -9248,11 +9248,11 @@
       "puissance_defense": 10659562,
       "statut": "Fail",
       "statut_affiche": "VICTORY",
-      "num": 8.5,
+      "num": -8.5,
       "equipe_offense": "Thunderbolt",
       "equipe_defense": "Starjammer+CosmicGhostRider (-Raccoon)",
       "defoff": 1.170935612701856,
-      "score": 9.952952707965776
+      "score": -7.64598
     },
     "drive_url": "https://drive.google.com/file/d/1R4n8tK3k3g2Kj9M7in6XUqlRCCpfVN-V/view"
   },
@@ -12623,7 +12623,7 @@
       "puissance_defense": 7016439,
       "num": 8.5,
       "equipe_defense": "Shadow Conclave",
-      "equipe_offense": "F3+X+Thing",
+      "equipe_offense": "F3+X+Torch",
       "defoff": 0.484104081937079,
       "score": 4.114884696465172
     },
@@ -13105,7 +13105,7 @@
     "room": "Armory",
     "mode": "defense",
     "data": {
-      "statut": "Fail",
+      "statut": "Win",
       "puissance_attaque": 9712734,
       "puissance_defense": 12020201,
       "num": 8,
@@ -13123,7 +13123,7 @@
     "room": "Armory",
     "mode": "defense",
     "data": {
-      "statut": "Fail",
+      "statut": "Win",
       "puissance_attaque": 8682878,
       "puissance_defense": 7945412,
       "num": 10,
@@ -17702,7 +17702,7 @@
     "room": "Security",
     "mode": "defense",
     "data": {
-      "statut": "Win",
+      "statut": "Fail",
       "puissance_attaque": 8442767,
       "puissance_defense": 9314696,
       "num": -10,
@@ -18910,9 +18910,9 @@
       "puissance_defense": 10163645,
       "equipe_offense": "Immortal Weapon",
       "equipe_defense": "Annihilator+Sentry+BlackKnight (-SS -Ultimus)",
-      "num": 10,
+      "num": -10,
       "defoff": 0.8851648367918151,
-      "score": 8.851648367918152
+      "score": -11.297330829
     },
     "drive_url": "https://drive.google.com/file/d/1F4hsPXNKNptGkFb8lt-6saNr_eigEmU2/view"
   },
@@ -18948,9 +18948,9 @@
       "puissance_defense": 5519415,
       "equipe_offense": "Daring Warrior",
       "equipe_defense": "Infestation",
-      "num": 9.5,
+      "num": -9.5,
       "defoff": 0.5920808516312323,
-      "score": 5.624768090496707
+      "score": -16.04510595
     },
     "drive_url": "https://drive.google.com/file/d/1wbzNlmURegUU4_cgnVsSIb1i4ZWRAKeJ/view"
   },
@@ -19062,9 +19062,9 @@
       "puissance_defense": 9411642,
       "equipe_offense": "Daring Warrior",
       "equipe_defense": "X+Knull+JeanGrey+Nightcrawler+Sasquatch",
-      "num": 8.5,
+      "num": -8.5,
       "defoff": 0.6163128473767465,
-      "score": 5.238659202702346
+      "score": -13.7916969
     },
     "drive_url": "https://drive.google.com/file/d/1ajmKxy7LGZlV3W2QEn6l2_sWW8oatDN7/view"
   },
@@ -19290,9 +19290,9 @@
       "puissance_defense": 8653982,
       "equipe_offense": "Insidious 6+Vulture+Shocker",
       "equipe_defense": "Hellfire Club+Nightcrawler+JeanGrey (-EmmaFrost -MadelynePrior)",
-      "num": 9.5,
+      "num": -9.5,
       "defoff": 1.0427451703350792,
-      "score": 9.906079118183252
+      "score": -9.110567
     },
     "drive_url": "https://drive.google.com/file/d/1YoXvhOijv7jJCIftSgvuE8O9JceDxX3V/view"
   },
