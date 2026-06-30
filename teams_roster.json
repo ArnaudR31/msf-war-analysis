@@ -735,7 +735,7 @@
       "powers": {}
     },
   "Champion+Skrull (-MoonGirl)":
-    {"characters": [],
+    {"characters": ["brawn", "super-skrull", "ms-marvel", "nova-sam-alexander", "spider-man-miles"],
       "powers": {}
     },
   "Daring Warrior":
@@ -2644,7 +2644,7 @@
       "powers": {}
     },
   "Vigilante+EmmaFrost (-Elektra)":
-    {"characters": [],
+    {"characters": ["daredevil-modern", "emma-frost", "hit-monkey", "punisher", "silver-sable"],
       "powers": {}
     },
   "Vigilante+Mephisto (-Elektra)":
