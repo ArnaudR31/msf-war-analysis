@@ -1,5 +1,205 @@
 [
   {
+    "filename": "2026-06-30_FD2_defense_combat_001.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_001.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 11072021,
+      "puissance_defense": 7719797,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.6972346782940531,
+      "score": 6.97234678294053
+    },
+    "drive_url": "https://drive.google.com/file/d/1bJT3rWKKv081iR2HHWdN1W7jFHdg8vY6/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_002.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_002.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 10557084,
+      "puissance_defense": 4514860,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.42766165353993585,
+      "score": 4.276616535399358
+    },
+    "drive_url": "https://drive.google.com/file/d/1pswTg9VTWQDk5vsS7oR4JO3UxbRjOj9A/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_003.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_003.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 8439751,
+      "puissance_defense": 3925323,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "X-Treme X-Men",
+      "defoff": 0.46509938504109893,
+      "score": 4.650993850410989
+    },
+    "drive_url": "https://drive.google.com/file/d/1IJPUNQMkPdZoZMvtXBC8jLwFqclsw4tJ/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_004.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_004.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 9871223,
+      "puissance_defense": 8749075,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.8863212795415523,
+      "score": 8.863212795415523
+    },
+    "drive_url": "https://drive.google.com/file/d/1PpNk90Qt2eYLCoj0pnWgyD0L96p0VdrV/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_005.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_005.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 15350471,
+      "puissance_defense": 8906180,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Retcon",
+      "defoff": 0.5801893635706683,
+      "score": 5.8018936357066835
+    },
+    "drive_url": "https://drive.google.com/file/d/1OIlYhh0K3vXOzB6q_Kt3s1IxlevGONaH/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_006.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_006.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 5520864,
+      "puissance_defense": 8026239,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8.5,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Insidious 6+Lizard+Shocker",
+      "defoff": 1.4538012528473805,
+      "score": -5.846741418988396
+    },
+    "drive_url": "https://drive.google.com/file/d/1EoKmYh8M1ML4JQ8vtBhy6GyGCrqufzj3/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_007.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_007.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 6068696,
+      "puissance_defense": 7233148,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6,
+      "equipe_offense": "Illuminati MrFantastic (-IronMan)",
+      "equipe_defense": "Hive-Mind Knull (-Gwenom)",
+      "defoff": 1.191878452965843,
+      "score": -5.034070366042559
+    },
+    "drive_url": "https://drive.google.com/file/d/1dKdQodhX17l-WGJ9XBWZoH3QOrIrlcOy/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_008.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_008.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 6697095,
+      "puissance_defense": 3757339,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 0.5610401226203302,
+      "score": 5.610401226203302
+    },
+    "drive_url": "https://drive.google.com/file/d/1d1fRO_zVbmuQES3N0KJwXWgdiGLXr7-K/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_009.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_009.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 5314927,
+      "puissance_defense": 4453983,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6,
+      "equipe_offense": "Absolute A-Force MoonGirl",
+      "equipe_defense": "Infinity Watch+Mephisto (-Moondragon)",
+      "defoff": 0.8380139557890447,
+      "score": -7.159785297788519
+    },
+    "drive_url": "https://drive.google.com/file/d/1e2fBz71CQC9SM0Gp-trjASUtFWzC3DzX/view"
+  },
+  {
+    "filename": "2026-06-30_FD2_defense_combat_014.png",
+    "local_path": "captures/2026-06-30_FD2_defense_combat_014.png",
+    "date": "2026-06-30",
+    "room": "FD2",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicblight",
+      "puissance_attaque": 8702397,
+      "puissance_defense": 5228204,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.600777463956195,
+      "score": 6.0077746395619505
+    },
+    "drive_url": "https://drive.google.com/file/d/1IGvG6eBbgj0ntgc8fKpMKY0X2d1EAde4/view"
+  },
+  {
     "filename": "2026-06-30_FD2_attack_combat_001.png",
     "local_path": "captures/2026-06-30_FD2_attack_combat_001.png",
     "date": "2026-06-30",
