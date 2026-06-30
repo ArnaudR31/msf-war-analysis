@@ -1,5 +1,205 @@
 [
   {
+    "filename": "2026-06-30_Armory_defense_combat_001.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 12667908,
+      "puissance_defense": 7219002,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Champion+Skrull (-MoonGirl)",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.5698653637206712,
+      "score": 5.413720955346377
+    },
+    "drive_url": "https://drive.google.com/file/d/1KmAnhKdGJ3rh81hh2FsJLGhS5y7cZ93I/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_002.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 4716439,
+      "puissance_defense": 5356177,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Dormammu (-Deadpool)",
+      "equipe_defense": "Out Of Time",
+      "defoff": 1.1356400453816957,
+      "score": 10.220760408435261
+    },
+    "drive_url": "https://drive.google.com/file/d/1GrYJnDndRIOiI32F9nYo4IiaweOot7LG/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_003.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 9796523,
+      "puissance_defense": 5485270,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8,
+      "equipe_offense": "Vigilante+EmmaFrost (-Elektra)",
+      "equipe_defense": "Illuminati IronMan (-MrFantastic)",
+      "defoff": 0.5599200859325293,
+      "score": 4.479360687460234
+    },
+    "drive_url": "https://drive.google.com/file/d/1l3ciK1cFUmvXEkA8kKF_fsML-P-4YIpq/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_004.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 10648734,
+      "puissance_defense": 13400776,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Brimstone+X (-Elsa)",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.2584384209428088,
+      "score": 10.696726578013875
+    },
+    "drive_url": "https://drive.google.com/file/d/1K9PfDm766hAEXxIv0O466bJo_6W30l4O/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_005.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 19748830,
+      "puissance_defense": 11578581,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.5862919980576065,
+      "score": 5.569773981547261
+    },
+    "drive_url": "https://drive.google.com/file/d/136jePV9a-VZShgztbP0a_aJjxog9aV61/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_006.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 9107804,
+      "puissance_defense": 8002036,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force MoonGirl (-Ironheart)",
+      "equipe_defense": "Astral",
+      "defoff": 0.8785911510612218,
+      "score": 8.785911510612218
+    },
+    "drive_url": "https://drive.google.com/file/d/1hzx4Frimao_TszeP85HGZDsPo5Mr3DbQ/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_007.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 10697542,
+      "puissance_defense": 8786766,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.8213817716256687,
+      "score": -12.174606675539101
+    },
+    "drive_url": "https://drive.google.com/file/d/1uF1lPnhhSUIDyo-dthHzvoTrETrIPPR6/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_009.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 8819792,
+      "puissance_defense": 7133258,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.8087784836649209,
+      "score": 8.08778483664921
+    },
+    "drive_url": "https://drive.google.com/file/d/1Pc89k9oYybTX8QarTLarkOZ6_WtnRk3k/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_010.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_010.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 4854173,
+      "puissance_defense": 8224129,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.6942389568727774,
+      "score": 15.248150611854996
+    },
+    "drive_url": "https://drive.google.com/file/d/1LywL8Zxzac8uS6iszQg1TRWEt8z6smAG/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_defense_combat_012.png",
+    "local_path": "captures/2026-06-30_Armory_defense_combat_012.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 7298557,
+      "puissance_defense": 7818020,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Accursed",
+      "defoff": 1.0711733839990563,
+      "score": 10.711733839990563
+    },
+    "drive_url": "https://drive.google.com/file/d/1isQ4GY7CyrUXRJbJpPS84TzV3M-IzIj7/view"
+  },
+  {
     "filename": "2026-06-30_FD2_defense_combat_001.png",
     "local_path": "captures/2026-06-30_FD2_defense_combat_001.png",
     "date": "2026-06-30",
