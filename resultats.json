@@ -1,5 +1,225 @@
 [
   {
+    "filename": "2026-06-30_Reactor_attack_combat_001.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9133338,
+      "puissance_defense": 8979939,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9832044976327384,
+      "score": 9.832044976327385
+    },
+    "drive_url": "https://drive.google.com/file/d/1IDfUjx-H0f2AwYzcZl4XQQqVacu1MfY7/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_002.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7322233,
+      "puissance_defense": 7410293,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "Azazel+Hellverine+Northstar+Satana+SebastianShaw",
+      "defoff": 1.0120263859399174,
+      "score": 10.120263859399174
+    },
+    "drive_url": "https://drive.google.com/file/d/1wJ7aK_SHlx73HDsORKet5i9m9qW380mD/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_003.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 8248134,
+      "puissance_defense": 8083657,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Exalted X-Men+SSBreaker (-Wolverine)",
+      "equipe_defense": "Unknown Team",
+      "defoff": 0.9800588836214349,
+      "score": 9.800588836214349
+    },
+    "drive_url": "https://drive.google.com/file/d/1VKhttfXr3U6uoNNUWCcJMa3q8cMhGlru/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_004.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7294298,
+      "puissance_defense": 9410403,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Absolute A-Force MoonGirl+MsMarvel",
+      "defoff": 1.2901039962995753,
+      "score": 12.901039962995753
+    },
+    "drive_url": "https://drive.google.com/file/d/1iV5iPEXrJSvWvPQcv9rP6Z_yWFKueuUn/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_005.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 11439370,
+      "puissance_defense": 8548119,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "BlackKnight+Gorr+Knull+RedGoblin+VoidKnight",
+      "defoff": 0.7472543505455282,
+      "score": 7.472543505455283
+    },
+    "drive_url": "https://drive.google.com/file/d/1U7BohWThm6_7zbv8OPh8MGHq4d5VawJc/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_006.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 14358352,
+      "puissance_defense": 12702697,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8846904575121156,
+      "score": 7.96221411760904
+    },
+    "drive_url": "https://drive.google.com/file/d/1trF5RxXz2er-CMhFCXP4J8ni6jnlGvKP/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_007.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 8654529,
+      "puissance_defense": 11503692,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Brimstone+Guardian+IronPatriot (-Elsa -Hellcat)",
+      "equipe_defense": "F3+X+BlueMarvel",
+      "defoff": 1.3292106364193823,
+      "score": -7.523262097072836
+    },
+    "drive_url": "https://drive.google.com/file/d/1-TLNl0PneowBo4ikTj1M6KqsE9OcwjOx/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_008.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_008.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9669016,
+      "puissance_defense": 11503692,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone+IronPatriot (-Elsa)",
+      "equipe_defense": "F3+X+BlueMarvel",
+      "defoff": 1.1897479536697426,
+      "score": 11.897479536697427
+    },
+    "drive_url": "https://drive.google.com/file/d/11BFDJCqGw8Ph2HrokEbE9SU6LkNJpahi/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_009.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7316748,
+      "puissance_defense": 7913772,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Symbiote 6+EmmaFrost+Quasar (-Knull -Venom)",
+      "equipe_defense": "Starjammer NovaSam+AmericaChavez (-Havok -Raccoon)",
+      "defoff": 1.08159690616651,
+      "score": -7.396470861177199
+    },
+    "drive_url": "https://drive.google.com/file/d/1uBH6hjauB7j-JjvEntDbSFI2Mm8gDLRv/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_011.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_011.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5670345,
+      "puissance_defense": 7765554,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "Mercs 4 Money+Skrull (-Deadpool)",
+      "equipe_defense": "Phoenix Force+Cannonball+Skrull",
+      "defoff": 1.3695029138438666,
+      "score": 10.271271853828999
+    },
+    "drive_url": "https://drive.google.com/file/d/1bOSsiyqJF3IPfEp-3d4BylUN4YNgUBmS/view"
+  },
+  {
+    "filename": "2026-06-30_Reactor_attack_combat_012.png",
+    "local_path": "captures/2026-06-30_Reactor_attack_combat_012.png",
+    "date": "2026-06-30",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5057136,
+      "puissance_defense": 3441761,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "New Avenger+Sentry (-AgentCoulson)",
+      "equipe_defense": "New Avenger",
+      "defoff": 0.6805751318532861,
+      "score": 5.1043134888996455
+    },
+    "drive_url": "https://drive.google.com/file/d/1A7plMNpYK3OB73leeOWPG6tGCDaBMtBS/view"
+  },
+  {
     "filename": "2026-06-30_Armory_defense_combat_001.png",
     "local_path": "captures/2026-06-30_Armory_defense_combat_001.png",
     "date": "2026-06-30",
