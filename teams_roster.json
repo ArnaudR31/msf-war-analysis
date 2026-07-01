@@ -10,7 +10,7 @@
         "ProphetZer078": 7482492,
         "Renegademaster1": 5723414,
         "Ggplz": 7925020,
-        "Flizip420": 6169730,
+        "Flizip420": 6318697,
         "linseeed ):": 7804284,
         "Commander joe": 8294525
       }
@@ -31,6 +31,12 @@
     },
   "Absolute A-Force MoonGirl+BlueMarvel":
     {"characters": ["moon-girl", "kahhori", "medusa", "ms-marvel-classic", "blue-marvel"],
+      "powers": {
+        "TheOneWhoRemains": 8839508
+      }
+    },
+  "Absolute A-Force MoonGirl+Dormammu":
+    {"characters": ["moon-girl", "kahhori", "medusa", "ms-marvel-classic", "dormammu"],
       "powers": {}
     },
   "Absolute A-Force MoonGirl+JeanGrey":
@@ -39,6 +45,10 @@
     },
   "Absolute A-Force MoonGirl+Mephisto":
     {"characters": ["moon-girl", "kahhori", "medusa", "ms-marvel-classic", "mephisto"],
+      "powers": {}
+    },
+  "Absolute A-Force MoonGirl+MsMarvel":
+    {"characters": ["moon-girl", "kahhori", "medusa", "ms-marvel-classic", "ms-marvel"],
       "powers": {}
     },
   "Absolute A-Force MoonGirl+Quasar":
@@ -54,6 +64,12 @@
   "Absolute A-Force+Apocalypse (-Ironheart)":
     {"characters": ["apocalypse", "kahhori", "medusa", "ms-marvel-classic", "wasp"],
       "powers": {}
+    },
+  "Absolute A-Force+Apocalypse+Kang":
+    {"characters": ["apocalypse", "kahhori", "medusa", "ms-marvel-classic", "kang-the-conqueror"],
+      "powers": {
+        "REDRUM": 7328581
+      }
     },
   "Absolute A-Force+Blastaar+Thunderstrike":
     {"characters": ["blastaar", "kahhori", "medusa", "ms-marvel-classic", "thunderstrike"],
@@ -85,6 +101,14 @@
     },
   "Absolute A-Force+Mephisto+Skrull (-Medusa -Ironheart)":
     {"characters": ["kahhori", "super-skrull", "ms-marvel-classic", "wasp", "mephisto"],
+      "powers": {}
+    },
+  "Absolute A-Force+Mephisto+ThanosEndgame":
+    {"characters": ["kahhori", "mephisto", "ms-marvel-classic", "Medusa", "thanos-endgame"],
+      "powers": {}
+    },
+  "Absolute A-Force+Odin (-Wasp)":
+    {"characters": ["odin", "kahhori", "medusa", "ms-marvel-classic", "ironheart"],
       "powers": {}
     },
   "Absolute A-Force+Odin+Ares":
@@ -129,7 +153,9 @@
         "Ggplz": 8922207,
         "Nick": 5806270,
         "Compnut5x": 9155350,
-        "Argarwaen": 7818020
+        "Argarwaen": 7818020,
+        "Thunder Nuts": 8691401,
+        "Actionjackson": 7970220
       }
     },
   "Accursed Azazel (-Juggernaut)":
@@ -138,7 +164,9 @@
     },
   "Accursed Azazel (-Mordo)":
     {"characters": ["hellverine", "azazel", "juggernaut", "satana", "the-hood"],
-      "powers": {}
+      "powers": {
+        "Commander Schnoo": 7157040
+      }
     },
   "Accursed Azazel (-Satana)":
     {"characters": ["hellverine", "juggernaut", "mordo", "azazel", "the-hood"],
@@ -146,7 +174,9 @@
     },
   "Accursed Azazel+SebastianShaw (-Mordo -Hellverine)":
     {"characters": ["sebastian-shaw", "azazel", "juggernaut", "satana", "the-hood"],
-      "powers": {}
+      "powers": {
+        "TheOneWhoRemains": 9299161
+      }
     },
   "Accursed+Blastaar (-Mordo)":
     {"characters": ["hellverine", "blastaar", "juggernaut", "satana", "the-hood"],
@@ -161,7 +191,9 @@
   "Accursed+Mephisto (-Mordo)":
     {"characters": ["hellverine", "mephisto", "juggernaut", "satana", "the-hood"],
       "powers": {
-        "Compnut5x": 9579126
+        "Compnut5x": 9579126,
+        "Cosmicful": 7997654,
+        "REDRUM": 8651096
       }
     },
   "Accursed+Odin (-Mordo)":
@@ -181,7 +213,10 @@
   "Alpha Flight":
     {"characters": ["guardian", "northstar", "sasquatch", "sunfire", "wolverine"],
       "powers": {
-        "Renegademaster1": 5772700
+        "Renegademaster1": 5772700,
+        "Actionjackson": 5533181,
+        "ProphetZer078": 6764195,
+        "Ggplz": 6517479
       }
     },
   "Alpha Flight+Doom (-Guardian)":
@@ -220,10 +255,15 @@
     {"characters": ["guardian", "northstar", "sasquatch", "sunfire", "spider-man-big-time"],
       "powers": {}
     },
+  "AmericaChavez+BlackKnight+Groot+Hellverine+Lilandra":
+    {"characters": ["america-chavez", "black-knight", "groot", "hellverine", "lilandra"],
+      "powers": {}
+    },
   "Annihilator":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "silver-surfer", "ultimus"],
       "powers": {
-        "Argarwaen": 7219002
+        "Argarwaen": 7219002,
+        "ShadowsAndDust": 8310950
       }
     },
   "Annihilator+Apocalypse (-SS)":
@@ -254,9 +294,15 @@
     {"characters": ["gladiator", "gorr", "howard-the-duck", "silver-surfer", "lilandra"],
       "powers": {}
     },
+  "Annihilator+Howard+Skrull (-SS -Ultimus)":
+    {"characters": ["gladiator", "gorr", "thanos-endgame", "howard-the-duck", "super-skrull"],
+      "powers": {}
+    },
   "Annihilator+Kahhori+Ironheart (-SS -Ultimus)":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "kahhori", "ironheart"],
-      "powers": {}
+      "powers": {
+        "Thunder Nuts": 9077606
+      }
     },
   "Annihilator+Knull (-SilverSurfer)":
     {"characters": ["thanos-endgame", "gladiator", "gorr", "ultimus", "knull"],
@@ -278,7 +324,9 @@
     },
   "Annihilator+Knull+Venom (-SS -Ultimus)":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "knull", "venom"],
-      "powers": {}
+      "powers": {
+        "TheOneWhoRemains": 13338208
+      }
     },
   "Annihilator+Lilandra+Nightcrawler (-SS -Ultimus)":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "lilandra", "nightcrawler"],
@@ -286,6 +334,10 @@
     },
   "Annihilator+Mephisto (-SS)":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "mephisto", "ultimus"],
+      "powers": {}
+    },
+  "Annihilator+Mephisto (-Ultimus)":
+    {"characters": ["gladiator", "gorr", "thanos-endgame", "mephisto", "silver-surfer"],
       "powers": {}
     },
   "Annihilator+Mephisto+ShadowKing (-SS -Gorr)":
@@ -340,7 +392,9 @@
     },
   "Annihilator+Skrull (-SilverSurfer)":
     {"characters": ["gladiator", "gorr", "thanos-endgame", "super-skrull", "ultimus"],
-      "powers": {}
+      "powers": {
+        "Commander Schnoo": 7126021
+      }
     },
   "Annihilator+Thanos (-ThanosEndgame)":
     {"characters": ["gladiator", "gorr", "thanos", "silver-surfer", "ultimus"],
@@ -370,6 +424,14 @@
     {"characters": ["apocalypse", "black-knight", "mephisto", "odin", "old-man-logan"],
       "powers": {}
     },
+  "Apocalypse+Blastaar+Mephisto+Sentry+Thunderstrike":
+    {"characters": ["apocalypse", "blastaar", "mephisto", "odin", "old-man-logan"],
+      "powers": {}
+    },
+  "Apocalypse+Blastaar+Odin+Quasar+X":
+    {"characters": ["apocalypse", "blastaar", "odin", "quasar", "professor-xavier"],
+      "powers": {}
+    },
   "Apocalypse+Blastaar+Sentry+Skrull+Thunderstrike":
     {"characters": ["apocalypse", "blastaar", "sentry", "super-skrull", "thunderstrike"],
       "powers": {
@@ -381,6 +443,10 @@
       "powers": {
         "MOllywOp": 8452161
       }
+    },
+  "Apocalypse+Odin+Sentry+Skrull+SSBreaker":
+    {"characters": ["apocalypse", "odin", "sentry", "super-skrull", "silver-surfer-breaker"],
+      "powers": {}
     },
   "Apocalypse+OmegaRedPF+Phoenix+Sentry+Skrull":
     {"characters": ["apocalypse", "omega-red-phoenix-force", "phoenix", "sentry", "super-skrull"],
@@ -402,12 +468,17 @@
     {"characters": ["ancient-one", "doctor-strange", "emma-frost-xmen", "moondragon", "shadow-king"],
       "powers": {
         "MOllywOp": 8994322,
-        "Flizip420": 7345371,
+        "Flizip420": 7686890,
         "Thunder Nuts": 6728028,
         "Cosmicful": 7076380,
         "T Dawg": 9131870,
         "Cosmicblight": 7756244,
-        "Argarwaen": 8002036
+        "Argarwaen": 8002036,
+        "Renegademaster1": 7688968,
+        "JCTAR": 9964405,
+        "TheOneWhoRemains": 8269118,
+        "Actionjackson": 6866664,
+        "Ggplz": 8410011
       }
     },
   "Astral+AmericaChavez (-Moondragon)":
@@ -426,13 +497,20 @@
     {"characters": ["ancient-one", "doctor-strange", "emma-frost-xmen", "cosmic-ghost-rider", "shadow-king"],
       "powers": {}
     },
+  "Astral+Guardian+Northstar (-EmmaFrostXMen -Moondragon)":
+    {"characters": ["ancient-one", "doctor-strange", "northstar", "guardian", "shadow-king"],
+      "powers": {}
+    },
   "Astral+Knull (-Moondragon)":
     {"characters": ["ancient-one", "doctor-strange", "emma-frost-xmen", "knull", "shadow-king"],
       "powers": {}
     },
   "Astral+Mephisto (-DrStrange)":
     {"characters": ["ancient-one", "mephisto", "emma-frost-xmen", "moondragon", "shadow-king"],
-      "powers": {}
+      "powers": {
+        "Commander Schnoo": 8249440,
+        "ProphetZer078": 9039268
+      }
     },
   "Astral+Mephisto (-Moondragon)":
     {"characters": ["ancient-one", "doctor-strange", "emma-frost-xmen", "mephisto", "shadow-king"],
@@ -462,13 +540,19 @@
     },
   "Astral+Skrull (-Moondragon)":
     {"characters": ["ancient-one", "super-skrull", "emma-frost-xmen", "super-skrull", "shadow-king"],
-      "powers": {}
+      "powers": {
+        "REDRUM": 7944762
+      }
     },
   "Azazel+Blade+JeanGrey+Lilandra+SebastianShaw":
     {"characters": ["azazel", "blade", "jean-grey", "lilandra", "sebastian-shaw"],
       "powers": {
         "MOllywOp": 10031951
       }
+    },
+  "Azazel+Hellverine+Northstar+Satana+SebastianShaw":
+    {"characters": ["azazel", "hellverine", "northstar", "satana", "sebastian-shaw"],
+      "powers": {}
     },
   "Beast+BlackKnight+JeanGrey+Lilandra+Thing":
     {"characters": ["beast", "black-knight", "jean-grey", "lilandra", "the-thing"],
@@ -490,6 +574,10 @@
     },
   "BlackCat+BlackWidow+Guardian+YoYo+ZScarletWitch":
     {"characters": ["black-cat", "black-widow", "guardian", "yo-yo", "scarlet-witch-zombie"],
+      "powers": {}
+    },
+  "BlackKnight+Gorr+Knull+RedGoblin+VoidKnight":
+    {"characters": ["black-knight", "gorr", "knull", "red-goblin", "void-knight"],
       "powers": {}
     },
   "Blade+EbonyMaw+SSBreaker+Oath+SpiderMan":
@@ -527,14 +615,14 @@
       "powers": {
         "ShadowsAndDust": 10941460,
         "Flizip420": 9894252,
-        "MOllywOp": 11435843,
+        "MOllywOp": 11448518,
         "TheOneWhoRemains": 10777968,
         "TwistyMcNip": 13985298,
         "JCTAR": 16481208,
         "Nick": 8527421,
         "ProphetZer078": 10354997,
         "linseeed ):": 8657828,
-        "Thunder Nuts": 11130563,
+        "Thunder Nuts": 11425307,
         "Cosmicblight": 12055232,
         "Renegademaster1": 8458807,
         "EuskalNono": 10700628,
@@ -551,14 +639,20 @@
         "TheOneWhoRemains": 10624479,
         "Thunder Nuts": 11028381,
         "Actionjackson": 11033747,
-        "REDRUM": 10224598
+        "REDRUM": 10224598,
+        "Ggplz": 9756321
       }
     },
   "Brimstone+BlackCat (-Elsa)":
     {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "black-cat"],
       "powers": {
-        "MOllywOp": 11000593
+        "MOllywOp": 11000593,
+        "TwistyMcNip": 13184526
       }
+    },
+  "Brimstone+BlueMarvel (-Elsa)":
+    {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "blue-marvel"],
+      "powers": {}
     },
   "Brimstone+EmmaFrost (-Elsa)":
     {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "emma-frost"],
@@ -591,9 +685,21 @@
         "EuskalNono": 8654529
       }
     },
+  "Brimstone+IronPatriot (-Elsa)":
+    {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "iron-patriot"],
+      "powers": {
+        "EuskalNono": 9669016
+      }
+    },
   "Brimstone+Mephisto (-Elsa)":
     {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "mephisto"],
       "powers": {}
+    },
+  "Brimstone+Odin (-Elsa)":
+    {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "odin"],
+      "powers": {
+        "T Dawg": 14018881
+      }
     },
   "Brimstone+Quasar (-Elsa)":
     {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "quasar"],
@@ -610,7 +716,8 @@
   "Brimstone+X (-Elsa)":
     {"characters": ["daimon-hellstrom", "strange-heartless", "hellcat", "living-mummy", "professor-xavier"],
       "powers": {
-        "Nick": 9767526
+        "Nick": 9767526,
+        "Cosmicful": 10365243
       }
     },
   "Cabal+AmericaChavez+Gladiator":
@@ -640,6 +747,10 @@
     {"characters": ["the-leader", "namor", "iron-patriot", "ares", "omega-red-phoenix-force"],
       "powers": {}
     },
+  "Cabal+Blastaar+Quasar":
+    {"characters": ["the-leader", "namor", "iron-patriot", "blastaar", "quasar"],
+      "powers": {}
+    },
   "Cabal+Doom+Kang":
     {"characters": ["the-leader", "namor", "iron-patriot", "doctor-doom", "kang-the-conqueror"],
       "powers": {}
@@ -660,6 +771,10 @@
     {"characters": ["the-leader", "namor", "iron-patriot", "emma-frost", "loki"],
       "powers": {}
     },
+  "Cabal+Gladiator+Skrull":
+    {"characters": ["the-leader", "namor", "iron-patriot", "gladiator", "super-skrull"],
+      "powers": {}
+    },
   "Cabal+Gorr+Skrull":
     {"characters": ["the-leader", "namor", "iron-patriot", "gorr", "super-skrull"],
       "powers": {}
@@ -668,6 +783,12 @@
     {"characters": ["the-leader", "namor", "iron-patriot", "kang-the-conqueror", "super-skrull"],
       "powers": {
         "MOllywOp": 6575828
+      }
+    },
+  "Cabal+Kang+Titania":
+    {"characters": ["the-leader", "namor", "iron-patriot", "kang-the-conqueror", "titania"],
+      "powers": {
+        "Cosmicful": 4738319
       }
     },
   "Cabal+Knull+Skrull":
@@ -713,7 +834,14 @@
         "Cosmicblight": 15017316,
         "XCRISTOX": 12663623,
         "EuskalNono": 8071559,
-        "Commander Schnoo": 6602048
+        "Commander Schnoo": 6602048,
+        "JCTAR": 15139426,
+        "FLØKI": 12090740,
+        "Cosmicful": 9473962,
+        "REDRUM": 9574624,
+        "Thunder Nuts": 7419603,
+        "Ggplz": 12263616,
+        "ProphetZer078": 9284817
       }
     },
   "Champion+BlackKnight (-MoonGirl)":
@@ -741,13 +869,17 @@
   "Daring Warrior":
     {"characters": ["daredevil", "eclipse", "jessica-jones", "night-thrasher", "speedball"],
       "powers": {
-        "ShadowsAndDust": 10680505,
+        "ShadowsAndDust": 10790280,
         "JCTAR": 15472160,
         "Renegademaster1": 8540968,
         "Nick": 6810396,
         "Commander Schnoo": 9939514,
         "linseeed ):": 9824202,
-        "Ggplz": 9676240
+        "Ggplz": 9676240,
+        "Cosmicful": 7797278,
+        "Thunder Nuts": 11867371,
+        "Actionjackson": 11078371,
+        "MOllywOp": 10526857
       }
     },
   "Daring Warrior+Apocalypse (-JessicaJones)":
@@ -799,7 +931,7 @@
   "Exalted X-Men+EmmaXMen (-Morph)":
     {"characters": ["angel", "jubilee", "emma-frost-xmen", "storm-mighty", "wolverine"],
       "powers": {
-        "FLØKI": 9854809
+        "FLØKI": 11643454
       }
     },
   "Exalted X-Men+Gambit (-Morph)":
@@ -816,10 +948,30 @@
     {"characters": ["angel", "jubilee", "odin", "storm-mighty", "wolverine"],
       "powers": {}
     },
+  "Exalted X-Men+OldManLogan (-Wolverine)":
+    {"characters": ["angel", "jubilee", "morph", "storm-mighty", "old-man-logan"],
+      "powers": {}
+    },
+  "Exalted X-Men+OldManLogan+SpiderMan (-Jubilee -StormMighty)":
+    {"characters": ["morph", "angel", "wolverine", "old-man-logan", "spider-man"],
+      "powers": {
+        "ShadowsAndDust": 9109296
+      }
+    },
   "Exalted X-Men+Quasar (-Morph)":
     {"characters": ["angel", "jubilee", "quasar", "storm-mighty", "wolverine"],
       "powers": {
         "FLØKI": 11337247
+      }
+    },
+  "Exalted X-Men+Quasar (-Wolverine)":
+    {"characters": ["angel", "jubilee", "morph", "storm-mighty", "quasar"],
+      "powers": {}
+    },
+  "Exalted X-Men+Sasquatch (-Morph)":
+    {"characters": ["angel", "jubilee", "sasquatch", "storm-mighty", "wolverine"],
+      "powers": {
+        "Commander Schnoo": 6926731
       }
     },
   "Exalted X-Men+Sentry (-Morph)":
@@ -841,7 +993,17 @@
   "Exalted X-Men+SSBreaker (-Wolverine)":
     {"characters": ["angel", "jubilee", "morph", "storm-mighty", "silver-surfer-breaker"],
       "powers": {
-        "EuskalNono": 8152270
+        "EuskalNono": 8248134
+      }
+    },
+  "F3+Ares+X":
+    {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "ares", "professor-xavier"],
+      "powers": {}
+    },
+  "F3+Blastaar+Torch":
+    {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "blastaar", "human-torch"],
+      "powers": {
+        "Nick": 12396113
       }
     },
   "F3+Blastaar+X":
@@ -906,6 +1068,10 @@
         "TwistyMcNip": 16177406
       }
     },
+  "F3+Nightcrawler+Torch":
+    {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "nightcrawler", "human-torch"],
+      "powers": {}
+    },
   "F3+Odin+Quasar":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "odin", "quasar"],
       "powers": {
@@ -955,6 +1121,10 @@
         "TheOneWhoRemains": 13879537,
         "Thunder Nuts": 11980877
       }
+    },
+  "F3+SpiderMan+Thing":
+    {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "spider-man", "the-thing"],
+      "powers": {}
     },
   "F3+SSBreaker+Torch":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "silver-surfer-breaker", "human-torch"],
@@ -1012,9 +1182,17 @@
         "Nick": 15401191
       }
     },
+  "F3+X+NickFury":
+    {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "professor-xavier", "nick-fury"],
+      "powers": {
+        "REDRUM": 12723454
+      }
+    },
   "F3+X+Nightcrawler":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "professor-xavier", "nightcrawler"],
-      "powers": {}
+      "powers": {
+        "Ggplz": 12122707
+      }
     },
   "F3+X+Odin":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "professor-xavier", "odin"],
@@ -1022,7 +1200,8 @@
         "ShadowsAndDust": 14435041,
         "Renegademaster1": 10827409,
         "JCTAR": 18419554,
-        "Flizip420": 13006975
+        "Flizip420": 13006975,
+        "linseeed ):": 12260989
       }
     },
   "F3+X+Quasar":
@@ -1037,7 +1216,9 @@
     },
   "F3+X+ShadowKing":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "professor-xavier", "shadow-king"],
-      "powers": {}
+      "powers": {
+        "FLØKI": 14891232
+      }
     },
   "F3+X+Thing":
     {"characters": ["franklin-richards", "invisible-woman-mcu", "mister-fantastic-mcu", "professor-xavier", "the-thing"],
@@ -1060,7 +1241,7 @@
         "Commander Schnoo": 7761920
       }
     },
-  "Galactic Council+Apocalypse+Knull (-StarLord -AdamWarlock)":
+  "Galactic Council+Apocalypse+Knull (-AdamWarlock -StarLord)":
     {"characters": ["knull", "blastaar", "quasar", "apocalypse", "thunderstrike"],
       "powers": {
         "ShadowsAndDust": 11214158
@@ -1070,35 +1251,55 @@
     {"characters": ["adam-warlock", "blastaar", "quasar", "black-knight", "thunderstrike"],
       "powers": {}
     },
+  "Galactic Council+BlackKnight+Sentry (-AdamWarlock -StarLord)":
+    {"characters": ["sentry", "blastaar", "quasar", "black-knight", "thunderstrike"],
+      "powers": {
+        "ShadowsAndDust": 9731774
+      }
+    },
   "Galactic Council+BlueMarvel (-StarLord)":
     {"characters": ["adam-warlock", "blastaar", "quasar", "blue-marvel", "thunderstrike"],
       "powers": {}
     },
-  "Galactic Council+BlueMarvel+Sentry (-StarLord -AdamWarlock)":
+  "Galactic Council+BlueMarvel+Sentry (-AdamWarlock -StarLord)":
     {"characters": ["blue-marvel", "blastaar", "quasar", "sentry", "thunderstrike"],
       "powers": {}
     },
-  "Galactic Council+Kang+Sentry (-StarLord -AdamWarlock)":
+  "Galactic Council+Dormammu+Odin (-AdamWarlock -StarLord)":
+    {"characters": ["dormammu", "blastaar", "quasar", "odin", "thunderstrike"],
+      "powers": {}
+    },
+  "Galactic Council+Kang+Sentry (-AdamWarlock -StarLord)":
     {"characters": ["blastaar", "quasar", "kang-the-conqueror", "thunderstrike", "sentry"],
       "powers": {}
     },
-  "Galactic Council+Mephisto+Apocalypse (-StarLord -AdamWarlock)":
+  "Galactic Council+Mephisto+Apocalypse (-AdamWarlock -StarLord)":
     {"characters": ["mephisto", "blastaar", "quasar", "apocalypse", "thunderstrike"],
       "powers": {
         "MOllywOp": 10685239
       }
     },
-  "Galactic Council+Mephisto+Knull (-StarLord -AdamWarlock)":
+  "Galactic Council+Mephisto+Knull (-AdamWarlock -StarLord)":
     {"characters": ["mephisto", "blastaar", "quasar", "knull", "thunderstrike"],
       "powers": {}
     },
-  "Galactic Council+Mephisto+X (-StarLord -AdamWarlock)":
+  "Galactic Council+Mephisto+Odin (-AdamWarlock -StarLord)":
+    {"characters": ["mephisto", "blastaar", "quasar", "odin", "thunderstrike"],
+      "powers": {}
+    },
+  "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)":
+    {"characters": ["mephisto", "blastaar", "quasar", "sentry", "thunderstrike"],
+      "powers": {
+        "JCTAR": 13328492
+      }
+    },
+  "Galactic Council+Mephisto+X (-AdamWarlock -StarLord)":
     {"characters": ["mephisto", "blastaar", "quasar", "professor-xavier", "thunderstrike"],
       "powers": {
         "MOllywOp": 12137596
       }
     },
-  "Galactic Council+MoonKnight+SilverSurfer (-StarLord -AdamWarlock)":
+  "Galactic Council+MoonKnight+SilverSurfer (-AdamWarlock -StarLord)":
     {"characters": ["silver-surfer", "blastaar", "quasar", "moon-knight", "thunderstrike"],
       "powers": {
         "ShadowsAndDust": 9427575
@@ -1110,17 +1311,21 @@
         "Commander Schnoo": 8682836
       }
     },
-  "Galactic Council+Sentry+StormMighty (-StarLord -AdamWarlock)":
+  "Galactic Council+OldManLogan+Pandapool (-AdamWarlock -StarLord)":
+    {"characters": ["pandapool", "blastaar", "quasar", "old-man-logan", "thunderstrike"],
+      "powers": {}
+    },
+  "Galactic Council+Sentry+StormMighty (-AdamWarlock -StarLord)":
     {"characters": ["storm-mighty", "blastaar", "quasar", "sentry", "thunderstrike"],
       "powers": {}
     },
-  "Galactic Council+ShadowKing+X (-StarLord -AdamWarlock)":
+  "Galactic Council+ShadowKing+X (-AdamWarlock -StarLord)":
     {"characters": ["shadow-king", "blastaar", "quasar", "professor-xavier", "thunderstrike"],
       "powers": {
         "MOllywOp": 11896647
       }
     },
-  "Galactic Council+SpiderManBigTime+VoidKnight (-StarLord -AdamWarlock)":
+  "Galactic Council+SpiderManBigTime+VoidKnight (-AdamWarlock -StarLord)":
     {"characters": ["spider-man-big-time", "blastaar", "quasar", "void-knight", "thunderstrike"],
       "powers": {}
     },
@@ -1152,7 +1357,11 @@
         "TwistyMcNip": 10580161,
         "MOllywOp": 8926102,
         "Renegademaster1": 6323539,
-        "Argarwaen": 8224129
+        "Argarwaen": 8224129,
+        "REDRUM": 8489412,
+        "ProphetZer078": 8371250,
+        "Ggplz": 9033886,
+        "linseeed ):": 8120375
       }
     },
   "Hellfire Club+Apocalypse (-EmmaFrost)":
@@ -1163,12 +1372,20 @@
     {"characters": ["azazel", "black-knight", "madelyne-pryor", "rachel-summers", "sebastian-shaw"],
       "powers": {}
     },
+  "Hellfire Club+BlackKnight+Blastaar (-Azazel -EmmaFrost)":
+    {"characters": ["blastaar", "black-knight", "madelyne-pryor", "rachel-summers", "sebastian-shaw"],
+      "powers": {}
+    },
   "Hellfire Club+Blastaar+Cable (-EmmaFrost -MadelynePryor)":
     {"characters": ["azazel", "blastaar", "cable", "rachel-summers", "sebastian-shaw"],
       "powers": {}
     },
   "Hellfire Club+BlueMarvel (-EmmaFrost)":
     {"characters": ["azazel", "blue-marvel", "madelyne-pryor", "rachel-summers", "sebastian-shaw"],
+      "powers": {}
+    },
+  "Hellfire Club+CosmicGhostRider (-MadelynePryor)":
+    {"characters": ["azazel", "emma-frost", "cosmic-ghost-rider", "rachel-summers", "sebastian-shaw"],
       "powers": {}
     },
   "Hellfire Club+Dormammu (-EmmaFrost)":
@@ -1216,6 +1433,10 @@
         "Commander Schnoo": 8775314
       }
     },
+  "Hellfire Club+ShadowKing (-EmmaFrost)":
+    {"characters": ["azazel", "shadow-king", "madelyne-pryor", "rachel-summers", "sebastian-shaw"],
+      "powers": {}
+    },
   "Hellfire Club+Skrull (-EmmaFrost)":
     {"characters": ["azazel", "super-skrull", "madelyne-pryor", "rachel-summers", "sebastian-shaw"],
       "powers": {
@@ -1259,7 +1480,10 @@
   "Hive-Mind Knull (-Venom)":
     {"characters": ["knull", "carnage", "gwenom", "red-goblin", "void-knight"],
       "powers": {
-        "Flizip420": 6211131
+        "Flizip420": 6211131,
+        "Renegademaster1": 5526180,
+        "Commander Schnoo": 6756706,
+        "Actionjackson": 6985956
       }
     },
   "Hive-Mind Knull+Gorr (-Gwenom -Carnage)":
@@ -1272,14 +1496,26 @@
     },
   "Hive-Mind Knull+Gorr (-Venom -Carnage)":
     {"characters": ["knull", "gorr", "gwenom", "red-goblin", "void-knight"],
-      "powers": {}
+      "powers": {
+        "REDRUM": 9898900
+      }
     },
   "Hive-Mind Knull+Gorr (-Venom -Gwenom)":
     {"characters": ["knull", "carnage", "gorr", "red-goblin", "void-knight"],
+      "powers": {
+        "ProphetZer078": 6993245
+      }
+    },
+  "Hive-Mind Knull+QuicksilverSymbiote (-Gwenom -RedGoblin)":
+    {"characters": ["knull", "carnage", "venom", "quicksilver-symbiote", "void-knight"],
       "powers": {}
     },
   "Hive-Mind Knull+ShadowKing (-Venom -Gwenom)":
     {"characters": ["knull", "carnage", "shadow-king", "red-goblin", "void-knight"],
+      "powers": {}
+    },
+  "Hive-Mind Knull+Skrull (-Venom -Carnage)":
+    {"characters": ["knull", "gwenom", "super-skrull", "red-goblin", "void-knight"],
       "powers": {}
     },
   "Hive-Mind Knull+Skrull (-Venom -Gwenom)":
@@ -1296,7 +1532,9 @@
     },
   "Hive-Mind+Skrull (-Venom)":
     {"characters": ["super-skrull", "carnage", "gwenom", "red-goblin", "void-knight"],
-      "powers": {}
+      "powers": {
+        "Flizip420": 4852734
+      }
     },
   "Hyperion+VictoriaHand+Skrull+Dormammu+StarLord":
     {"characters": ["hyperion", "victoria-hand", "super-skrull", "dormammu", "star-lord"],
@@ -1306,7 +1544,8 @@
     {"characters": ["black-bolt", "black-panther-shuri", "captain-britain", "hank-pym", "iron-man"],
       "powers": {
         "Nick": 5393541,
-        "Argarwaen": 5485270
+        "Argarwaen": 5485270,
+        "ProphetZer078": 5795888
       }
     },
   "Illuminati IronMan MrFantastic (-CaptainBritain)":
@@ -1321,7 +1560,8 @@
     {"characters": ["black-bolt", "black-panther-shuri", "captain-britain", "hank-pym", "mister-fantastic"],
       "powers": {
         "EuskalNono": 3240364,
-        "Cosmicblight": 3757339
+        "Cosmicblight": 3757339,
+        "Renegademaster1": 4907164
       }
     },
   "Illuminati MrFantastic+Odin (-IronMan -BlackBolt)":
@@ -1381,7 +1621,8 @@
         "Thunder Nuts": 10334574,
         "Commander Schnoo": 10106769,
         "TheOneWhoRemains": 10462442,
-        "ProphetZer078": 11118860
+        "ProphetZer078": 11118860,
+        "Flizip420": 7423070
       }
     },
   "Immortal Weapon+X (-LadyBullseye)":
@@ -1400,11 +1641,15 @@
     },
   "Immortal X-Men+Nightcrawler+BlackKnight (-Beast -Polaris)":
     {"characters": ["nightcrawler", "cable", "jean-grey", "black-knight", "storm"],
-      "powers": {}
+      "powers": {
+        "Thunder Nuts": 7205974
+      }
     },
   "Infestation":
     {"characters": ["ant-man", "black-widow", "spider-man-big-time", "swarm", "yellowjacket"],
-      "powers": {}
+      "powers": {
+        "Ggplz": 9342428
+      }
     },
   "Infestation Scorpion (-AntMan)":
     {"characters": ["scorpion", "black-widow", "spider-man-big-time", "swarm", "yellowjacket"],
@@ -1412,11 +1657,16 @@
     },
   "Infestation Scorpion (-BlackWidow)":
     {"characters": ["ant-man", "scorpion", "spider-man-big-time", "swarm", "yellowjacket"],
-      "powers": {}
+      "powers": {
+        "FLØKI": 11820661
+      }
     },
   "Infestation Scorpion (-Swarm)":
     {"characters": ["ant-man", "black-widow", "spider-man-big-time", "scorpion", "yellowjacket"],
-      "powers": {}
+      "powers": {
+        "Actionjackson": 5988186,
+        "ProphetZer078": 7362876
+      }
     },
   "Infestation Scorpion+Odin+Sentry (-AntMan -Swarm -Yellowjacket)":
     {"characters": ["scorpion", "black-widow", "spider-man-big-time", "odin", "sentry"],
@@ -1469,7 +1719,10 @@
   "Insidious 6+Vulture+GreenGoblinClassic":
     {"characters": ["hobgoblin", "scorpion", "green-goblin-classic", "superior-spider-man", "vulture"],
       "powers": {
-        "Flizip420": 7575963
+        "Flizip420": 7575963,
+        "EuskalNono": 7322233,
+        "Thunder Nuts": 12273157,
+        "TheOneWhoRemains": 9886690
       }
     },
   "Insidious 6+Vulture+GreenGoblinClassic+Mysterio (-Scorpion)":
@@ -1500,7 +1753,11 @@
         "JCTAR": 13703660,
         "Thunder Nuts": 13401503,
         "EuskalNono": 8299230,
-        "Commander joe": 12775691
+        "Commander joe": 12775691,
+        "Renegademaster1": 7599722,
+        "REDRUM": 13883154,
+        "Cosmicful": 7336231,
+        "Ggplz": 10239226
       }
     },
   "Insidious 6+Vulture+Shocker+GreenGoblinClassic (-Scorpion)":
@@ -1513,7 +1770,8 @@
   "Insidious 6+Vulture+Shocker+Lizard (-Scorpion)":
     {"characters": ["hobgoblin", "lizard", "shocker", "superior-spider-man", "vulture"],
       "powers": {
-        "Nick": 8053505
+        "Nick": 8053505,
+        "Actionjackson": 8537433
       }
     },
   "Insidious 6+Vulture+Shocker+Mephisto (-Scorpion)":
@@ -1555,6 +1813,10 @@
     {"characters": ["knull", "gorr", "shadow-king", "emma-frost", "emma-frost-xmen"],
       "powers": {}
     },
+  "Knull+Mephisto+Odin+Skrull+Thunderstrike":
+    {"characters": ["knull", "mephisto", "odin", "super-skrull", "thunderstrike"],
+      "powers": {}
+    },
   "Knull+OmegaRedPF+Sentry+ShadowKing+Skrull":
     {"characters": ["knull", "omega-red-phoenix-force", "sentry", "shadow-king", "super-skrull"],
       "powers": {
@@ -1569,7 +1831,7 @@
         "Cosmicful": 9713425,
         "Flizip420": 10478821,
         "Ggplz": 10896752,
-        "FLØKI": 11348605,
+        "FLØKI": 12568245,
         "Actionjackson": 10731493,
         "ProphetZer078": 9209616,
         "ShadowsAndDust": 10032758,
@@ -1601,6 +1863,10 @@
         "ShadowsAndDust": 10650154
       }
     },
+  "Liberty+Knull (-WarMachine)":
+    {"characters": ["captain-america-sam", "falcon-joaquin", "patriot", "peggy-carter", "knull"],
+      "powers": {}
+    },
   "Liberty+Knull+Quasar (-PeggyCarter -WarMachine)":
     {"characters": ["captain-america-sam", "falcon-joaquin", "patriot", "knull", "quasar"],
       "powers": {
@@ -1631,7 +1897,9 @@
     },
   "Liberty+Sentry (-WarMachine)":
     {"characters": ["captain-america-sam", "falcon-joaquin", "patriot", "peggy-carter", "sentry"],
-      "powers": {}
+      "powers": {
+        "REDRUM": 8425982
+      }
     },
   "Liberty+SSBreaker+BlackKnight":
     {"characters": ["peggy-carter", "falcon-joaquin", "patriot", "silver-surfer-breaker", "black-knight"],
@@ -1681,6 +1949,10 @@
     {"characters": ["mephisto", "quasar", "blastaar", "knull", "sentry"],
       "powers": {}
     },
+  "Mephisto+Sentry+SpiderMan2099+SpiderManBigTime+SpiderWeaver":
+    {"characters": ["mephisto", "spider-man-2099", "spider-man-big-time", "spider-weaver"],
+      "powers": {}
+    },
   "Mercs 4 Money":
     {"characters": ["daken", "deadpool", "deathpool", "old-man-logan", "pandapool"],
       "powers": {
@@ -1690,8 +1962,13 @@
   "Mercs 4 Money (-Deadpool)":
     {"characters": ["daken", "deathpool", "old-man-logan", "pandapool"],
       "powers": {
-        "Nick": 4325872
+        "Nick": 4325872,
+        "T Dawg": 4911878
       }
+    },
+  "Mercs 4 Money+AdamWarlock (-Deadpool)":
+    {"characters": ["daken", "adam-warlock", "deathpool", "old-man-logan", "pandapool"],
+      "powers": {}
     },
   "Mercs 4 Money+Apocalypse (-Deadpool)":
     {"characters": ["daken", "apocalypse", "deathpool", "old-man-logan", "pandapool"],
@@ -1787,6 +2064,10 @@
         "FLØKI": 8934002
       }
     },
+  "Mercs 4 Money+ScarletWitch (-Deadpool)":
+    {"characters": ["daken", "scarlet-witch", "deathpool", "old-man-logan", "pandapool"],
+      "powers": {}
+    },
   "Mercs 4 Money+Sentry (-Deadpool)":
     {"characters": ["daken", "sentry", "deathpool", "old-man-logan", "pandapool"],
       "powers": {
@@ -1803,8 +2084,16 @@
         "Actionjackson": 5869006
       }
     },
+  "Mercs 4 Money+SSBreaker (-Deadpool)":
+    {"characters": ["daken", "silver-surfer-breaker", "deathpool", "old-man-logan", "pandapool"],
+      "powers": {}
+    },
   "Mercs 4 Money+Taskmaster (-Deadpool)":
     {"characters": ["daken", "taskmaster", "deathpool", "old-man-logan", "pandapool"],
+      "powers": {}
+    },
+  "Mercs 4 Money+Thunderstrike (-Deadpool)":
+    {"characters": ["daken", "thunderstrike", "deathpool", "old-man-logan", "pandapool"],
       "powers": {}
     },
   "Mercs 4 Money+Wolfsbane (-Deadpool)":
@@ -1828,7 +2117,8 @@
         "REDRUM": 8608449,
         "Compnut5x": 4315450,
         "Cosmicful": 4678192,
-        "linseeed ):": 7607219
+        "linseeed ):": 7607219,
+        "TheOneWhoRemains": 7516980
       }
     },
   "Mighty Avenger SwordMaster (-Vision)":
@@ -1847,7 +2137,9 @@
     },
   "Mighty Avenger+Torch+Thing (-Hercules -Falcon)":
     {"characters": ["human-torch", "the-thing", "invisible-woman", "scarlet-witch", "vision"],
-      "powers": {}
+      "powers": {
+        "JCTAR": 10480372
+      }
     },
   "Mighty Avenger+YoYo+Wolverine (-InvisibleWoman -Vision)":
     {"characters": ["falcon", "hercules", "yo-yo", "scarlet-witch", "wolverine"],
@@ -1857,13 +2149,21 @@
     {"characters": ["agent-coulson", "mockingbird", "ronin", "the-thing", "tigra"],
       "powers": {}
     },
+  "New Avenger+Sentry (-AgentCoulson)":
+    {"characters": ["sentry", "mockingbird", "ronin", "the-thing", "tigra"],
+      "powers": {
+        "Nick": 5057136
+      }
+    },
   "New Mutant":
     {"characters": ["cannonball", "magik", "sunspot", "warlock", "wolfsbane"],
       "powers": {
         "JCTAR": 15527343,
         "T Dawg": 10873164,
         "Compnut5x": 9868835,
-        "Argarwaen": 7133258
+        "Argarwaen": 7133258,
+        "Cosmicful": 8131081,
+        "Thunder Nuts": 9427473
       }
     },
   "New Mutant+Apocalypse (-Magik)":
@@ -1886,7 +2186,10 @@
         "EuskalNono": 6305627,
         "Ggplz": 8742770,
         "FLØKI": 8564976,
-        "Flizip420": 7374960
+        "Flizip420": 7374960,
+        "Thunder Nuts": 7487203,
+        "Renegademaster1": 6679755,
+        "ShadowsAndDust": 9513477
       }
     },
   "Nightstalker+Apocalypse (-MoonKnight)":
@@ -1932,6 +2235,12 @@
         "TwistyMcNip": 10587266
       }
     },
+  "Nightstalker+Odin+Skrull (-MoonKnight -Agatha)":
+    {"characters": ["blade", "oath", "odin", "man-thing", "super-skrull"],
+      "powers": {
+        "TwistyMcNip": 10507152
+      }
+    },
   "Nightstalker+Sentry (-MoonKnight)":
     {"characters": ["blade", "oath", "agatha-harkness", "man-thing", "sentry"],
       "powers": {}
@@ -1954,6 +2263,10 @@
     },
   "Odin+Apocalypse+BlackKnight+Mephisto+Sentry":
     {"characters": ["odin", "apocalypse", "black-knight", "mephisto", "sentry"],
+      "powers": {}
+    },
+  "Odin+Ares+CosmicGhostRider+MightyThor+Valkyrie":
+    {"characters": ["odin", "ares", "cosmic-ghost-rider", "mighty-thor", "valkyrie"],
       "powers": {}
     },
   "Odin+BetaRayBill+CosmicGhostRider+MightyThor+Valkyrie":
@@ -1994,6 +2307,12 @@
     {"characters": ["odin", "beta-ray-bill", "thor", "thor-infinity-war", "vahl"],
       "powers": {
         "T Dawg": 4532594
+      }
+    },
+  "Odin+BetaRayBill+Thor+Vahl+Valkyrie":
+    {"characters": ["odin", "beta-ray-bill", "thor", "vahl", "valkyrie"],
+      "powers": {
+        "Actionjackson": 4887500
       }
     },
   "Odin+BetaRayBill+ThorInfinityWar+Vahl+Valkyrie":
@@ -2064,17 +2383,24 @@
         "TheOneWhoRemains": 9279805,
         "Nick": 9701130,
         "Ggplz": 2758620,
-        "REDRUM": 8864552,
-        "FLØKI": 11982935,
+        "REDRUM": 9108073,
+        "FLØKI": 12091845,
         "Commander joe": 7459094,
-        "Thunder Nuts": 6898629,
+        "Thunder Nuts": 7117359,
         "linseeed ):": 7981927,
-        "Argarwaen": 6595804
+        "Argarwaen": 6595804,
+        "JCTAR": 12826430
       }
     },
   "Omen+Ares (-Ronan)":
     {"characters": ["silver-surfer-breaker", "ares", "minerva", "ebony-maw", "cull-obsidian"],
       "powers": {}
+    },
+  "Omen+Quasar (-Ronan)":
+    {"characters": ["silver-surfer-breaker", "quasar", "minerva", "ebony-maw", "cull-obsidian"],
+      "powers": {
+        "Nick": 10037480
+      }
     },
   "Orchis":
     {"characters": ["lady-deathstrike", "nimrod", "omega-sentinel", "scientist-supreme", "sentinel"],
@@ -2082,7 +2408,9 @@
         "ProphetZer078": 8765369,
         "Actionjackson": 8021988,
         "Cosmicblight": 6748935,
-        "Flizip420": 8373869
+        "Flizip420": 8373869,
+        "Renegademaster1": 7835772,
+        "Cosmicful": 8285928
       }
     },
   "Orchis+Ares (-OmegaSentinel)":
@@ -2128,6 +2456,10 @@
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "apocalypse", "dormammu"],
       "powers": {}
     },
+  "Phoenix Force+Apocalypse+Sentry":
+    {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "apocalypse", "sentry"],
+      "powers": {}
+    },
   "Phoenix Force+Apocalypse+Wolverine":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "apocalypse", "wolverine"],
       "powers": {
@@ -2136,11 +2468,21 @@
     },
   "Phoenix Force+Ares+Leader":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "ares", "the-leader"],
-      "powers": {}
+      "powers": {
+        "Thunder Nuts": 8209682
+      }
+    },
+  "Phoenix Force+Azazel+SSBreaker":
+    {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "azazel", "silver-surfer-breaker"],
+      "powers": {
+        "ShadowsAndDust": 7320521
+      }
     },
   "Phoenix Force+Blade+Oath":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "blade", "oath"],
-      "powers": {}
+      "powers": {
+        "Commander Schnoo": 7810404
+      }
     },
   "Phoenix Force+Blastaar+Thunderstrike":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "blastaar", "thunderstrike"],
@@ -2148,6 +2490,10 @@
     },
   "Phoenix Force+BlueMarvel+Sentry":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "blue-marvel", "sentry"],
+      "powers": {}
+    },
+  "Phoenix Force+Cannonball+Skrull":
+    {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "cannonball", "super-skrull"],
       "powers": {}
     },
   "Phoenix Force+Daimon+Nightcrawler":
@@ -2168,7 +2514,9 @@
     },
   "Phoenix Force+Mephisto+Groot":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "mephisto", "groot"],
-      "powers": {}
+      "powers": {
+        "FLØKI": 12926572
+      }
     },
   "Phoenix Force+Mephisto+Odin":
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "mephisto", "odin"],
@@ -2206,6 +2554,12 @@
     {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "quasar", "apocalypse"],
       "powers": {
         "Commander joe": 11293875
+      }
+    },
+  "Phoenix Force+Quasar+ThanosEndgame":
+    {"characters": ["magneto-phoenix-force", "omega-red-phoenix-force", "phoenix", "quasar", "thanos-endgame"],
+      "powers": {
+        "REDRUM": 8351326
       }
     },
   "Phoenix Force+Sentry+OldManLogan":
@@ -2283,7 +2637,16 @@
     {"characters": ["jeff-the-land-shark", "deadpool", "she-hulk", "squirrel-girl", "gwenpool"],
       "powers": {
         "Cosmicblight": 8906180,
-        "Argarwaen": 11578581
+        "Argarwaen": 11578581,
+        "Renegademaster1": 10063742,
+        "JCTAR": 14975084,
+        "Cosmicful": 11035414,
+        "REDRUM": 10721057,
+        "Thunder Nuts": 12811438,
+        "Actionjackson": 12125115,
+        "Commander Schnoo": 8615407,
+        "Ggplz": 11489488,
+        "ProphetZer078": 13834479
       }
     },
   "Retcon+Mephisto (-Deadpool)":
@@ -2296,7 +2659,9 @@
     },
   "Retcon+Wolverine (-Deadpool)":
     {"characters": ["jeff-the-land-shark", "wolverine", "she-hulk", "squirrel-girl", "gwenpool"],
-      "powers": {}
+      "powers": {
+        "TheOneWhoRemains": 12973973
+      }
     },
   "Secret Warrior":
     {"characters": ["domino", "negasonic", "phantom-rider", "quake", "yo-yo"],
@@ -2308,12 +2673,13 @@
         "Actionjackson": 6969970,
         "FLØKI": 11301078,
         "TwistyMcNip": 10062417,
-        "Thunder Nuts": 5957726,
+        "Thunder Nuts": 6119299,
         "JCTAR": 14486398,
         "TheOneWhoRemains": 4494161,
         "linseeed ):": 6291225,
         "Cosmicful": 4171222,
-        "Flizip420": 4914527
+        "Flizip420": 4914527,
+        "XCRISTOX": 8440858
       }
     },
   "Secret Warrior+X (-YoYo)":
@@ -2335,7 +2701,7 @@
   "Shadow Conclave":
     {"characters": ["executioner", "high-evolutionary", "malekith", "sylvie", "thanos"],
       "powers": {
-        "ShadowsAndDust": 11448560,
+        "ShadowsAndDust": 11533607,
         "EuskalNono": 7294298,
         "Ggplz": 8108582,
         "Cosmicblight": 6508732,
@@ -2343,9 +2709,11 @@
         "REDRUM": 7751790,
         "Compnut5x": 6082497,
         "JCTAR": 16462441,
-        "Cosmicful": 5001927,
+        "Cosmicful": 6835357,
         "XCRISTOX": 9700669,
-        "Argarwaen": 7202887
+        "Argarwaen": 7202887,
+        "Thunder Nuts": 10659261,
+        "Actionjackson": 10458428
       }
     },
   "Shadow Conclave+Sentry (-Malekith)":
@@ -2362,7 +2730,8 @@
     {"characters": ["ghost-spider", "peni-parker", "peter-b-parker", "spider-man-noir", "spider-man-pavitr"],
       "powers": {
         "Commander Schnoo": 5724442,
-        "Cosmicblight": 4514860
+        "Cosmicblight": 4514860,
+        "Renegademaster1": 4713774
       }
     },
   "Spider-Society+BlackCat+Dormammu (-GhostSpider -SpiderManNoir)":
@@ -2392,7 +2761,15 @@
   "Starjammer":
     {"characters": ["groot", "havok", "howard-the-duck", "lilandra", "rocket-raccoon"],
       "powers": {
-        "Cosmicblight": 7719797
+        "Cosmicblight": 7719797,
+        "Renegademaster1": 8258065,
+        "JCTAR": 11322243,
+        "Flizip420": 10330115,
+        "Cosmicful": 9037556,
+        "Actionjackson": 4999122,
+        "Commander Schnoo": 6584808,
+        "Ggplz": 10042960,
+        "T Dawg": 10956729
       }
     },
   "Starjammer NovaSam (-Havok)":
@@ -2405,6 +2782,12 @@
     },
   "Starjammer NovaSam (-Raccoon)":
     {"characters": ["groot", "havok", "howard-the-duck", "lilandra", "nova-sam-alexander"],
+      "powers": {
+        "TheOneWhoRemains": 12044042
+      }
+    },
+  "Starjammer NovaSam+AmericaChavez (-Havok -Raccoon)":
+    {"characters": ["groot", "america-chavez", "howard-the-duck", "lilandra", "nova-sam-alexander"],
       "powers": {}
     },
   "Starjammer+Ares (-Raccoon)":
@@ -2417,7 +2800,9 @@
     },
   "Starjammer+CosmicGhostRider (-Raccoon)":
     {"characters": ["groot", "havok", "howard-the-duck", "lilandra", "cosmic-ghost-rider"],
-      "powers": {}
+      "powers": {
+        "Thunder Nuts": 10391081
+      }
     },
   "Starjammer+Dormammu (-Havok)":
     {"characters": ["groot", "dormammu", "howard-the-duck", "lilandra", "rocket-raccoon"],
@@ -2483,6 +2868,12 @@
     {"characters": ["quicksilver-symbiote", "carnage", "gorr", "knull", "venom"],
       "powers": {}
     },
+  "Symbiote 6+EmmaFrost+Quasar (-Knull -Venom)":
+    {"characters": ["quicksilver-symbiote", "riot", "toxin", "emma-frost", "quasar"],
+      "powers": {
+        "EuskalNono": 7316748
+      }
+    },
   "ThanosEndgame+Gorr+BlackKnight+Blastaar+OmegaRedPF":
     {"characters": ["thanos-endgame", "gorr", "black-knight", "blastaar", "omega-red-phoenix-force"],
       "powers": {}
@@ -2510,7 +2901,10 @@
         "Ggplz": 11160881,
         "linseeed ):": 11688921,
         "Actionjackson": 10298716,
-        "Cosmicblight": 8749075
+        "Cosmicblight": 8749075,
+        "Cosmicful": 8347488,
+        "REDRUM": 9487417,
+        "ProphetZer078": 10290937
       }
     },
   "Thunderbolt LadyBullseye (-Ghost)":
@@ -2557,7 +2951,9 @@
     },
   "Thunderbolt+SpiderManBigTime (-Ghost)":
     {"characters": ["spider-man-big-time", "hyperion", "songbird", "taskmaster", "victoria-hand"],
-      "powers": {}
+      "powers": {
+        "TheOneWhoRemains": 11746802
+      }
     },
   "Uncanny Avenger":
     {"characters": ["beast", "falcon", "hercules", "jean-grey", "storm"],
@@ -2565,22 +2961,29 @@
         "Compnut5x": 8786223,
         "MOllywOp": 9609693,
         "Cosmicblight": 5228204,
-        "Argarwaen": 8786766
+        "Argarwaen": 8786766,
+        "Renegademaster1": 6823781,
+        "JCTAR": 9428567,
+        "ProphetZer078": 8691568
       }
+    },
+  "Uncanny Avenger+X (-Falcon)":
+    {"characters": ["beast", "professor-xavier", "hercules", "jean-grey", "storm"],
+      "powers": {}
     },
   "Undying":
     {"characters": ["hela", "iron-man-zombie", "juggernaut-zombie", "kestrel-zombie", "scarlet-witch-zombie"],
       "powers": {
-        "Nick": 5867340,
+        "Nick": 5965063,
         "Commander Schnoo": 8968619,
         "Ggplz": 8644384,
         "T Dawg": 6110237,
         "TheOneWhoRemains": 8204202,
         "Flizip420": 8840793,
         "FLØKI": 11376249,
-        "Cosmicful": 4060749,
+        "Cosmicful": 4123449,
         "Cosmicblight": 6625798,
-        "TwistyMcNip": 10052655,
+        "TwistyMcNip": 10818004,
         "Actionjackson": 7386983,
         "ProphetZer078": 7802786,
         "Thunder Nuts": 7033758,
@@ -2592,11 +2995,16 @@
         "REDRUM": 9616912,
         "Compnut5x": 2277124,
         "Commander joe": 8918460,
-        "Argarwaen": 5952729
+        "Argarwaen": 5952729,
+        "JCTAR": 12469360
       }
     },
   "Undying+Apocalypse (-ZKestrel)":
     {"characters": ["hela", "iron-man-zombie", "juggernaut-zombie", "apocalypse", "scarlet-witch-zombie"],
+      "powers": {}
+    },
+  "Undying+JeanGrey+Storm (-ZKestrel -ZScarletWitch)":
+    {"characters": ["hela", "iron-man-zombie", "juggernaut-zombie", "jean-grey", "storm"],
       "powers": {}
     },
   "Undying+Knull (-ZKestrel)":
@@ -2615,6 +3023,10 @@
         "ShadowsAndDust": 10535093
       }
     },
+  "Undying+Skrull (-ZScarletWitch)":
+    {"characters": ["hela", "iron-man-zombie", "juggernaut-zombie", "kestrel-zombie", "super-skrull"],
+      "powers": {}
+    },
   "Vigilante":
     {"characters": ["daredevil-modern", "elektra", "hit-monkey", "punisher", "silver-sable"],
       "powers": {
@@ -2622,7 +3034,7 @@
         "Compnut5x": 9733864,
         "EuskalNono": 9133338,
         "JCTAR": 15036073,
-        "Cosmicful": 10270853,
+        "Cosmicful": 10490339,
         "TwistyMcNip": 10994167,
         "Actionjackson": 9727168,
         "MOllywOp": 10513079,
@@ -2634,14 +3046,16 @@
         "REDRUM": 9319603,
         "ShadowsAndDust": 12724522,
         "ProphetZer078": 11026156,
-        "linseeed ):": 12020991,
+        "linseeed ):": 12289378,
         "Ggplz": 10048638,
         "Commander joe": 12724694
       }
     },
   "Vigilante+BlackKnight (-Elektra)":
     {"characters": ["daredevil-modern", "black-knight", "hit-monkey", "punisher", "silver-sable"],
-      "powers": {}
+      "powers": {
+        "TheOneWhoRemains": 9517515
+      }
     },
   "Vigilante+EmmaFrost (-Elektra)":
     {"characters": ["daredevil-modern", "emma-frost", "hit-monkey", "punisher", "silver-sable"],
@@ -2670,7 +3084,7 @@
       "powers": {
         "ProphetZer078": 12335798,
         "Nick": 14564570,
-        "T Dawg": 18615130,
+        "T Dawg": 18879930,
         "TheOneWhoRemains": 17811928,
         "Commander Schnoo": 10199966,
         "Cosmicful": 11302811,
@@ -2680,8 +3094,13 @@
         "EuskalNono": 14358352,
         "Renegademaster1": 16969218,
         "Commander joe": 21132412,
-        "linseeed ):": 12349105,
-        "Argarwaen": 13400776
+        "linseeed ):": 13595078,
+        "Argarwaen": 13400776,
+        "Cosmicblight": 18013433,
+        "JCTAR": 17348737,
+        "XCRISTOX": 20709947,
+        "REDRUM": 10845170,
+        "Ggplz": 13835323
       }
     },
   "Winter Guard (-Yelena)":
@@ -2725,7 +3144,7 @@
   "Winter Guard+Odin (-Yelena)":
     {"characters": ["darkstar", "omega-red", "red-guardian", "ursa-major", "odin"],
       "powers": {
-        "Nick": 12705463
+        "Nick": 14144115
       }
     },
   "X+EmmaFrost+OldManLogan+StormMighty+Wolverine":
@@ -2775,6 +3194,12 @@
       "powers": {
         "Nick": 12362326,
         "Commander joe": 15933226
+      }
+    },
+  "X+Odin+QuicksilverSymbiote+Riot+Venom":
+    {"characters": ["professor-xavier", "odin", "riot", "venom", "quicksilver-symbiote"],
+      "powers": {
+        "Commander Schnoo": 9264564
       }
     },
   "X+Quasar+Blade+Oath+Agatha":
