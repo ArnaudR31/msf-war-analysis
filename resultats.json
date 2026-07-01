@@ -1,5 +1,165 @@
 [
   {
+    "filename": "2026-06-30_Barracks_attack_combat_001.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 4852734,
+      "puissance_defense": 7041675,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hive-Mind+Skrull (-Venom)",
+      "equipe_defense": "Orchis",
+      "defoff": 1.4510737658400399,
+      "score": 14.510737658400398
+    },
+    "drive_url": "https://drive.google.com/file/d/1wd3WUNdh6Yjp16tkJidDSKXrjmePDbpW/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_002.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 9483768,
+      "puissance_defense": 9224564,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Vigilante",
+      "defoff": 0.9726686692462321,
+      "score": 9.726686692462321
+    },
+    "drive_url": "https://drive.google.com/file/d/1VxOwscIUnO6XgpCNkRSD5LII5YapzEza/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_003.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 6318697,
+      "puissance_defense": 7276887,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.151643606268824,
+      "score": 11.51643606268824
+    },
+    "drive_url": "https://drive.google.com/file/d/1z1--3fE-GAr3B_GlSeGFBna-iksBMowr/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_004.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 7686890,
+      "puissance_defense": 6102338,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Astral",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.7938630577515744,
+      "score": 7.541699048639956
+    },
+    "drive_url": "https://drive.google.com/file/d/1cIJRl8TeIwH3VNlwT1HbLt9vZV8GK7aI/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_005.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 5657132,
+      "puissance_defense": 5153466,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.9109679604435604,
+      "score": 9.109679604435604
+    },
+    "drive_url": "https://drive.google.com/file/d/1oPf87G08I633f4YJanvlRNfqlDhbKjLs/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_006.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 7619350,
+      "puissance_defense": 7809773,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "defoff": 1.0249920268789332,
+      "score": 10.249920268789332
+    },
+    "drive_url": "https://drive.google.com/file/d/1DhmM5qBageOPFaSxfJ-tfy-59TPocCD9/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_007.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 7487203,
+      "puissance_defense": 5842966,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Immortal X-Men",
+      "defoff": 0.7803936930787104,
+      "score": 7.8039369307871045
+    },
+    "drive_url": "https://drive.google.com/file/d/1RuadNw0UQ5aVBbftqCyNGieRbyWQvayT/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_attack_combat_008.png",
+    "local_path": "captures/2026-06-30_Barracks_attack_combat_008.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 12273157,
+      "puissance_defense": 5697787,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "Astral",
+      "defoff": 0.46424787037271664,
+      "score": 4.642478703727166
+    },
+    "drive_url": "https://drive.google.com/file/d/16RTREmSirN7a9Yuleu3Y09wOJy5Y8Bv6/view"
+  },
+  {
     "filename": "2026-06-30_Armory_attack_combat_001.png",
     "local_path": "captures/2026-06-30_Armory_attack_combat_001.png",
     "date": "2026-06-30",
