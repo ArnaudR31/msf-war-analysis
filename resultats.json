@@ -1,5 +1,405 @@
 [
   {
+    "filename": "2026-06-30_Medbay_attack_combat_001.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8690423,
+      "puissance_defense": 7231221,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Phoenix Force+Apocalypse+Sentry",
+      "defoff": 0.8320907969612066,
+      "score": 4.99254478176724
+    },
+    "drive_url": "https://drive.google.com/file/d/177pV2hprwT6h_Zai66aoZZYwk3WABRfQ/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_002.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5724442,
+      "puissance_defense": 10151385,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Spider-Society",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.7733405282121821,
+      "score": 17.733405282121822
+    },
+    "drive_url": "https://drive.google.com/file/d/1FXa63Vk9wK3Py8Kls4gcrS2MrIOoWoqI/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_003.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 12562302,
+      "puissance_defense": 8244437,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.6562839358582527,
+      "score": 6.234697390653401
+    },
+    "drive_url": "https://drive.google.com/file/d/16Iuh3XIteWgHV2z9NqPM9QXuYM7bQ7km/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_004.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 9554149,
+      "puissance_defense": 6836732,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.7155772848005615,
+      "score": 7.155772848005615
+    },
+    "drive_url": "https://drive.google.com/file/d/1_5Ajw27EYK7NDYZ8BWlkCd-fLYERuHXL/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_005.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 7761920,
+      "puissance_defense": 10471300,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6.5,
+      "equipe_offense": "Galactic Council",
+      "equipe_defense": "Champion",
+      "defoff": 1.349060541721636,
+      "score": 8.768893521190634
+    },
+    "drive_url": "https://drive.google.com/file/d/1zJHrdk3nx_D0FahyNLrY1v2J5b_yiomC/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_006.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10941460,
+      "puissance_defense": 10375862,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9483068987137,
+      "score": 9.483068987136999
+    },
+    "drive_url": "https://drive.google.com/file/d/11NS-WhM-lFOTz7jlkAmnVyS2Azd_BoYw/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_007.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 9513477,
+      "puissance_defense": 9360400,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Orchis",
+      "defoff": 0.9839094581297668,
+      "score": 9.839094581297669
+    },
+    "drive_url": "https://drive.google.com/file/d/1qwIE0jnRqPNmDG6lWrhwXlC9G942sdU1/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_008.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_008.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 12724522,
+      "puissance_defense": 9206472,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Annihilator+Mephisto (-Ultimus)",
+      "defoff": 0.7235220309257983,
+      "score": 5.788176247406386
+    },
+    "drive_url": "https://drive.google.com/file/d/1Y4Tvf7-RsaQdIkcKaWXz3Q_hDQ3taa24/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_009.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 8971205,
+      "puissance_defense": 6714071,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Astral",
+      "equipe_defense": "Cabal+Blastaar+Quasar",
+      "defoff": 0.7484023606639242,
+      "score": 7.484023606639242
+    },
+    "drive_url": "https://drive.google.com/file/d/1_6vg5KZKw3SRGxVN4gEitFyUsKRj-1JT/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_010.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_010.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10675479,
+      "puissance_defense": 9186221,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Astral",
+      "defoff": 0.8604973135163303,
+      "score": 8.604973135163302
+    },
+    "drive_url": "https://drive.google.com/file/d/1AR3BS5eiTEe3qnUW-irAIDJ8yAVTHUG9/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_011.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_011.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 10790280,
+      "puissance_defense": 5519699,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Illuminati IronMan (-MrFantastic)",
+      "defoff": 0.5115436300077477,
+      "score": 3.836577225058108
+    },
+    "drive_url": "https://drive.google.com/file/d/1XdH6rf__dyvsjJIhv9oQVXhDYbn5_NPM/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_012.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_012.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 11533607,
+      "puissance_defense": 13660917,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Champion",
+      "defoff": 1.1844444673726096,
+      "score": 11.844444673726095
+    },
+    "drive_url": "https://drive.google.com/file/d/1kU-hT-UH075NSWp4bBT5RLYQjvsppExA/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_013.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_013.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 14747325,
+      "puissance_defense": 8370719,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.5676093121972968,
+      "score": 5.6760931219729684
+    },
+    "drive_url": "https://drive.google.com/file/d/1_MyauWgMwianHWg0_YdWtL-DMaeUcxAi/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_014.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_014.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 9264564,
+      "puissance_defense": 9097933,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "X+Odin+QuicksilverSymbiote+Riot+Venom",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.9820141563056826,
+      "score": 9.820141563056826
+    },
+    "drive_url": "https://drive.google.com/file/d/1lN6LspYZNSav2NIJ7Ku_RHipB0LBaP1T/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_015.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_015.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 9911583,
+      "puissance_defense": 8022094,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "defoff": 0.8093655675385052,
+      "score": 8.093655675385051
+    },
+    "drive_url": "https://drive.google.com/file/d/1TXPHvFzX-yYJSgk2TLKpsvRSGQ9Pl6tW/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_016.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_016.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 9071735,
+      "puissance_defense": 5830605,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Liberty",
+      "defoff": 0.642722147417225,
+      "score": 4.820416105629188
+    },
+    "drive_url": "https://drive.google.com/file/d/1E4Y088YACSIlWuMGWeYLyEjXtn4rbepd/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_017.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_017.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 11542398,
+      "puissance_defense": 9597438,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "X+Odin+Knull+Apocalypse+Skrull",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8314942874089076,
+      "score": 8.314942874089077
+    },
+    "drive_url": "https://drive.google.com/file/d/13ZMWgMcJKWa2kTHY5ytkWnLOF-rtaGUR/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_018.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_018.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 18879930,
+      "puissance_defense": 15151286,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8025075304834287,
+      "score": 8.025075304834287
+    },
+    "drive_url": "https://drive.google.com/file/d/1Wz5vxAEr90riGRF81jZ9xSBACZYNM9n-/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_019.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_019.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 16336919,
+      "puissance_defense": 10394188,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.6362391831654426,
+      "score": 6.362391831654426
+    },
+    "drive_url": "https://drive.google.com/file/d/1mUEe6v8pjOUVIUUz6igmC6LQnbFOpz1X/view"
+  },
+  {
+    "filename": "2026-06-30_Medbay_attack_combat_020.png",
+    "local_path": "captures/2026-06-30_Medbay_attack_combat_020.png",
+    "date": "2026-06-30",
+    "room": "Medbay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 6331436,
+      "puissance_defense": 8128028,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Nightstalker+Mephisto (-MoonKnight)",
+      "defoff": 1.2837574288044609,
+      "score": 12.837574288044609
+    },
+    "drive_url": "https://drive.google.com/file/d/1WuUrjYX-pWmAHUM_GlGY7tUZjnt-Z4Od/view"
+  },
+  {
     "filename": "2026-06-30_Engineering_defense_combat_002.png",
     "local_path": "captures/2026-06-30_Engineering_defense_combat_002.png",
     "date": "2026-06-30",
