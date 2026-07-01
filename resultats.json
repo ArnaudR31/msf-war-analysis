@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-06-30_Barracks_defense_combat_001.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 7140220,
+      "puissance_defense": 7688968,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force+Odin (-Wasp)",
+      "equipe_defense": "Astral",
+      "defoff": 1.0768530941623649,
+      "score": -9.286317747713348
+    },
+    "drive_url": "https://drive.google.com/file/d/1h1D1vohQGPkNac2h_NiKZf8eZ-0uPWFn/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_002.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 3742400,
+      "puissance_defense": 4713774,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Spider-Society",
+      "defoff": 1.2595591064557503,
+      "score": 12.595591064557503
+    },
+    "drive_url": "https://drive.google.com/file/d/1ED-XbT4jxS7m1LZB_AGOWpdBG4xizJej/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_003.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 9369691,
+      "puissance_defense": 8258065,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8813593746047762,
+      "score": 8.813593746047761
+    },
+    "drive_url": "https://drive.google.com/file/d/1MO2Prmn0XiIe4BPpiLqr1yz5S7dNOp-G/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_004.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 4035037,
+      "puissance_defense": 7688968,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "defoff": 1.9055508041190206,
+      "score": 19.055508041190205
+    },
+    "drive_url": "https://drive.google.com/file/d/1OwXZFxfu8Yruh8kyXSQwPwAPmKzSBlXj/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_005.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 10229981,
+      "puissance_defense": 7599722,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "New Mutant",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.7428872057533635,
+      "score": -13.460993704769727
+    },
+    "drive_url": "https://drive.google.com/file/d/1P-7ehBURq-esfy1X6blKR6EAXZRHrPNL/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_006.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 8232668,
+      "puissance_defense": 10063742,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Retcon",
+      "defoff": 1.2224156251654992,
+      "score": 11.001740626489493
+    },
+    "drive_url": "https://drive.google.com/file/d/1GPnHIHfX4keLsge-JlUV-xaFlI5xwRsw/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_007.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 10320468,
+      "puissance_defense": 12469360,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Undying",
+      "defoff": 1.2082165266148783,
+      "score": 12.082165266148783
+    },
+    "drive_url": "https://drive.google.com/file/d/1LaNplU5hP9PGzcmZnfav7KFLdYJxw7bA/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_008.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_008.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 8915191,
+      "puissance_defense": 6823781,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.765410522332051,
+      "score": 7.65410522332051
+    },
+    "drive_url": "https://drive.google.com/file/d/1mv6E9F8g8-KZ15YdwTSiwGqZa-s9c_cy/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_009.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 9976675,
+      "puissance_defense": 7835772,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Orchis",
+      "defoff": 0.7854091668817517,
+      "score": 7.854091668817516
+    },
+    "drive_url": "https://drive.google.com/file/d/1_nGA6QJBMcHBWneZEMn4NJjn09NFKyOp/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_010.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_010.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 8256840,
+      "puissance_defense": 6679755,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.8089965410496025,
+      "score": 8.089965410496024
+    },
+    "drive_url": "https://drive.google.com/file/d/130ZB1fdrte_xgVRD3ziSIdCqzg7sdOmC/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_011.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_011.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 6933702,
+      "puissance_defense": 11322243,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.6329289894489265,
+      "score": 13.879896410315876
+    },
+    "drive_url": "https://drive.google.com/file/d/13wtH2Tsk02b8wqEXOBoXUsnI0DH1IZNq/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_013.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_013.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 8321564,
+      "puissance_defense": 4907163,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying+JeanGrey+Storm (-ZKestrel -ZScarletWitch)",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 0.589692394362406,
+      "score": 5.89692394362406
+    },
+    "drive_url": "https://drive.google.com/file/d/13hmSRLGZHSi71M6fbXUy62JV4DFL1O8t/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_014.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_014.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Renegademaster1",
+      "puissance_attaque": 6619342,
+      "puissance_defense": 5526180,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.834853373643483,
+      "score": 7.513680362791347
+    },
+    "drive_url": "https://drive.google.com/file/d/19EnMbUlJsINwSwXeNHKigSc3T1IHEsNB/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_016.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_016.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 20130859,
+      "puissance_defense": 12826430,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Omen",
+      "defoff": 0.6371526421202394,
+      "score": 6.052950100142274
+    },
+    "drive_url": "https://drive.google.com/file/d/10mxjvdJpN0bbrvnKCkPPGMPM0zmemgd-/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_017.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_017.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 5033659,
+      "puissance_defense": 10480372,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Mighty Avenger+Torch+Thing (-Hercules -Falcon)",
+      "defoff": 2.082058399267809,
+      "score": 20.82058399267809
+    },
+    "drive_url": "https://drive.google.com/file/d/1j544b6LTYZrENYIHEK4mH5PDgag4Rqzu/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_018.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_018.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 9285444,
+      "puissance_defense": 15139426,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Apocalypse+Odin+Sentry+Skrull+SSBreaker",
+      "equipe_defense": "Champion",
+      "defoff": 1.63044718163181,
+      "score": -6.133286691318416
+    },
+    "drive_url": "https://drive.google.com/file/d/1sZQDao-sMGOcZEhDXiAKp4t00OUVWcqn/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_019.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_019.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 23801764,
+      "puissance_defense": 14975084,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.6291585783305809,
+      "score": 5.347847915809937
+    },
+    "drive_url": "https://drive.google.com/file/d/1rLA3ai_QLOQUinI5984O3tq4FpOM8vSF/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_020.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_020.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 15831767,
+      "puissance_defense": 13328492,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)",
+      "defoff": 0.841882779098505,
+      "score": 8.41882779098505
+    },
+    "drive_url": "https://drive.google.com/file/d/1fFcnPBtSrjHg2urFDozwc-lDVjBIxIML/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_021.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_021.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 11164133,
+      "puissance_defense": 9964405,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8,
+      "equipe_offense": "Mercs 4 Money+Thunderstrike (-Deadpool)",
+      "equipe_defense": "Astral",
+      "defoff": 0.8925372888338038,
+      "score": 7.14029831067043
+    },
+    "drive_url": "https://drive.google.com/file/d/1yPZhao1iAm8nGuU4LC5bnUCNpRYcDCLS/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_022.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_022.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 10470656,
+      "puissance_defense": 9428567,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.9004752901823916,
+      "score": 9.004752901823917
+    },
+    "drive_url": "https://drive.google.com/file/d/1rBuyMp2fDt1tBshjoJubVFjR7t61mCLN/view"
+  },
+  {
+    "filename": "2026-06-30_Barracks_defense_combat_024.png",
+    "local_path": "captures/2026-06-30_Barracks_defense_combat_024.png",
+    "date": "2026-06-30",
+    "room": "Barracks",
+    "mode": "defense",
+    "data": {
+      "defenseur": "JCTAR",
+      "puissance_attaque": 11745857,
+      "puissance_defense": 17348737,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Phoenix Force+X+Quasar",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.4770090424223623,
+      "score": 14.770090424223623
+    },
+    "drive_url": "https://drive.google.com/file/d/10R7X4jI0kk8wJtGvbTvrzYP942K9DnP5/view"
+  },
+  {
     "filename": "2026-06-30_Barracks_attack_combat_001.png",
     "local_path": "captures/2026-06-30_Barracks_attack_combat_001.png",
     "date": "2026-06-30",
