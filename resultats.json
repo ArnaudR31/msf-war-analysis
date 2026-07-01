@@ -1,5 +1,125 @@
 [
   {
+    "filename": "2026-06-30_Bridge_defense_combat_002.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_002.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 11478590,
+      "puissance_defense": 10330115,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8999463348721403,
+      "score": 8.999463348721402
+    },
+    "drive_url": "https://drive.google.com/file/d/1Kl0T_aN56PvoQQVL10z-cEIyjdHklciD/view"
+  },
+  {
+    "filename": "2026-06-30_Bridge_defense_combat_003.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 11192644,
+      "puissance_defense": 12090740,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Galactic Council+Dormammu+Odin (-AdamWarlock -StarLord)",
+      "equipe_defense": "Champion",
+      "defoff": 1.0802398432398994,
+      "score": 10.802398432398995
+    },
+    "drive_url": "https://drive.google.com/file/d/10eXPUvWT4P2pf3Wj9PV6M5C_FqY-Tfa1/view"
+  },
+  {
+    "filename": "2026-06-30_Bridge_defense_combat_004.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 11133380,
+      "puissance_defense": 11820661,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Infestation Scorpion (-BlackWidow)",
+      "defoff": 1.0617315675922316,
+      "score": 10.617315675922317
+    },
+    "drive_url": "https://drive.google.com/file/d/1Weq0v6WtCR_j6w6QkdZ8tQqYBNwpCUsq/view"
+  },
+  {
+    "filename": "2026-06-30_Bridge_defense_combat_005.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 11331727,
+      "puissance_defense": 14891232,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+X+ShadowKing",
+      "defoff": 1.3141184922651243,
+      "score": 13.141184922651243
+    },
+    "drive_url": "https://drive.google.com/file/d/1uvGMnbqGT1_5W6fBkjNKBZMxWVTri3ue/view"
+  },
+  {
+    "filename": "2026-06-30_Bridge_defense_combat_009.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 7702785,
+      "puissance_defense": 12926572,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Mephisto+Sentry+SpiderMan2099+SpiderManBigTime+SpiderWeaver",
+      "equipe_defense": "Phoenix Force+Mephisto+Groot",
+      "defoff": 1.6781686104441444,
+      "score": -5.958876800438663
+    },
+    "drive_url": "https://drive.google.com/file/d/14sUaaDdRALWWQiUXUWJLEZJ0dY5YsJin/view"
+  },
+  {
+    "filename": "2026-06-30_Bridge_defense_combat_010.png",
+    "local_path": "captures/2026-06-30_Bridge_defense_combat_010.png",
+    "date": "2026-06-30",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 7702785,
+      "puissance_defense": 11643454,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Mephisto+Sentry+SpiderMan2099+SpiderManBigTime+SpiderWeaver",
+      "equipe_defense": "Exalted X-Men+EmmaXMen (-Morph)",
+      "defoff": 1.5115901586244456,
+      "score": 12.848516348307788
+    },
+    "drive_url": "https://drive.google.com/file/d/1c_uutXt_AyDwyZREwK0kiKTMEP-Y3n9V/view"
+  },
+  {
     "filename": "2026-06-30_Barracks_defense_combat_001.png",
     "local_path": "captures/2026-06-30_Barracks_defense_combat_001.png",
     "date": "2026-06-30",
