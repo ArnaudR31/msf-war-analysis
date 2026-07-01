@@ -1,5 +1,465 @@
 [
   {
+    "filename": "2026-06-30_Armory_attack_combat_001.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_001.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 4092113,
+      "puissance_defense": 6002732,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 1.4669027956950358,
+      "score": -4.090250572572622
+    },
+    "drive_url": "https://drive.google.com/file/d/1FAQXkN0mNueFZicYySN5WBBmcjtNCoxR/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_003.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_003.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5965063,
+      "puissance_defense": 5657965,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hive-Mind Knull+Skrull (-Venom -Carnage)",
+      "defoff": 0.9485172243780158,
+      "score": 9.485172243780157
+    },
+    "drive_url": "https://drive.google.com/file/d/1gLHixmm-kGeZFW86lzctbxhiCsD6udIw/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_004.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_004.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 10037480,
+      "puissance_defense": 13570615,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen+Quasar (-Ronan)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.3519942256422928,
+      "score": 13.519942256422928
+    },
+    "drive_url": "https://drive.google.com/file/d/1QNhRAw6yjP-WJtQR2_3hBLgZLFtdNM5T/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_005.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_005.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12396113,
+      "puissance_defense": 6138214,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "F3+Blastaar+Torch",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.4951724786632713,
+      "score": -20.19498342677528
+    },
+    "drive_url": "https://drive.google.com/file/d/1aaEVdpcbZ_RYIobtZE3VUbdq_XtrBDbK/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_006.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_006.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 7686578,
+      "puissance_defense": 7336060,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.954398693410774,
+      "score": 9.543986934107739
+    },
+    "drive_url": "https://drive.google.com/file/d/1FMwusCgQtdaYBchePeqUkgcuq7rTMWak/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_007.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_007.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 14144115,
+      "puissance_defense": 9949090,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Winter Guard+Odin (-Yelena)",
+      "equipe_defense": "Retcon",
+      "defoff": 0.7034084493798304,
+      "score": 6.330676044418474
+    },
+    "drive_url": "https://drive.google.com/file/d/1UvUMg01h20XilRCcUNXXvW82ovUt0TR5/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_008.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_008.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 15401191,
+      "puissance_defense": 6138213,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "F3+X+Knull",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.3985544364718287,
+      "score": 3.7862671464823725
+    },
+    "drive_url": "https://drive.google.com/file/d/1yp-aUtu-Vfjp1XJ1FJb8TVht1vDlxKT9/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_009.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_009.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10331535,
+      "puissance_defense": 7501248,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Vigilante",
+      "defoff": 0.7260535825508988,
+      "score": 7.260535825508988
+    },
+    "drive_url": "https://drive.google.com/file/d/1r6qo5gpYCCX05Cm0T3fzJQXybga6-boc/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_010.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_010.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 6007561,
+      "puissance_defense": 6269689,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.0436330151287685,
+      "score": 10.436330151287684
+    },
+    "drive_url": "https://drive.google.com/file/d/1DLqzOdJD8oEGj1aSQeZQphZBuShXVb_d/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_011.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_011.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8968618,
+      "puissance_defense": 6392886,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Uncanny Avenger+X (-Falcon)",
+      "defoff": 0.7128061424848288,
+      "score": 6.771658353605873
+    },
+    "drive_url": "https://drive.google.com/file/d/1DGz650uy0wlaf2EQl0hF4evXgmLfwPQK/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_012.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_012.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5739002,
+      "puissance_defense": 7818708,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Orchis",
+      "defoff": 1.3623811248018383,
+      "score": -7.340089948364871
+    },
+    "drive_url": "https://drive.google.com/file/d/1Fpu5_lOnXUuRHN91Lv06xhxWOxkCV8u4/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_013.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_013.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 12499453,
+      "puissance_defense": 8805193,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Champion",
+      "defoff": 0.7044462665686251,
+      "score": 6.692239532401938
+    },
+    "drive_url": "https://drive.google.com/file/d/1Z5A8pPgKYN98J0OF4yhCIAGqGZ6mOjNR/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_014.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_014.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 8527421,
+      "puissance_defense": 7506258,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8802494916106522,
+      "score": 8.802494916106522
+    },
+    "drive_url": "https://drive.google.com/file/d/1wW0fN4aqQ3IcT2oah0Rme25-o7_uJ1_g/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_015.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_015.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 10481464,
+      "puissance_defense": 6297946,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.6008651081566468,
+      "score": 5.708218527488145
+    },
+    "drive_url": "https://drive.google.com/file/d/1lqFLEBqZfzH1pmvxaCi8XtqS41_vYIj9/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_016.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_016.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 12568245,
+      "puissance_defense": 6182026,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Liberty",
+      "defoff": 0.4918766303489469,
+      "score": 4.918766303489469
+    },
+    "drive_url": "https://drive.google.com/file/d/1EMu8omkVULU2t_OE5SMcLxN5D27bzUrV/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_017.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_017.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6748935,
+      "puissance_defense": 4875275,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.7223769379909571,
+      "score": 7.223769379909571
+    },
+    "drive_url": "https://drive.google.com/file/d/13CMqiDIh8TcA0Yr6f8rxIuU92lABW1RY/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_018.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_018.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 5126195,
+      "puissance_defense": 4283765,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 0.8356617335079918,
+      "score": 8.356617335079918
+    },
+    "drive_url": "https://drive.google.com/file/d/1mD0vzQA7MQZzvHbxdCH5nH-ah72Bgo7L/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_019.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_019.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 18013433,
+      "puissance_defense": 6396266,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.35508312046904106,
+      "score": 3.5508312046904105
+    },
+    "drive_url": "https://drive.google.com/file/d/1A0nWixZIBJwzm6t0M4uFITLuaAfEGj1-/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_020.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_020.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6407410,
+      "puissance_defense": 6118743,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.9549479430846473,
+      "score": -10.471775003460678
+    },
+    "drive_url": "https://drive.google.com/file/d/1VD-A_Jq7M_KMhAOqpn0c88L1cGF_14Ur/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_021.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_021.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "REDRUM",
+      "puissance_attaque": 10177187,
+      "puissance_defense": 13520589,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+X+Thing",
+      "defoff": 1.3285192656870706,
+      "score": 12.62093302402717
+    },
+    "drive_url": "https://drive.google.com/file/d/1mQFVa5-06vSnMAYrf5tA0AZbu7oJt0C-/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_022.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_022.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 14018881,
+      "puissance_defense": 10797596,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Brimstone+Odin (-Elsa)",
+      "equipe_defense": "Brimstone+BlueMarvel (-Elsa)",
+      "defoff": 0.7702181079930702,
+      "score": -12.983335364649687
+    },
+    "drive_url": "https://drive.google.com/file/d/1f4mXRaMG_iHPTiyKjs0BzipfEKwKyaRM/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_023.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_023.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 13184526,
+      "puissance_defense": 10797596,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Brimstone+BlackCat (-Elsa)",
+      "equipe_defense": "Brimstone+BlueMarvel (-Elsa)",
+      "defoff": 0.8189597411389685,
+      "score": -12.210612436323789
+    },
+    "drive_url": "https://drive.google.com/file/d/136Tc5UN8UNEggn6e9MOXSmAlDyJYW8_B/view"
+  },
+  {
+    "filename": "2026-06-30_Armory_attack_combat_024.png",
+    "local_path": "captures/2026-06-30_Armory_attack_combat_024.png",
+    "date": "2026-06-30",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 19327615,
+      "puissance_defense": 10797596,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone+BlueMarvel (-Elsa)",
+      "defoff": 0.5586615834390327,
+      "score": 5.307285042670811
+    },
+    "drive_url": "https://drive.google.com/file/d/1NFdaXdvSWRAd6abw3OHg7sUaUdlsv1GS/view"
+  },
+  {
     "filename": "2026-06-30_Bridge_attack_combat_001.png",
     "local_path": "captures/2026-06-30_Bridge_attack_combat_001.png",
     "date": "2026-06-30",
