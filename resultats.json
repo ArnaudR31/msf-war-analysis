@@ -1,5 +1,405 @@
 [
   {
+    "filename": "2026-07-02_Engineering_attack_combat_001.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_001.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "REDRUM",
+      "puissance_attaque": 3846062,
+      "puissance_defense": 10382428,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Odin+BetaRayBill+Heimdall+Vahl+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 2.699495743958366,
+      "score": 16.196974463750195
+    },
+    "drive_url": "https://drive.google.com/file/d/11YWHmFESwBv2acHqcCkl4bf_JBdLDPQ7/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_002.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_002.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 13280870,
+      "puissance_defense": 8315382,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Annihilator+Odin+Skrull",
+      "defoff": 0.6261172649080972,
+      "score": 3.756703589448583
+    },
+    "drive_url": "https://drive.google.com/file/d/1c6ON97e5ajZJaCMvKSQlWaTWCyR40m8f/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_003.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_003.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 7482492,
+      "puissance_defense": 5850428,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Cabal+Kang+Ultimus",
+      "defoff": 0.7818822926907238,
+      "score": 7.036940634216514
+    },
+    "drive_url": "https://drive.google.com/file/d/1FrnyDYlDzvAltn0atBg007QrU-vVm_wr/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_004.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_004.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "REDRUM",
+      "puissance_attaque": 9455402,
+      "puissance_defense": 8565411,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Astral",
+      "defoff": 0.9058748639137711,
+      "score": -11.039052300000549
+    },
+    "drive_url": "https://drive.google.com/file/d/157U-kM6HONPDZk5rLTUTmI80hXB7MkTH/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_005.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_005.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "REDRUM",
+      "puissance_attaque": 9108073,
+      "puissance_defense": 10631940,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Infestation Scorpion (-Swarm)",
+      "defoff": 1.1673094846736516,
+      "score": -8.566708427624686
+    },
+    "drive_url": "https://drive.google.com/file/d/1mzbqFS_9_R7uu3hcKlfnCJSpoS6SwxeG/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_006.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_006.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 10513079,
+      "puissance_defense": 6678877,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.6352921917546706,
+      "score": 6.03527582166937
+    },
+    "drive_url": "https://drive.google.com/file/d/1E3i8fusmz92mRqVmdkpJ38PAya0UeB8-/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_007.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_007.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 10643224,
+      "puissance_defense": 5958323,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -5.5,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "X-Treme X-Men+EmmaFrostXMen (-Sunspot)",
+      "defoff": 0.5598231325395387,
+      "score": -9.824531499886797
+    },
+    "drive_url": "https://drive.google.com/file/d/1mxTcxl49ucCgvPMZAH4Br059waogVjk_/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_009.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_009.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 9894252,
+      "puissance_defense": 7786012,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Accursed Azazel+Mephisto (-Mordo -Satana)",
+      "defoff": 0.7869227507041462,
+      "score": 7.869227507041462
+    },
+    "drive_url": "https://drive.google.com/file/d/1ECHEyL8VPUW99dToB78dDn9WddpF6tvC/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_010.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_010.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 9049864,
+      "puissance_defense": 7691191,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8498681306150015,
+      "score": 8.498681306150015
+    },
+    "drive_url": "https://drive.google.com/file/d/1IxTf0VyOOITGOopKngIhfx4AtdAfN6Z4/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_011.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_011.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 10558114,
+      "puissance_defense": 8563692,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Vigilante",
+      "defoff": 0.8111005431462475,
+      "score": 8.111005431462475
+    },
+    "drive_url": "https://drive.google.com/file/d/1BNDoHTMBXDWPnc0T4--jZaklizU9UTX8/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_014.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_014.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 9114987,
+      "puissance_defense": 7594912,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Orchis+Wolverine (-LadyDeathstrike)",
+      "defoff": 0.833233442900138,
+      "score": 8.33233442900138
+    },
+    "drive_url": "https://drive.google.com/file/d/16kNlFZrJG8XfUGOJf46SHHODGmqZp3wX/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_015.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_015.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10331535,
+      "puissance_defense": 9653726,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9343941631132257,
+      "score": 9.343941631132257
+    },
+    "drive_url": "https://drive.google.com/file/d/1hk50GxCaMDndMVyu232DP7aGvwuFL7_I/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_016.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_016.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 13115355,
+      "puissance_defense": 6636198,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Mighty Avenger",
+      "defoff": 0.5059869138120928,
+      "score": 5.059869138120928
+    },
+    "drive_url": "https://drive.google.com/file/d/1-Ugatsr0xhdKIUpeGZfeV75IQyoGA94m/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_017.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_017.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8690423,
+      "puissance_defense": 7085505,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Absolute A-Force",
+      "defoff": 0.8153233737874439,
+      "score": 8.153233737874439
+    },
+    "drive_url": "https://drive.google.com/file/d/1Hmn-qUroi0BkoTHihlWQE7oOJBbyJWCB/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_018.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_018.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 9295197,
+      "puissance_defense": 10632491,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard+Cable (-Yelena)",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.1438693553240453,
+      "score": 11.438693553240453
+    },
+    "drive_url": "https://drive.google.com/file/d/1RiQfkhphFrpzwVfoc6CmoCLzKNcKB0L-/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_019.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_019.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 9699516,
+      "puissance_defense": 9566463,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.9862825114160335,
+      "score": 9.36968385845232
+    },
+    "drive_url": "https://drive.google.com/file/d/1aYIT81K8vRIMEXjfHX_H6Vy8GtYjc66y/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_020.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_020.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 12562302,
+      "puissance_defense": 7434124,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Undying",
+      "defoff": 0.5917803918421958,
+      "score": 5.62191372250086
+    },
+    "drive_url": "https://drive.google.com/file/d/1Dx-CZXhZ8AzUXz1OFt0Nsgo_ewLzrE-J/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_021.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_021.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 7797338,
+      "puissance_defense": 9003378,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Mysterio (-Scorpion)",
+      "equipe_defense": "Insidious 6+DocOc+Vulture",
+      "defoff": 1.1546733000416296,
+      "score": 10.392059700374666
+    },
+    "drive_url": "https://drive.google.com/file/d/1KPXuG-TGay6oyBzW6eJCY_yyXkhJDw97/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_022.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_022.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 6523257,
+      "puissance_defense": 5278595,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Out Of Time+SpiderMan (-Starbrand)",
+      "equipe_defense": "Infestation",
+      "defoff": 0.8091962343350875,
+      "score": 8.091962343350875
+    },
+    "drive_url": "https://drive.google.com/file/d/193JYxGXlvWsw2PiWxSNQ3WYDPrZe-7Do/view"
+  },
+  {
+    "filename": "2026-07-02_Engineering_attack_combat_024.png",
+    "local_path": "captures/2026-07-02_Engineering_attack_combat_024.png",
+    "date": "2026-07-02",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8053215,
+      "puissance_defense": 6215748,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Secret Warrior",
+      "defoff": 0.7718343543541306,
+      "score": 7.718343543541306
+    },
+    "drive_url": "https://drive.google.com/file/d/1gy_IlEUvl3yhRaEQWn0b239vm0rHmaMj/view"
+  },
+  {
     "filename": "2026-07-02_CargoBay_attack_combat_001.png",
     "local_path": "captures/2026-07-02_CargoBay_attack_combat_001.png",
     "date": "2026-07-02",
