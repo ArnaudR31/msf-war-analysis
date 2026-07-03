@@ -1,5 +1,405 @@
 [
   {
+    "filename": "2026-07-02_CargoBay_attack_combat_001.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_001.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10106769,
+      "puissance_defense": 15949249,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "defoff": 1.57807594098569,
+      "score": -4.435781459051771
+    },
+    "drive_url": "https://drive.google.com/file/d/1sYxWle5xj-lTZ6qg8KYEE2b6FP1ayWDP/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_003.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_003.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9322006,
+      "puissance_defense": 10834159,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.1622132618236891,
+      "score": 11.622132618236892
+    },
+    "drive_url": "https://drive.google.com/file/d/16XnQSpfmGtlQni4CzRMzpIhS7dOjJ3EY/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_004.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_004.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 13915910,
+      "puissance_defense": 10978723,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Champion",
+      "defoff": 0.7889331707376664,
+      "score": 7.889331707376664
+    },
+    "drive_url": "https://drive.google.com/file/d/1i4W-3u7yjR8B7orsh4rGf16GLT9OzZpA/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_005.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_005.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10442366,
+      "puissance_defense": 10664359,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "JeanGrey+OmegaRedPF+Phoenix+RachelSummers+StormMighty",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.0212588794531814,
+      "score": 6.127553276719088
+    },
+    "drive_url": "https://drive.google.com/file/d/14HZE4dYH-1qci7SHuok89hr1IFqCyMtY/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_006.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_006.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10777967,
+      "puissance_defense": 12221160,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Vigilante",
+      "defoff": 1.133902154274549,
+      "score": 11.339021542745492
+    },
+    "drive_url": "https://drive.google.com/file/d/1vXS8S6fLu7ofuhOWJJhnqd7N34OR4zQI/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_007.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_007.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 9833817,
+      "puissance_defense": 7844583,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "New Mutant",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.7977149666299465,
+      "score": 5.982862249724598
+    },
+    "drive_url": "https://drive.google.com/file/d/1Ojz5gWjOypi6iDWZ7CdzObFGqzzeGsCe/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_008.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_008.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 11089349,
+      "puissance_defense": 5878660,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6.5,
+      "equipe_offense": "Starjammer+SSBreaker (-Raccoon)",
+      "equipe_defense": "Spider-Society+Mephisto (-GhostSpider)",
+      "defoff": 0.5301176831931252,
+      "score": 3.445764940755314
+    },
+    "drive_url": "https://drive.google.com/file/d/1KanaBi4S0iXds9LRTPzimlnLrFTMCoAp/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_009.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_009.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 2071186,
+      "puissance_defense": 9533561,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 4.6029477796779235,
+      "score": -2.172520845044155
+    },
+    "drive_url": "https://drive.google.com/file/d/12sohtqwJKBQL34jNLJ71lk9pw3JpBz5r/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_010.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_010.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Compnut5x",
+      "puissance_attaque": 8906869,
+      "puissance_defense": 9689247,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Annihilator+Quasar+StormMighty",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.0878398458538012,
+      "score": 10.878398458538012
+    },
+    "drive_url": "https://drive.google.com/file/d/1faJm-qa6vgGGWwQShdGDkCJuW1tmkZAL/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_011.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_011.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10772527,
+      "puissance_defense": 11623997,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.0790408787093315,
+      "score": 10.790408787093316
+    },
+    "drive_url": "https://drive.google.com/file/d/1-8DqP1HmC0cBFmAj10vRcT4Ck0XsIw2T/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_012.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_012.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9826300,
+      "puissance_defense": 9234268,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7.5,
+      "equipe_offense": "Absolute A-Force MoonGirl+Odin",
+      "equipe_defense": "Astral+Mephisto (-Moondragon)",
+      "defoff": 0.9397502620518404,
+      "score": -7.980843744192826
+    },
+    "drive_url": "https://drive.google.com/file/d/1LbPB9I0pvvZnZ3FtNxAwFC-3CVUm82LV/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_013.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_013.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 8785189,
+      "puissance_defense": 7671505,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.8732316402071714,
+      "score": 8.732316402071714
+    },
+    "drive_url": "https://drive.google.com/file/d/14IT-JNupwIDg7RRay3hR508A_z9--R6-/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_014.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_014.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 5962330,
+      "puissance_defense": 10987970,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Thunderbolt+Knull (-Ghost)",
+      "defoff": 1.8428986654546125,
+      "score": 18.428986654546126
+    },
+    "drive_url": "https://drive.google.com/file/d/1qofp80IH0KZWCSem4_sJxjia7dR06Ttc/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_015.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_015.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6506517,
+      "puissance_defense": 7695063,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Accursed",
+      "defoff": 1.1826700829337724,
+      "score": 11.826700829337724
+    },
+    "drive_url": "https://drive.google.com/file/d/1bEN-CJOiDcMZKbZyTWzQuFKl88khgQ_R/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_016.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_016.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 7423070,
+      "puissance_defense": 9706992,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon+Wolverine (-Deadpool)",
+      "defoff": 1.3076788983533767,
+      "score": -7.647137238806831
+    },
+    "drive_url": "https://drive.google.com/file/d/1czPxkuh6J9Rp7ePCeGmH62nQxs8xqiDF/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_017.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_017.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 7456014,
+      "puissance_defense": 10784179,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Orchis+Quasar (-Nimrod)",
+      "equipe_defense": "Accursed+Sentry (-Mordo)",
+      "defoff": 1.4463732230116522,
+      "score": -5.876768087770056
+    },
+    "drive_url": "https://drive.google.com/file/d/1gh2TAglSmwJg2b7jGwWz5W-lNBlflU4H/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_019.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_019.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 18389914,
+      "puissance_defense": 13570049,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone+Apocalypse (-Elsa)",
+      "defoff": 0.7379071484510477,
+      "score": 7.379071484510477
+    },
+    "drive_url": "https://drive.google.com/file/d/1rojoOghdyHfysBXPIGLx6gAuniXkIAt-/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_020.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_020.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 14945349,
+      "puissance_defense": 14158221,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Winter Guard",
+      "defoff": 0.947332912734256,
+      "score": 9.47332912734256
+    },
+    "drive_url": "https://drive.google.com/file/d/1UL-s7T3t7u6bon4VXUF2LjDT2dWSAOqe/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_021.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_021.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 5502082,
+      "puissance_defense": 11239668,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hellfire Club+Skrull (-EmmaFrost)",
+      "defoff": 2.042802706320989,
+      "score": 20.42802706320989
+    },
+    "drive_url": "https://drive.google.com/file/d/1lvFecPero6IjPnits_F7_hXIdF9B8JEO/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_attack_combat_022.png",
+    "local_path": "captures/2026-07-02_CargoBay_attack_combat_022.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 10586705,
+      "puissance_defense": 9706992,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon+Wolverine (-Deadpool)",
+      "defoff": 0.91690398476202,
+      "score": -10.906267358621498
+    },
+    "drive_url": "https://drive.google.com/file/d/1BiOsj6UOX38bQRdCMh4CGyLJfggPzeeP/view"
+  },
+  {
     "filename": "2026-07-02_Bridge_attack_combat_001.png",
     "local_path": "captures/2026-07-02_Bridge_attack_combat_001.png",
     "date": "2026-07-02",
