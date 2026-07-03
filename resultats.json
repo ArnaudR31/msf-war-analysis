@@ -1,5 +1,325 @@
 [
   {
+    "filename": "2026-07-02_FD2_attack_combat_001.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_001.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 5657132,
+      "puissance_defense": 5192361,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.917843352426636,
+      "score": 9.17843352426636
+    },
+    "drive_url": "https://drive.google.com/file/d/1_KYzW9p5j6948wO_md0DgZLCZUsFY3Pi/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_002.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_002.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 6312277,
+      "puissance_defense": 4244551,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Apocalypse (-Deadpool)",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.67242787349161,
+      "score": 6.388064798170295
+    },
+    "drive_url": "https://drive.google.com/file/d/1RsZMVqWO9KWjQuPUZ-gmiDJiqgQ0y2Am/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_003.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_003.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Flizip420",
+      "puissance_attaque": 8875252,
+      "puissance_defense": 6108983,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker+Odin (-MoonKnight)",
+      "equipe_defense": "Liberty",
+      "defoff": 0.6883165683633546,
+      "score": 6.883165683633546
+    },
+    "drive_url": "https://drive.google.com/file/d/1EeC23etlVe7bzFkep2G7HrY2Pte6uYqE/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_004.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_004.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ProphetZer078",
+      "puissance_attaque": 5638517,
+      "puissance_defense": 6257436,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Odin+BetaRayBill+LokiTeen+Vahl+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 1.1097662736496139,
+      "score": 9.987896462846525
+    },
+    "drive_url": "https://drive.google.com/file/d/1vlmy0O3RDzR25xPCTv3d5uNa5oO8QXCX/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_005.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_005.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 7657930,
+      "puissance_defense": 7039093,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Mercs 4 Money+Sentry (-Deadpool)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.919190042217675,
+      "score": 7.3535203377414
+    },
+    "drive_url": "https://drive.google.com/file/d/1_GZTkKuB_rF9riy0Qq_om85Qm-FzuqdL/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_006.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_006.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 5537354,
+      "puissance_defense": 7327298,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Astral",
+      "defoff": 1.323248974149025,
+      "score": 11.247616280266712
+    },
+    "drive_url": "https://drive.google.com/file/d/1NVjs08GCytt-25RdQQJ9vLcmDryp8JYI/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_007.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_007.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 9901988,
+      "puissance_defense": 7342951,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Orchis",
+      "defoff": 0.7415633103170798,
+      "score": 7.415633103170798
+    },
+    "drive_url": "https://drive.google.com/file/d/1sv8izL-1xTtQZaGUVl5eihBnsCEV5Bbp/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_008.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_008.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 7424766,
+      "puissance_defense": 4554486,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.6134181198437769,
+      "score": 6.134181198437769
+    },
+    "drive_url": "https://drive.google.com/file/d/1OQuAIS3Bw7C2oFMJVrCCtyxemPwssVYn/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_009.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_009.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 6340118,
+      "puissance_defense": 4507628,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.7109691018369059,
+      "score": 7.109691018369059
+    },
+    "drive_url": "https://drive.google.com/file/d/1E3HD5twZuNZqFgA1khjS5FHUcbr-vJgP/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_010.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_010.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7706311,
+      "puissance_defense": 6014403,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "F3",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.7804516324347668,
+      "score": -12.813093834915952
+    },
+    "drive_url": "https://drive.google.com/file/d/1IFq012k6c8SJ_FuEkNMcUA5xRlrYVq2G/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_011.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_011.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 5507141,
+      "puissance_defense": 7505798,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.3629209784169318,
+      "score": 13.62920978416932
+    },
+    "drive_url": "https://drive.google.com/file/d/1-D0RGFePSdi6u5hIu6pI-70F-vGEGYz3/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_012.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_012.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 6705656,
+      "puissance_defense": 6095852,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Absolute A-Force",
+      "defoff": 0.909061246207679,
+      "score": 9.090612462076791
+    },
+    "drive_url": "https://drive.google.com/file/d/1qFjbOc1MB63XZnt1uDA3OhvfMXQkqygI/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_013.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_013.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8564976,
+      "puissance_defense": 7238977,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Orchis",
+      "defoff": 0.8451835708588091,
+      "score": 8.451835708588092
+    },
+    "drive_url": "https://drive.google.com/file/d/1pC_gM9as7PS8cGNjfZaFNbJqq91nRvXY/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_014.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_014.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8934002,
+      "puissance_defense": 9241262,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money+Quasar (-Deadpool)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.0343922018374296,
+      "score": 9.826725917455581
+    },
+    "drive_url": "https://drive.google.com/file/d/1qPjDbb9ASMyQqD9dQKEs2YnH74-rFlFA/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_015.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_015.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 10481464,
+      "puissance_defense": 7106730,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "defoff": 0.6780283746621655,
+      "score": 6.780283746621655
+    },
+    "drive_url": "https://drive.google.com/file/d/1LZDLpc4SG_SY5QeVlbbm_m_i7LRBlova/view"
+  },
+  {
+    "filename": "2026-07-02_FD2_attack_combat_016.png",
+    "local_path": "captures/2026-07-02_FD2_attack_combat_016.png",
+    "date": "2026-07-02",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 11060783,
+      "puissance_defense": 8339559,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Exalted X-Men",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.7539754644856517,
+      "score": 6.031803715885213
+    },
+    "drive_url": "https://drive.google.com/file/d/12R5RCS-T2kfxHPvDF_edoIGjk6ukndu0/view"
+  },
+  {
     "filename": "2026-07-02_Engineering_attack_combat_001.png",
     "local_path": "captures/2026-07-02_Engineering_attack_combat_001.png",
     "date": "2026-07-02",
