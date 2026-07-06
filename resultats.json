@@ -1,5 +1,325 @@
 [
   {
+    "filename": "2026-07-02_Security_defense_combat_001.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_001.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 13580112,
+      "puissance_defense": 12327389,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Galactic Council+Knull+Odin",
+      "equipe_defense": "Starjammer NovaSam (-Raccoon)",
+      "defoff": 0.9077531172055134,
+      "score": 8.16977805484962
+    },
+    "drive_url": "https://drive.google.com/file/d/1_-QRMjV9yd7Cc1oAdULPOaBqhKvKpQoQ/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_002.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_002.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 9109985,
+      "puissance_defense": 8691401,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Accursed",
+      "defoff": 0.9540521746193874,
+      "score": 9.540521746193875
+    },
+    "drive_url": "https://drive.google.com/file/d/12LCg88ijOXaoW2JZEEhrrNrv0f5bNyDx/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_003.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_003.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 8766864,
+      "puissance_defense": 7516980,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Apocalypse+Odin+OldManLogan+Skrull+Vulture",
+      "equipe_defense": "Mighty Avenger",
+      "defoff": 0.8574308897685649,
+      "score": 8.574308897685649
+    },
+    "drive_url": "https://drive.google.com/file/d/1InRypyd0_tiSFbYXKWpBD-N1BUct_Vqu/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_004.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_004.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 12040519,
+      "puissance_defense": 7814273,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Immortal X-Men+BlackKnight (-Beast)",
+      "defoff": 0.6489980207663806,
+      "score": 6.489980207663805
+    },
+    "drive_url": "https://drive.google.com/file/d/1Tvj7-W7otBYHPsmwnZZup1Un6iPL5Mlc/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_005.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_005.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 13092910,
+      "puissance_defense": 7419603,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Champion+Lilandra (-MoonGirl)",
+      "equipe_defense": "Champion",
+      "defoff": 0.5666886123863984,
+      "score": 5.383541817670785
+    },
+    "drive_url": "https://drive.google.com/file/d/1KJRck-Cklm4rcoBdf_vCgx3Q-cEwjzYN/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_006.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_006.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 10178243,
+      "puissance_defense": 11867371,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.165954772351181,
+      "score": 11.65954772351181
+    },
+    "drive_url": "https://drive.google.com/file/d/10MIUqaO21-X1vcz10pFMpzMa-s9dHUUW/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_007.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_007.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 11400178,
+      "puissance_defense": 10659562,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Galactic Council+Odin+Nightcrawler",
+      "equipe_defense": "Starjammer+CosmicGhostRider (-Raccoon)",
+      "defoff": 0.9350346985810222,
+      "score": 8.88282963651971
+    },
+    "drive_url": "https://drive.google.com/file/d/1I1cqzKsoHeAMtIz2QvC2AC52yk-SWwvX/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_008.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_008.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 17148373,
+      "puissance_defense": 13637939,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon+Wolverine (-Deadpool)",
+      "defoff": 0.7952905503046849,
+      "score": 7.5552602278945065
+    },
+    "drive_url": "https://drive.google.com/file/d/1WjT1R_7gOkO47NooTiHw1v7NK8n-WQ_f/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_009.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_009.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 8455600,
+      "puissance_defense": 8419502,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Uncanny Avenger+Avenger (-Beast)",
+      "equipe_defense": "Phoenix Force+Ares+Leader",
+      "defoff": 0.9957308765788353,
+      "score": -10.042874269760848
+    },
+    "drive_url": "https://drive.google.com/file/d/1uBBM-i3fzXTmoyZzou2Ow7t_Ivr3X1et/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_010.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_010.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 9531118,
+      "puissance_defense": 9077606,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -7.5,
+      "equipe_offense": "Daring Warrior+StormMighty (-Daredevil)",
+      "equipe_defense": "Annihilator+Kahhori+Ironheart (-SS -Ultimus)",
+      "defoff": 0.9524177541396508,
+      "score": -7.8746957072161985
+    },
+    "drive_url": "https://drive.google.com/file/d/1q1H47aqmG6SzdJ1xf2rfqgVhHYmsCQ0M/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_011.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_011.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 13347947,
+      "puissance_defense": 11504947,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+EmmaFrost+Odin",
+      "equipe_defense": "Thunderbolt+SpiderManBigTime (-Ghost)",
+      "defoff": 0.8619263321917595,
+      "score": 8.619263321917595
+    },
+    "drive_url": "https://drive.google.com/file/d/1HV4846-dCYmwWpFAcCx2wKZn2sfaaSkN/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_012.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_012.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 6981078,
+      "puissance_defense": 8269118,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Astral",
+      "defoff": 1.1845044561885714,
+      "score": 11.845044561885715
+    },
+    "drive_url": "https://drive.google.com/file/d/1ywF_CAr2FkdbC8dtAAvwmRpHpd0FZhw8/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_013.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_013.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 8000495,
+      "puissance_defense": 10264232,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Vigilante+BlackKnight (-Elektra)",
+      "defoff": 1.2829496174924178,
+      "score": 12.829496174924177
+    },
+    "drive_url": "https://drive.google.com/file/d/1FFgQTaRIdApv9p-LqurLO7hFXxuhQHtY/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_014.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_014.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 10468329,
+      "puissance_defense": 10363014,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante+Mephisto (-Elektra)",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 0.9899396551254742,
+      "score": 9.899396551254743
+    },
+    "drive_url": "https://drive.google.com/file/d/1zw6_TxYB0iqIZUJj119COvJQuGqzKSHS/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_015.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_015.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TheOneWhoRemains",
+      "puissance_attaque": 8178227,
+      "puissance_defense": 9299161,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force+Blastaar+Quasar",
+      "equipe_defense": "Accursed Azazel+SebastianShaw (-Mordo -Hellverine)",
+      "defoff": 1.137063204530762,
+      "score": 11.37063204530762
+    },
+    "drive_url": "https://drive.google.com/file/d/1U5c_HeiWM_Bm1UaDsiRS89vf-cw-TnNd/view"
+  },
+  {
+    "filename": "2026-07-02_Security_defense_combat_016.png",
+    "local_path": "captures/2026-07-02_Security_defense_combat_016.png",
+    "date": "2026-07-02",
+    "room": "Security",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Thunder Nuts",
+      "puissance_attaque": 8606387,
+      "puissance_defense": 9427473,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Phoenix Force+Apocalypse+X",
+      "equipe_defense": "New Mutant",
+      "defoff": 1.0954042619742757,
+      "score": 10.954042619742756
+    },
+    "drive_url": "https://drive.google.com/file/d/1e1z1nJnHTQ87QC5Zn_PAKTXTsdbHt1jv/view"
+  },
+  {
     "filename": "2026-07-02_Security_attack_combat_002.png",
     "local_path": "captures/2026-07-02_Security_attack_combat_002.png",
     "date": "2026-07-02",
