@@ -1,5 +1,405 @@
 [
   {
+    "filename": "2026-07-02_FD3_defense_combat_001.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_001.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 10514368,
+      "puissance_defense": 4646526,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Galactic Council+Hulk+SpiderMan",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.44192156865728877,
+      "score": 3.7563333335869546
+    },
+    "drive_url": "https://drive.google.com/file/d/1AE9k6OKcKM43FYvFy-GV4zIg7jcuiL9Y/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_002.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_002.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 7162150,
+      "puissance_defense": 5740308,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Symbiote 6+Gorr (-Venom)",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.8014783270386685,
+      "score": 8.014783270386685
+    },
+    "drive_url": "https://drive.google.com/file/d/1z773gXfW3lYaLjikZO5rgWsivpOxWvyq/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_003.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_003.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 7554376,
+      "puissance_defense": 7045391,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Exalted X-Men",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.9326238196245461,
+      "score": 9.32623819624546
+    },
+    "drive_url": "https://drive.google.com/file/d/1y_WFnzYkIT2_kKnH41Zh7FeNNuMC02xu/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_004.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_004.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 8240778,
+      "puissance_defense": 5172280,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Hellfire Club+Kestrel (-EmmaFrost)",
+      "defoff": 0.6276446228741995,
+      "score": 6.276446228741995
+    },
+    "drive_url": "https://drive.google.com/file/d/1Vm-tgcwu3Egx6SVt3JVcH84cAWV24HCa/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_005.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_005.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 7864266,
+      "puissance_defense": 5828404,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Cabal+Ares+OmegaRedPF",
+      "defoff": 0.7411249822933252,
+      "score": 7.411249822933252
+    },
+    "drive_url": "https://drive.google.com/file/d/1wYuSUo_kahOfdoAyrex-uKgDL_5nTS3p/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_006.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_006.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 11959454,
+      "puissance_defense": 9308246,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Gladiator+Mephisto+Odin+ThanosEndgame+X",
+      "equipe_defense": "Retcon",
+      "defoff": 0.7783169699887637,
+      "score": 7.783169699887637
+    },
+    "drive_url": "https://drive.google.com/file/d/1aguDGq-iO68kKi25VbkdWCbOZ7G1pGR3/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_007.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_007.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 8698107,
+      "puissance_defense": 6784567,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Retcon",
+      "equipe_defense": "Infestation Scorpion (-Swarm)",
+      "defoff": 0.7800050056868696,
+      "score": 7.410047554025261
+    },
+    "drive_url": "https://drive.google.com/file/d/1P3SOlNfov3vFPHmgh_NzxstC9sBnyduv/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_008.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_008.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 9799286,
+      "puissance_defense": 4051557,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Absolute A-Force",
+      "defoff": 0.41345430677296285,
+      "score": 4.134543067729629
+    },
+    "drive_url": "https://drive.google.com/file/d/18jK5QSEXoU_BHHSXEAieJYAlk14ivdSe/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_009.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_009.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 7587634,
+      "puissance_defense": 4128447,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Astral",
+      "defoff": 0.5441020217896646,
+      "score": 5.4410202178966465
+    },
+    "drive_url": "https://drive.google.com/file/d/1IoMeTo_hTo-M4gJYoMBP8zZHQUbLKkmu/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_010.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_010.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Nick",
+      "puissance_attaque": 9447014,
+      "puissance_defense": 3938933,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.41695005427111675,
+      "score": 4.169500542711168
+    },
+    "drive_url": "https://drive.google.com/file/d/1NC0oVOUTPskf802bhGgwstLLXv5QVSGT/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_011.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_011.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 10579027,
+      "puissance_defense": 8733704,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone+Mephisto (-Elsa)",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.8255677956016182,
+      "score": 8.255677956016182
+    },
+    "drive_url": "https://drive.google.com/file/d/1DeS4DarkGN4cTxQgNceLGGOuryX1p-fm/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_012.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_012.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 11202422,
+      "puissance_defense": 12116517,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Galactic Council+Dormammu+X",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.0815979794369468,
+      "score": 9.193582825214047
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZmRzATsVZRQWZP03Uo_yCVGn3ZqJpal5/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_013.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_013.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 5895485,
+      "puissance_defense": 6902849,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Absolute A-Force MoonGirl (-Ironheart)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.1708704203301339,
+      "score": 10.537833782971205
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZFeXDifSJhYT2BUwr51sqKEPzNuQxUyY/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_014.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_014.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 8448629,
+      "puissance_defense": 5842925,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Liberty",
+      "defoff": 0.6915826224586261,
+      "score": 6.224243602127635
+    },
+    "drive_url": "https://drive.google.com/file/d/1jgxtjr6IfctJeyT473jQutDoN7EXRc-E/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_015.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_015.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 12888466,
+      "puissance_defense": 8579159,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Champion",
+      "defoff": 0.6656462452552538,
+      "score": 6.656462452552539
+    },
+    "drive_url": "https://drive.google.com/file/d/1K8TzhIOfIwF6fcVqcXq5bmdIRFOAKb3k/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_016.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_016.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 9435787,
+      "puissance_defense": 5319375,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Alpha Flight+OldManLogan (-Sunfire)",
+      "defoff": 0.5637447093708241,
+      "score": 5.637447093708241
+    },
+    "drive_url": "https://drive.google.com/file/d/1DzxVJEcpXAvBc2t8twoYRmd8dR7NAY_5/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_017.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_017.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 12473280,
+      "puissance_defense": 8083193,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9,
+      "equipe_offense": "F3+Odin+OmegaRedPF",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.6480406917827548,
+      "score": -13.888016777528385
+    },
+    "drive_url": "https://drive.google.com/file/d/1gl4_l_zT64ItVKGUGRaKMicEwhZnacmA/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_018.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_018.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 9430996,
+      "puissance_defense": 9274031,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.9833564768768855,
+      "score": -6.1015513103201835
+    },
+    "drive_url": "https://drive.google.com/file/d/1MC52mUqteRIk3NLaFcoBqF011--UeAG-/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_019.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_019.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 8552722,
+      "puissance_defense": 5474149,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Retcon",
+      "defoff": 0.6400475778354541,
+      "score": -15.623838518096601
+    },
+    "drive_url": "https://drive.google.com/file/d/1GMM0Jh8UopYD6l1zEPiD2kz6AEueSCQR/view"
+  },
+  {
+    "filename": "2026-07-02_FD3_defense_combat_020.png",
+    "local_path": "captures/2026-07-02_FD3_defense_combat_020.png",
+    "date": "2026-07-02",
+    "room": "FD3",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Compnut5x",
+      "puissance_attaque": 11222968,
+      "puissance_defense": 4848684,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.43203223960007725,
+      "score": 4.320322396000773
+    },
+    "drive_url": "https://drive.google.com/file/d/169SRnyDG6uNwxjX29IgBulMoPqrjQ11E/view"
+  },
+  {
     "filename": "2026-07-02_Medbay_defense_combat_001.png",
     "local_path": "captures/2026-07-02_Medbay_defense_combat_001.png",
     "date": "2026-07-02",
