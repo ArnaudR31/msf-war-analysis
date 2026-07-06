@@ -1,5 +1,105 @@
 [
   {
+    "filename": "2026-07-02_FD1_defense_combat_002.png",
+    "local_path": "captures/2026-07-02_FD1_defense_combat_002.png",
+    "date": "2026-07-02",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 14591186,
+      "puissance_defense": 10484104,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 0.7185230864715179,
+      "score": 7.185230864715178
+    },
+    "drive_url": "https://drive.google.com/file/d/1dYj-i0ovvxNs8cz0r5pqUpo0cyITPPfx/view"
+  },
+  {
+    "filename": "2026-07-02_Reactor_attack_combat_001.png",
+    "local_path": "captures/2026-07-02_Reactor_attack_combat_001.png",
+    "date": "2026-07-02",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 8383500,
+      "puissance_defense": 9131235,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Blastaar+Daken+Odin+OldManLogan+Sentry",
+      "equipe_defense": "Orchis",
+      "defoff": 1.0891912685632492,
+      "score": -9.181123911497185
+    },
+    "drive_url": "https://drive.google.com/file/d/16jI-JI52qXV5ypX_CDF-AYpUfC6KbTf-/view"
+  },
+  {
+    "filename": "2026-07-02_Reactor_defense_combat_001.png",
+    "local_path": "captures/2026-07-02_Reactor_defense_combat_001.png",
+    "date": "2026-07-02",
+    "room": "Reactor",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Commander Schnoo",
+      "puissance_attaque": 14726876,
+      "puissance_defense": 6584808,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.447128637465271,
+      "score": 4.47128637465271
+    },
+    "drive_url": "https://drive.google.com/file/d/1hULWvvOMPCKi9RSl1JCcjqEUgEed4iFU/view"
+  },
+  {
+    "filename": "2026-07-02_Reactor_defense_combat_002.png",
+    "local_path": "captures/2026-07-02_Reactor_defense_combat_002.png",
+    "date": "2026-07-02",
+    "room": "Reactor",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Commander Schnoo",
+      "puissance_attaque": 13972063,
+      "puissance_defense": 6909500,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Exalted X-Men",
+      "defoff": 0.4945225340023159,
+      "score": 4.945225340023159
+    },
+    "drive_url": "https://drive.google.com/file/d/1YVYy6K4MAeuwOrRa13xQf049osKNUgWn/view"
+  },
+  {
+    "filename": "2026-07-02_Reactor_defense_combat_004.png",
+    "local_path": "captures/2026-07-02_Reactor_defense_combat_004.png",
+    "date": "2026-07-02",
+    "room": "Reactor",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Actionjackson",
+      "puissance_attaque": 8672585,
+      "puissance_defense": 4999122,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Gladiator+Hulk+SpiderMan+ThanosEndgame+Thunderstrike",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.5764281353252808,
+      "score": 5.187853217927527
+    },
+    "drive_url": "https://drive.google.com/file/d/1zoF0wvP5oxwG-hKrzYWnF_5uZZhZouT4/view"
+  },
+  {
     "filename": "2026-07-02_FD3_defense_combat_001.png",
     "local_path": "captures/2026-07-02_FD3_defense_combat_001.png",
     "date": "2026-07-02",
