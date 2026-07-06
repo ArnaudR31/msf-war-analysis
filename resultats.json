@@ -71,11 +71,11 @@
       "puissance_defense": 5795888,
       "statut": "Fail",
       "statut_affiche": "VICTORY",
-      "num": 10,
+      "num": -10,
       "equipe_offense": "X-Treme X-Men+Rogue (-Forge)",
       "equipe_defense": "Illuminati IronMan (-MrFantastic)",
       "defoff": 1.0862701866299223,
-      "score": 10.862701866299222
+      "score": -9.205812810737545
     },
     "drive_url": "https://drive.google.com/file/d/1an0WL_sNKyW3S6VZGaCV3eSSX5eiMYnx/view"
   },
