@@ -1,5 +1,445 @@
 [
   {
+    "filename": "2026-07-02_CargoBay_defense_combat_001.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_001.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 13071751,
+      "puissance_defense": 10956729,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Galactic Council",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8381990293419757,
+      "score": 8.381990293419756
+    },
+    "drive_url": "https://drive.google.com/file/d/11WffNlrBAYDX86BAmqG7wx8gbug1qW1o/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_002.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_002.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 13027000,
+      "puissance_defense": 9093645,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.6980613341521456,
+      "score": 6.9806133415214555
+    },
+    "drive_url": "https://drive.google.com/file/d/13NewzZlKe3Iesz7eqYMmtGVXi_jSTACH/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_003.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_003.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 11557940,
+      "puissance_defense": 9642550,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Astral+Mephisto (-DrStrange)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.8342792919845577,
+      "score": 7.50851362786102
+    },
+    "drive_url": "https://drive.google.com/file/d/1mCBovnOiSIGnG6gX4WHpGDKN5VHkm0BD/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_004.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_004.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 9871095,
+      "puissance_defense": 14476156,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Lizard (-Scorpion)",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.4665197731356046,
+      "score": -6.818864759401598
+    },
+    "drive_url": "https://drive.google.com/file/d/110RIQ6_6VC7tG98YLDRzPTBfSpeIl6na/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_005.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_005.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 10343767,
+      "puissance_defense": 14476156,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.399505228607721,
+      "score": 13.99505228607721
+    },
+    "drive_url": "https://drive.google.com/file/d/1kxnETr-xG3U-FvUCSerBtRvj9sd9B5om/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_006.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_006.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 7030378,
+      "puissance_defense": 11912312,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.6944056208641982,
+      "score": 14.402447777345685
+    },
+    "drive_url": "https://drive.google.com/file/d/1R9_JX-m-z_ePWY4DE9qYtJiZZVGfW5MU/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_007.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_007.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 9871093,
+      "puissance_defense": 10763880,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Lizard (-Scorpion)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.0904445941295458,
+      "score": 9.26877905010114
+    },
+    "drive_url": "https://drive.google.com/file/d/1j-1ZE5Y-4sLsxSrfPC4voBeFn6jZoO5X/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_008.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_008.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 6998817,
+      "puissance_defense": 12108149,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Champion",
+      "defoff": 1.730027946151471,
+      "score": 15.570251515363239
+    },
+    "drive_url": "https://drive.google.com/file/d/1ADQRG7663vUrM0cjcSvdUk7uGHWM8w-5/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_009.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_009.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 5372966,
+      "puissance_defense": 9108748,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "NovaSam+PhantomRider+RedHulk+Skrull+SSBreaker",
+      "equipe_defense": "Accursed",
+      "defoff": 1.695292320852207,
+      "score": 15.257630887669864
+    },
+    "drive_url": "https://drive.google.com/file/d/1PXDeIRjjqlm1jHjl235pb5MTvkkufW3R/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_011.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_011.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 11820174,
+      "puissance_defense": 13320900,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.1269631056192573,
+      "score": 7.888741739334801
+    },
+    "drive_url": "https://drive.google.com/file/d/1O0oM5ycr5yrmboeQNt2fFRInJLMM9j3o/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_012.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_012.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 12739370,
+      "puissance_defense": 9898987,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Omen",
+      "defoff": 0.7770389744547808,
+      "score": 7.770389744547808
+    },
+    "drive_url": "https://drive.google.com/file/d/1VQMdOrd3ZACdRWzwA_qGxLVk3LUGpROs/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_013.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_013.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 8662560,
+      "puissance_defense": 11404737,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Retcon",
+      "defoff": 1.3165550368482297,
+      "score": -7.5955806784496644
+    },
+    "drive_url": "https://drive.google.com/file/d/1rFWd8p2Z9nsIKWWljVKrvQzentJOm-W7/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_015.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_015.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "T Dawg",
+      "puissance_attaque": 13560492,
+      "puissance_defense": 10546318,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Vigilante",
+      "defoff": 0.7777238465978963,
+      "score": 7.777238465978963
+    },
+    "drive_url": "https://drive.google.com/file/d/1QpQcFcmw3I1pg6Ih9WBlC3kc63349SmW/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_017.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_017.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 5463154,
+      "puissance_defense": 9343548,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Underworld+Kestrel (-Nobu)",
+      "equipe_defense": "Accursed",
+      "defoff": 1.7102845718791746,
+      "score": 17.102845718791745
+    },
+    "drive_url": "https://drive.google.com/file/d/10xOiM3ECM7H7qKdYIh5cL2pj3xa0zbFB/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_018.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_018.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 5229086,
+      "puissance_defense": 9908671,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Cabal+Apocalypse+Kang",
+      "equipe_defense": "Astral",
+      "defoff": 1.8949145223467352,
+      "score": 18.94914522346735
+    },
+    "drive_url": "https://drive.google.com/file/d/1h3zs8ENtWY6-DxXuPvbMsH6zmS3ORcnP/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_019.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_019.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 6460076,
+      "puissance_defense": 8462793,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Illuminati MrFantastic+Ares (-IronMan -BlackBolt)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.3100144642261176,
+      "score": 13.100144642261176
+    },
+    "drive_url": "https://drive.google.com/file/d/1a4VkC6pSUMQRIbZOnPllsadofJl7dE5Y/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_020.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_020.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 7389107,
+      "puissance_defense": 10452056,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Mercs 4 Money",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.4145222149307082,
+      "score": 13.437961041841728
+    },
+    "drive_url": "https://drive.google.com/file/d/1_4NjPzB-KqI_BvRFamEUrXAqH1NNHQJJ/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_021.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_021.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 8984059,
+      "puissance_defense": 12908375,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7.5,
+      "equipe_offense": "Shadow Conclave+Odin (-Malekith)",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.4368087965584375,
+      "score": 10.776065974188281
+    },
+    "drive_url": "https://drive.google.com/file/d/1Grm08_wdaqu_ew_X7zcgYaWERXXO13rZ/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_022.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_022.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 11131428,
+      "puissance_defense": 9406796,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.8450664191512536,
+      "score": 8.450664191512535
+    },
+    "drive_url": "https://drive.google.com/file/d/1DcUAFIG9Unjkl8azzgRuwQ9UY7yCFEJY/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_023.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_023.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 7904923,
+      "puissance_defense": 8334842,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Nightstalker",
+      "defoff": 1.0543862350082347,
+      "score": -9.48419058213701
+    },
+    "drive_url": "https://drive.google.com/file/d/1aDO0_WwlWBZtnajqCNH6BxXqvN-nNL3d/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_024.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_024.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 9728782,
+      "puissance_defense": 8334842,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.8567199881752926,
+      "score": -11.672425224137422
+    },
+    "drive_url": "https://drive.google.com/file/d/1yRCJS8LBzpBkE4epjR5IXbY25Fw_Oixn/view"
+  },
+  {
+    "filename": "2026-07-02_CargoBay_defense_combat_026.png",
+    "local_path": "captures/2026-07-02_CargoBay_defense_combat_026.png",
+    "date": "2026-07-02",
+    "room": "CargoBay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "XCRISTOX",
+      "puissance_attaque": 10673195,
+      "puissance_defense": 8334842,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.780913494038102,
+      "score": 7.8091349403810195
+    },
+    "drive_url": "https://drive.google.com/file/d/1SNAIGC9fi3y80YZqpZpLLQGVaTn47Y-o/view"
+  },
+  {
     "filename": "2026-07-02_Barracks_defense_combat_001.png",
     "local_path": "captures/2026-07-02_Barracks_defense_combat_001.png",
     "date": "2026-07-02",
