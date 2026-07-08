@@ -1,5 +1,365 @@
 [
   {
+    "filename": "2026-07-07_Barracks_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 8785189,
+      "puissance_defense": 8043889,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.915619345241178,
+      "score": 9.156193452411781
+    },
+    "drive_url": "https://drive.google.com/file/d/1E3oWX-Te_1f8JabTbSAbK84mqm_FiUiB/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 7697874,
+      "puissance_defense": 7092718,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.9213866062240041,
+      "score": 8.292479456016038
+    },
+    "drive_url": "https://drive.google.com/file/d/18prHUVUYvKWwQV1eGAo4-qLXy7lIOXhO/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 11815107,
+      "puissance_defense": 7269765,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.6152940468503586,
+      "score": 6.152940468503586
+    },
+    "drive_url": "https://drive.google.com/file/d/1tdJLgV7FOANXzU4hTA2WOXM-Eqc74Y0Q/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_004.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 12556952,
+      "puissance_defense": 10537272,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.8391584199732547,
+      "score": 8.391584199732547
+    },
+    "drive_url": "https://drive.google.com/file/d/1kJvE14CDHTkDeIGSTtSuGH1ewgdqXud2/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 7727462,
+      "puissance_defense": 9345041,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.2093286256211937,
+      "score": 12.093286256211936
+    },
+    "drive_url": "https://drive.google.com/file/d/1H5b7u8RqmgYvpSBcG1sDGPPp3cl_Logu/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_006.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5723414,
+      "puissance_defense": 8035757,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Astral",
+      "defoff": 1.4040146318263889,
+      "score": -5.697946316694246
+    },
+    "drive_url": "https://drive.google.com/file/d/1bK21J3W4OsXIZh-4qP06DCNtK84JHej6/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 8475609,
+      "puissance_defense": 4365238,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Astral+Odin (-Moondragon)",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 0.5150353207657409,
+      "score": 5.150353207657409
+    },
+    "drive_url": "https://drive.google.com/file/d/1yM2XqWFP9bU6s64D4pLHMIp2FE5g_fBN/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_009.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 7294990,
+      "puissance_defense": 11703042,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.6042574424365215,
+      "score": 16.042574424365213
+    },
+    "drive_url": "https://drive.google.com/file/d/1X-Dc5YU91Tx1UcvPVB8rQ6dPUecd3d9Y/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_010.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 17435693,
+      "puissance_defense": 15175706,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Champion",
+      "defoff": 0.8703815787534227,
+      "score": 8.703815787534227
+    },
+    "drive_url": "https://drive.google.com/file/d/1Puz_W-JoOKTlzzwYA-yDmbJaT6hiUHFK/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_011.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9859531,
+      "puissance_defense": 10269954,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Immortal Weapon+X (-IronFistWW2)",
+      "equipe_defense": "Retcon",
+      "defoff": 1.0416270307380746,
+      "score": 8.333016245904597
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZsaDjXpPNFRR6T8N1T0m04DtFpsB4T4t/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_012.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 7175426,
+      "puissance_defense": 7308337,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Ares+OmegaRedPF+Odin+Sentry+StormMighty",
+      "equipe_defense": "Accursed",
+      "defoff": 1.0185230814170476,
+      "score": 9.166707732753428
+    },
+    "drive_url": "https://drive.google.com/file/d/1tPAfSEV5mKgBPywnDu36tv1hewiAU6Xi/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_013.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 11218171,
+      "puissance_defense": 10355837,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Blastaar+IronFistWW2+Odin+Quasar+SpiderMan",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9231306065846206,
+      "score": 9.231306065846207
+    },
+    "drive_url": "https://drive.google.com/file/d/1FzB0yhCNcxCPNhwRVIYh4u8XL4o0mAcV/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_014.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7322233,
+      "puissance_defense": 9729299,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "Orchis",
+      "defoff": 1.3287338712111456,
+      "score": 11.95860484090031
+    },
+    "drive_url": "https://drive.google.com/file/d/1B2oUzADf4fno6GpKp3YT3Pg96GnCHpfs/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_015.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Guybrush",
+      "puissance_attaque": 5679030,
+      "puissance_defense": 7951652,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Illuminati MrFantastic (-IronMan)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.4001778472732138,
+      "score": 12.601600625458925
+    },
+    "drive_url": "https://drive.google.com/file/d/12J6y77h3j-ALU1HlKrqu5ZLAorVBxEvi/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_016.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Guybrush",
+      "puissance_attaque": 6596835,
+      "puissance_defense": 7137189,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Astral",
+      "defoff": 1.0819110982766735,
+      "score": 10.278155433628399
+    },
+    "drive_url": "https://drive.google.com/file/d/1hLsJzjMJwDcNJy2iw3zjNz1yJZT-89rD/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_017.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Guybrush",
+      "puissance_attaque": 9195423,
+      "puissance_defense": 7971538,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Insidious 6+Knull+Mephisto",
+      "defoff": 0.8669028058850583,
+      "score": -8.651488897123741
+    },
+    "drive_url": "https://drive.google.com/file/d/1OUL-t8vWsSee2K8VLnd1V4oNFZq-R-Ap/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_018.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7051317,
+      "puissance_defense": 7363956,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9.5,
+      "equipe_offense": "Nightstalker+EmmaFrost+OldManLogan (-MoonKnight -ManThing)",
+      "equipe_defense": "Nightstalker+PhantomRider (-MoonKnight)",
+      "defoff": 1.0443376747918154,
+      "score": -9.096674599902553
+    },
+    "drive_url": "https://drive.google.com/file/d/1Pzg9J9Jddmnoi7u2FsFaGzxthMY0GYDw/view"
+  },
+  {
+    "filename": "2026-07-07_Barracks_attack_combat_020.png",
+    "local_path": "captures/2026-07-07_Barracks_attack_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Barracks",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Guybrush",
+      "puissance_attaque": 9514283,
+      "puissance_defense": 8114973,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Astral+Ares (-DrStrange)",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.8529253334171372,
+      "score": -11.72435570642071
+    },
+    "drive_url": "https://drive.google.com/file/d/1BRQHb67wcqoVcb5etiEUIF4IGUy18Dy7/view"
+  },
+  {
     "filename": "2026-07-07_Armory_attack_combat_001.png",
     "local_path": "captures/2026-07-07_Armory_attack_combat_001.png",
     "date": "2026-07-07",
