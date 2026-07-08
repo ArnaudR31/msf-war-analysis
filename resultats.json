@@ -1,5 +1,385 @@
 [
   {
+    "filename": "2026-07-07_Engineering_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8285856,
+      "puissance_defense": 13340801,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+ZScarletWitch (-Deadpool)",
+      "equipe_defense": "F3+Torch+Thing",
+      "defoff": 1.6100691346796276,
+      "score": 16.100691346796275
+    },
+    "drive_url": "https://drive.google.com/file/d/1HW4Zr-EsDUpaK_QZDn_V3mj5xQfJeXT8/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 7671421,
+      "puissance_defense": 10297133,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force MoonGirl (-Wasp)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.3422719206780596,
+      "score": 13.422719206780595
+    },
+    "drive_url": "https://drive.google.com/file/d/1YZLZ108dNxjbqDIwv_U8j1G1XX3wSTIK/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 4174223,
+      "puissance_defense": 8267151,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6,
+      "equipe_offense": "Omen",
+      "equipe_defense": "New Mutant",
+      "defoff": 1.9805245191739875,
+      "score": -3.0295004893463293
+    },
+    "drive_url": "https://drive.google.com/file/d/1eXPFN6fK6JBsrtMgQ03YoXdIpg9Hly8x/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8182248,
+      "puissance_defense": 11935389,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker+LadyDeathstrike (-MoonKnight)",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.4586931366538878,
+      "score": 14.586931366538877
+    },
+    "drive_url": "https://drive.google.com/file/d/1qg3XjB4h2JiPpcoURsY82IFDp5MioyaW/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_006.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10926817,
+      "puissance_defense": 11045026,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Champion",
+      "defoff": 1.0108182465213795,
+      "score": 10.108182465213796
+    },
+    "drive_url": "https://drive.google.com/file/d/1scXuTD2NSCwdP1Payj_I7F42ml8cAJlG/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10772527,
+      "puissance_defense": 11847235,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Annihilator+Knull+Venom (-SS -Ultimus)",
+      "defoff": 1.09976377873084,
+      "score": 10.9976377873084
+    },
+    "drive_url": "https://drive.google.com/file/d/1jCf288v6ir31qjpC1G-EOIHjdLDqo3UQ/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_008.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 7585220,
+      "puissance_defense": 6016087,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.7931328293708027,
+      "score": 7.9313282937080265
+    },
+    "drive_url": "https://drive.google.com/file/d/1eG1ECv3v4jNWgZwfLRhP7o2UekDWGLwS/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_009.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 4287278,
+      "puissance_defense": 5650424,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 1.317951390136119,
+      "score": -5.311273277899145
+    },
+    "drive_url": "https://drive.google.com/file/d/1H3J-7M4nPwvpJBVOaRK2umdNwBnEUW7l/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_010.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 8458807,
+      "puissance_defense": 11342407,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "defoff": 1.3408991362493552,
+      "score": 13.408991362493552
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZJlLLMxI4J5LsqyFz0YlBrK6_uLKs_yN/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_011.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 5106624,
+      "puissance_defense": 5925623,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+Apocalypse (-Deadpool)",
+      "equipe_defense": "Spider-Society",
+      "defoff": 1.1603797342432103,
+      "score": 11.603797342432102
+    },
+    "drive_url": "https://drive.google.com/file/d/1JXX1ZiapBgrmKDKuEv-26DFYfZObO18X/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_012.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 8570427,
+      "puissance_defense": 7614376,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Astral",
+      "defoff": 0.8884476817782825,
+      "score": 7.551805295115401
+    },
+    "drive_url": "https://drive.google.com/file/d/1kGXzxDgxwEEm4bQ7KYM4OKkmbhiPDSn1/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_013.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 5482640,
+      "puissance_defense": 8986265,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Illuminati MrFantastic (-IronMan)",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 1.6390397691623013,
+      "score": 16.390397691623015
+    },
+    "drive_url": "https://drive.google.com/file/d/180VAdGSH7VoeNWcxFCP-Th-rNfYOfzRj/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_014.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 12289378,
+      "puissance_defense": 8064069,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Orchis",
+      "defoff": 0.6561820297170451,
+      "score": 6.561820297170451
+    },
+    "drive_url": "https://drive.google.com/file/d/1dOXZruyOkYm3q3hWyxllWevMzHGWP1Hx/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_015.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 9143526,
+      "puissance_defense": 11100418,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Annihilator+Mephisto+SSBreaker (-SS -Ultimus)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.214019405642856,
+      "score": 12.140194056428559
+    },
+    "drive_url": "https://drive.google.com/file/d/121aeDccGvWjkcg8o4gWI6i8re4h8DOwb/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_016.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 7607219,
+      "puissance_defense": 8339577,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.0962714495270873,
+      "score": 8.770171596216699
+    },
+    "drive_url": "https://drive.google.com/file/d/1SgCCw_y4R4-PXtgOjWd0L7JLGV1-RpWV/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_017.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 7487203,
+      "puissance_defense": 12901748,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Retcon",
+      "defoff": 1.7231732597606877,
+      "score": -5.803246970875574
+    },
+    "drive_url": "https://drive.google.com/file/d/1aurzd_JD5NQ7cV3oBnnhqP8RHrk_MHyr/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_018.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 8120375,
+      "puissance_defense": 5697784,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "X-Treme X-Men",
+      "defoff": 0.7016651324600157,
+      "score": 7.016651324600157
+    },
+    "drive_url": "https://drive.google.com/file/d/1h1TlQ66moSL10R4pMcE0yhS1nmyAO-yJ/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_020.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Renegademaster1",
+      "puissance_attaque": 10689413,
+      "puissance_defense": 8849245,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+X+Quasar",
+      "equipe_defense": "Astral+Mephisto (-DrStrange)",
+      "defoff": 0.8278513516130399,
+      "score": 8.278513516130399
+    },
+    "drive_url": "https://drive.google.com/file/d/1ss9FSyFJhInNNzcWVYFHFMOMaCQfp3Ic/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_attack_combat_023.png",
+    "local_path": "captures/2026-07-07_Engineering_attack_combat_023.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Guybrush",
+      "puissance_attaque": 8322422,
+      "puissance_defense": 9161255,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.100791932925295,
+      "score": -9.08436889923924
+    },
+    "drive_url": "https://drive.google.com/file/d/1McgXw2I_3spTDFzal7IssBiJqDz2cMoN/view"
+  },
+  {
     "filename": "2026-07-07_Bridge_attack_combat_001.png",
     "local_path": "captures/2026-07-07_Bridge_attack_combat_001.png",
     "date": "2026-07-07",
