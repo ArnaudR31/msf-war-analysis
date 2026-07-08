@@ -1,5 +1,65 @@
 [
   {
+    "filename": "2026-07-07_CargoBay_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_CargoBay_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "CargoBay",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9958303,
+      "puissance_defense": 14787250,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7,
+      "equipe_offense": "Jubilee+RachelSummers+SebastianShaw+SSBreaker+StormMighty",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.4849166569846288,
+      "score": 10.394416598892402
+    },
+    "drive_url": "https://drive.google.com/file/d/1jtyjIUsJhTfPvqrjq_0sDUsxnJgh6R-N/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_FD1_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 10643224,
+      "puissance_defense": 3032670,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.2849390372691583,
+      "score": 2.849390372691583
+    },
+    "drive_url": "https://drive.google.com/file/d/1K6NFwFzLDFHnNqlW-nGSlR0VajdFARfc/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_FD1_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 10513079,
+      "puissance_defense": 4309343,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.4099030360182778,
+      "score": 4.099030360182779
+    },
+    "drive_url": "https://drive.google.com/file/d/1PohPtER_nLGqKtvm4RkP2ROjVp8jmqCO/view"
+  },
+  {
     "filename": "2026-07-07_Security_attack_combat_001.png",
     "local_path": "captures/2026-07-07_Security_attack_combat_001.png",
     "date": "2026-07-07",
