@@ -1,5 +1,405 @@
 [
   {
+    "filename": "2026-07-07_Armory_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 5312034,
+      "puissance_defense": 10229691,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.925757817062165,
+      "score": 19.25757817062165
+    },
+    "drive_url": "https://drive.google.com/file/d/1r3y_WlgAnn6E76sghycEGNsE0EhPTt7m/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_002.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 10994312,
+      "puissance_defense": 7229260,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.6575454653278896,
+      "score": 6.5754546532788964
+    },
+    "drive_url": "https://drive.google.com/file/d/1LGfpnLqXi1c5r3pKUt9LaO961xwORR1r/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_003.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 9606594,
+      "puissance_defense": 6411267,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.6673819045543092,
+      "score": 6.673819045543093
+    },
+    "drive_url": "https://drive.google.com/file/d/1VAuEGt5hAlRM5NdP_tRit2Q_BpoHYe_I/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_004.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 10317836,
+      "puissance_defense": 7251505,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Liberty",
+      "defoff": 0.7028125858949493,
+      "score": 7.028125858949493
+    },
+    "drive_url": "https://drive.google.com/file/d/1NrOvs1ggoTjvI0WKYjUJOAVn2HvYZDLg/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 8863823,
+      "puissance_defense": 5501605,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.6206808281257421,
+      "score": 6.2068082812574215
+    },
+    "drive_url": "https://drive.google.com/file/d/1zer86oIGoCPbGLqCBX0pgT1wjREWmue2/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 8512481,
+      "puissance_defense": 3743849,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.4398070315810397,
+      "score": 3.958263284229357
+    },
+    "drive_url": "https://drive.google.com/file/d/1mJuAjmGhKd6MN2H9h6t3yubmFXRSmRxa/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_007.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 10274709,
+      "puissance_defense": 7673288,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.7468131700858875,
+      "score": 7.4681317008588755
+    },
+    "drive_url": "https://drive.google.com/file/d/1CeQrKYM-1a0V7UYtksZ6r0iITxeufV6Z/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_008.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 7987209,
+      "puissance_defense": 4071776,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Omen",
+      "defoff": 0.5097870858268514,
+      "score": 5.097870858268514
+    },
+    "drive_url": "https://drive.google.com/file/d/1IUV3PVl83oLDZjZj4LqnFg5V6B1O3OMx/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 10391327,
+      "puissance_defense": 5391345,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6.5,
+      "equipe_offense": "Immortal Weapon+LadyDeathstrike (-IronFistWW2)",
+      "equipe_defense": "Illuminati+Odin (-BlackBolt -IronMan)",
+      "defoff": 0.5188312330080653,
+      "score": -12.528158650577916
+    },
+    "drive_url": "https://drive.google.com/file/d/1FIPP1ZYy_MDR6mDNXU2tmkOTuWr6u0pH/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_011.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 12607961,
+      "puissance_defense": 7133258,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone+Apocalypse (-Elsa)",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.5657741168456978,
+      "score": 5.657741168456978
+    },
+    "drive_url": "https://drive.google.com/file/d/19UuENTFggiPkxPD2E6K8XrQgqozpV__o/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_012.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 5792276,
+      "puissance_defense": 7219002,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.2463152653637362,
+      "score": 12.463152653637362
+    },
+    "drive_url": "https://drive.google.com/file/d/1xJVVsrr6UcCtUXHu12w1YKUmOGr2x8jG/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_013.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 9459835,
+      "puissance_defense": 8224129,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.8693734087328162,
+      "score": 6.95498726986253
+    },
+    "drive_url": "https://drive.google.com/file/d/1B1zj_7fSy1qLVA5DBLBxd3lTaNfleler/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 7211180,
+      "puissance_defense": 8786766,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 1.218492119181604,
+      "score": 12.184921191816041
+    },
+    "drive_url": "https://drive.google.com/file/d/1XG41Zms0VtvKx76wFyBzcAN8q9ge0Wvf/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_015.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "MOllywOp",
+      "puissance_attaque": 13008352,
+      "puissance_defense": 14503932,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 1.1149707510989864,
+      "score": -8.968845137994304
+    },
+    "drive_url": "https://drive.google.com/file/d/117jNKoGGDP8Np2kBqE0esd5xAk9aqvE_/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_016.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 13008352,
+      "puissance_defense": 11593161,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8912090478486437,
+      "score": 8.912090478486437
+    },
+    "drive_url": "https://drive.google.com/file/d/1aSaIecyKMCTM6KplJhWX1RGvZc7MBUxa/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_017.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 8480228,
+      "puissance_defense": 8002036,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "defoff": 0.9436109500829459,
+      "score": 9.43610950082946
+    },
+    "drive_url": "https://drive.google.com/file/d/1krnAYZkknsOb9HaBpkTazmQw3c0PPmHh/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_018.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 6262054,
+      "puissance_defense": 7818020,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Accursed",
+      "defoff": 1.248475340519261,
+      "score": 12.48475340519261
+    },
+    "drive_url": "https://drive.google.com/file/d/1ifFcACY4_Ji_qp8rqlf6jlmMeRdIxqb4/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_021.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 3791002,
+      "puissance_defense": 5356177,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Out Of Time",
+      "defoff": 1.4128657806036504,
+      "score": 14.128657806036504
+    },
+    "drive_url": "https://drive.google.com/file/d/1k8pg_rGmabnv7D3NEkbeRyONDvpMVYXn/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_023.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_023.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 10296802,
+      "puissance_defense": 5485270,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Illuminati IronMan (-MrFantastic)",
+      "defoff": 0.5327158859614859,
+      "score": 5.327158859614859
+    },
+    "drive_url": "https://drive.google.com/file/d/18qJNjV2XDnUYX9yuhZXidAqMarOp_83S/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_defense_combat_024.png",
+    "local_path": "captures/2026-07-07_Armory_defense_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Argarwaen",
+      "puissance_attaque": 11831210,
+      "puissance_defense": 13409199,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.1333751154784675,
+      "score": 11.333751154784675
+    },
+    "drive_url": "https://drive.google.com/file/d/17F--s1gyn7lmIE4tKvvSunCN264H0V_E/view"
+  },
+  {
     "filename": "2026-07-07_CargoBay_attack_combat_002.png",
     "local_path": "captures/2026-07-07_CargoBay_attack_combat_002.png",
     "date": "2026-07-07",
