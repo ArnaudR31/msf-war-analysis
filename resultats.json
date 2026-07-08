@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-07-07_Security_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 9709717,
+      "puissance_defense": 12055965,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.2416391744476178,
+      "score": 12.41639174447618
+    },
+    "drive_url": "https://drive.google.com/file/d/1Ek_pEl5lxSb8g-_3Ssz8ssiz4VGyg7ny/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 20908675,
+      "puissance_defense": 13180890,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.6304029308409069,
+      "score": 6.304029308409069
+    },
+    "drive_url": "https://drive.google.com/file/d/1QJu1VJZxSy0nPxBr96Aeq20bQzNolcGO/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 12618397,
+      "puissance_defense": 8462560,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Alpha Flight+Apocalypse (-Sunfire)",
+      "defoff": 0.6706525400968126,
+      "score": 6.706525400968126
+    },
+    "drive_url": "https://drive.google.com/file/d/1PZN0MBkVTITGTtsv86Ey2hENOChRMh-d/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_004.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 14271410,
+      "puissance_defense": 10394826,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Astral+Gladiator+ThanosEndgame (-Moondragon -DrStrange)",
+      "defoff": 0.7283671340112855,
+      "score": 7.283671340112855
+    },
+    "drive_url": "https://drive.google.com/file/d/1_gmAisDww5Jfkc1rOsFvA9ACPfU4UuqR/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 10848370,
+      "puissance_defense": 8806145,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Phoenix Force+Kahhori+MsMarvelClassic",
+      "defoff": 0.8117482165523484,
+      "score": 8.117482165523484
+    },
+    "drive_url": "https://drive.google.com/file/d/1_GhicYisDEnuv_dGu-L7-6AquEoSu58e/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_006.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 13245682,
+      "puissance_defense": 7497539,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Illuminati+BlackKnight+Odin",
+      "defoff": 0.5660364638076016,
+      "score": -17.66670636858308
+    },
+    "drive_url": "https://drive.google.com/file/d/1HHGqpCL6-v134jJXfnI8kLSE5Q5BSGNT/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 13703660,
+      "puissance_defense": 9768124,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker",
+      "equipe_defense": "Thunderbolt+Skrull (-Ghost)",
+      "defoff": 0.7128113219388105,
+      "score": 7.128113219388105
+    },
+    "drive_url": "https://drive.google.com/file/d/1z4HszHGp3BW7i4bT3-0DoT8jlmdNcg0P/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_008.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 14486398,
+      "puissance_defense": 8475742,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Hive-Mind Knull+Gorr (-Venom -Gwenom)",
+      "defoff": 0.585082779031751,
+      "score": 5.265745011285759
+    },
+    "drive_url": "https://drive.google.com/file/d/1R7pOphyMmZM-ITO5yqfsSnJkFPfUK9eT/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_009.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 15036073,
+      "puissance_defense": 7497539,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Illuminati+BlackKnight+Odin",
+      "defoff": 0.49863677836626624,
+      "score": -18.04921014748973
+    },
+    "drive_url": "https://drive.google.com/file/d/1-yTIERxiP5q-makzXVQDeHiFxlcTA51k/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_011.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 15772198,
+      "puissance_defense": 11211920,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "Hellfire Club+Mephisto+X (-EmmaFrost -MadelynePryor)",
+      "defoff": 0.7108660441620122,
+      "score": -14.067347965379703
+    },
+    "drive_url": "https://drive.google.com/file/d/1ae-z9vcv9SwdR9lNfDbOj00jv8cti-9d/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_013.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 16691441,
+      "puissance_defense": 12567007,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Brimstone+Nightcrawler (-Elsa)",
+      "defoff": 0.7529012623895085,
+      "score": 7.15256199270033
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZvlhbbEHGl_rhyEcFBwq6Qwus1gJb5Am/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_014.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "JCTAR",
+      "puissance_attaque": 16584810,
+      "puissance_defense": 9643395,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Phoenix Force+Dormammu+Sentry",
+      "defoff": 0.5814594800905165,
+      "score": -12.038672065180364
+    },
+    "drive_url": "https://drive.google.com/file/d/18uv8E8a_sN1wwJOnuI8lhheq7YhJY95f/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_016.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 14855412,
+      "puissance_defense": 13204209,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.8888483873755908,
+      "score": 8.888483873755908
+    },
+    "drive_url": "https://drive.google.com/file/d/1ALPQ9RCmER_dC-6fCueRLACNqNcN1ZPA/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_017.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 11577334,
+      "puissance_defense": 14029372,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.2117964291260839,
+      "score": 11.512066076697797
+    },
+    "drive_url": "https://drive.google.com/file/d/1rAJq8TsIsZltLE56_cjyZEVwwRVHRVmW/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_018.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 19590078,
+      "puissance_defense": 11786865,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.6016752460097402,
+      "score": 6.016752460097402
+    },
+    "drive_url": "https://drive.google.com/file/d/1U8pW54NzLu9p57WX4baCnrAiDWqMczNJ/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_019.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_019.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 14609870,
+      "puissance_defense": 11743372,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 0.8037971590438518,
+      "score": 7.234174431394667
+    },
+    "drive_url": "https://drive.google.com/file/d/1vBGMmO7IMOTPSup2_Zn9Ov7rPDgixNQA/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_020.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 12408859,
+      "puissance_defense": 8893477,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt+X (-Taskmaster)",
+      "equipe_defense": "Exalted X-Men+X (-Wolverine)",
+      "defoff": 0.7167038484360246,
+      "score": 7.167038484360246
+    },
+    "drive_url": "https://drive.google.com/file/d/1ywiFWOq_-kZlUo18YOwHZuxCfETLUQ5d/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_021.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 8798000,
+      "puissance_defense": 16256208,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Retcon",
+      "defoff": 1.8477162991588998,
+      "score": -5.412086262675773
+    },
+    "drive_url": "https://drive.google.com/file/d/1d3oHXO185r8KJdnYPTS9aMKXNQ8HdDyb/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_023.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_023.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 8985905,
+      "puissance_defense": 15632972,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Brimstone+Guardian+IronPatriot (-Elsa -Hellcat)",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.7397214860384125,
+      "score": -5.748046500690975
+    },
+    "drive_url": "https://drive.google.com/file/d/1QoVf2HUmDJvcQkx-ivddmu_AeMZIprKf/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_024.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 11425307,
+      "puissance_defense": 11731283,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Hive-Mind Knull+Gorr (-Venom -Carnage)",
+      "defoff": 1.0267805495292162,
+      "score": 9.754415220527553
+    },
+    "drive_url": "https://drive.google.com/file/d/1JlvO48GForPF2AuwD2OC7imsQbvyVEJe/view"
+  },
+  {
+    "filename": "2026-07-07_Security_attack_combat_025.png",
+    "local_path": "captures/2026-07-07_Security_attack_combat_025.png",
+    "date": "2026-07-07",
+    "room": "Security",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 5783889,
+      "puissance_defense": 15290088,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 7.5,
+      "equipe_offense": "Mercs 4 Money+Ares (-Deadpool)",
+      "equipe_defense": "Infestation",
+      "defoff": 2.6435652551423447,
+      "score": 19.826739413567587
+    },
+    "drive_url": "https://drive.google.com/file/d/1CBewdCI9NFW0f5g5N3qlVQNDdFOu8eMC/view"
+  },
+  {
     "filename": "2026-07-07_Reactor_attack_combat_001.png",
     "local_path": "captures/2026-07-07_Reactor_attack_combat_001.png",
     "date": "2026-07-07",
