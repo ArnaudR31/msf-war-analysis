@@ -1,5 +1,205 @@
 [
   {
+    "filename": "2026-07-07_FD2_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 8092010,
+      "puissance_defense": 5584972,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Spider-Society+SpiderWeaver (-GhostSpider)",
+      "defoff": 0.6901835267133877,
+      "score": 6.901835267133877
+    },
+    "drive_url": "https://drive.google.com/file/d/15rNMI9g8fbzLvudyQsNFShImzpDP1LfP/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 7543629,
+      "puissance_defense": 5652576,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.7493178680977021,
+      "score": 7.493178680977021
+    },
+    "drive_url": "https://drive.google.com/file/d/1oa2_Rv_HJgl6MPKaZMCMe8WI4TD3rVXR/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 8504976,
+      "puissance_defense": 5661133,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Cabal+Thing+Torch",
+      "defoff": 0.6656259817781967,
+      "score": 6.656259817781967
+    },
+    "drive_url": "https://drive.google.com/file/d/1mrlz1HYORe4FpiX92tPKzuGq5ZEo_Ksw/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_004.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_004.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 6340118,
+      "puissance_defense": 5120450,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Out Of Time",
+      "defoff": 0.8076269242938381,
+      "score": 8.07626924293838
+    },
+    "drive_url": "https://drive.google.com/file/d/1yjmeW3ro2hm9OcEadQPX465iyh4i5DoU/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 9901988,
+      "puissance_defense": 8143209,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.8223812228413123,
+      "score": 8.223812228413124
+    },
+    "drive_url": "https://drive.google.com/file/d/1PiWs6jDep0sa-ZpHT1ZPMVRUTMoflZVu/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_006.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_006.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Argarwaen",
+      "puissance_attaque": 10716766,
+      "puissance_defense": 6187987,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Mercs 4 Money",
+      "defoff": 0.5774117863542042,
+      "score": 5.774117863542042
+    },
+    "drive_url": "https://drive.google.com/file/d/1BSDNSQrJ9OlXVYH-tF872YbBeqqZjq6o/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 7033758,
+      "puissance_defense": 13622254,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.936696428850694,
+      "score": 19.366964288506942
+    },
+    "drive_url": "https://drive.google.com/file/d/144bxMnRs9hz-ZJIc-E9vAe0v3ALwsAz2/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_008.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_008.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 3243874,
+      "puissance_defense": 5463439,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Undying",
+      "equipe_defense": "X-Treme X-Men+Apocalypse (-Gambit)",
+      "defoff": 1.6842328031236724,
+      "score": 15.158095228113051
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZR8KItEX6SWv3socSOCr3P_kpyxd71Hn/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_009.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_009.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 4078938,
+      "puissance_defense": 5081506,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 1.2457914290435403,
+      "score": 11.212122861391864
+    },
+    "drive_url": "https://drive.google.com/file/d/1REOedfVOM_EKJTrnKDphxJLUHTngCUbS/view"
+  },
+  {
+    "filename": "2026-07-07_FD2_attack_combat_010.png",
+    "local_path": "captures/2026-07-07_FD2_attack_combat_010.png",
+    "date": "2026-07-07",
+    "room": "FD2",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 4882450,
+      "puissance_defense": 4585097,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Pegasus",
+      "defoff": 0.9390975842046514,
+      "score": 9.390975842046513
+    },
+    "drive_url": "https://drive.google.com/file/d/10ItH8ECvoVDw8KgGzoe7pfL41h5u8UjU/view"
+  },
+  {
     "filename": "2026-07-07_Engineering_attack_combat_001.png",
     "local_path": "captures/2026-07-07_Engineering_attack_combat_001.png",
     "date": "2026-07-07",
