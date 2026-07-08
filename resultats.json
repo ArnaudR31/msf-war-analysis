@@ -1,5 +1,365 @@
 [
   {
+    "filename": "2026-07-07_Bridge_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 12425705,
+      "puissance_defense": 10286555,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Accursed+Mephisto (-Mordo)",
+      "defoff": 0.8278447782238513,
+      "score": 8.278447782238512
+    },
+    "drive_url": "https://drive.google.com/file/d/1l6YQWMI5rCw_PQ67pOYU3GhwRwe7zWUg/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 8070081,
+      "puissance_defense": 11594920,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Illuminati+Odin+SpiderMan",
+      "defoff": 1.4367786395204707,
+      "score": 14.367786395204707
+    },
+    "drive_url": "https://drive.google.com/file/d/1Vh0I8cPLPjjg9wGrYE18rgVP-ZbOeTtI/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 9331672,
+      "puissance_defense": 12538680,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic",
+      "equipe_defense": "Champion",
+      "defoff": 1.343669173112814,
+      "score": 12.093022558015328
+    },
+    "drive_url": "https://drive.google.com/file/d/1jdwdMEzKPvVH3r5uMNaIp2YtWbAf3X3r/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_007.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 7909862,
+      "puissance_defense": 13342848,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Symbiote 6+RedGoblin+VoidKnight (-Riot -Toxin)",
+      "defoff": 1.6868622992411246,
+      "score": 16.868622992411247
+    },
+    "drive_url": "https://drive.google.com/file/d/17EyMjL7_cCr6zsHn9J7fbMpM6ZgvryQt/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 10891438,
+      "puissance_defense": 15244471,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.399674772054893,
+      "score": -7.144516854668161
+    },
+    "drive_url": "https://drive.google.com/file/d/1an7Vc70nNfu5EEFKcSyqbk1J95sSiC5O/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_010.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 7704682,
+      "puissance_defense": 12926572,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Mercs 4 Money+Quasar (-Deadpool)",
+      "equipe_defense": "Phoenix Force+Mephisto+Groot",
+      "defoff": 1.6777554219629052,
+      "score": 15.099798797666146
+    },
+    "drive_url": "https://drive.google.com/file/d/1FTTxjnXJI0R5ZVvIrEHpnqNJNvlHYVfM/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_011.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 15237677,
+      "puissance_defense": 14118442,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone+Apocalypse (-Elsa)",
+      "defoff": 0.9265481871022728,
+      "score": 7.875659590369319
+    },
+    "drive_url": "https://drive.google.com/file/d/1CGg2OKoJl9ny2HsfZdS-9TP0deQNajD9/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 9993089,
+      "puissance_defense": 20678944,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "Nightstalker+X+Quasar (-MoonKnight -Agatha)",
+      "equipe_defense": "Winter Guard",
+      "defoff": 2.0693245101689777,
+      "score": 14.485271571182844
+    },
+    "drive_url": "https://drive.google.com/file/d/1Pwhabf_D29azIXLk5HUatZikwBCN8P7E/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_015.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 14169963,
+      "puissance_defense": 14891232,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "F3+X+Sentry",
+      "equipe_defense": "F3+X+ShadowKing",
+      "defoff": 1.0509012620569298,
+      "score": 7.356308834398509
+    },
+    "drive_url": "https://drive.google.com/file/d/1WFXniitFeTIWCk6HMTI7HF3_uQiRXgVZ/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_016.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 14029911,
+      "puissance_defense": 11706674,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8344082866954751,
+      "score": 7.509674580259276
+    },
+    "drive_url": "https://drive.google.com/file/d/1c4VZHCXZZmiPbYt88DQribJam7nLfbR7/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_017.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "FLØKI",
+      "puissance_attaque": 7081512,
+      "puissance_defense": 12412052,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Infestation Scorpion (-BlackWidow)",
+      "defoff": 1.7527403752193034,
+      "score": 17.527403752193035
+    },
+    "drive_url": "https://drive.google.com/file/d/1Mpk5jjUN1BihY_BpVxQadrqkJ6-xBulL/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_018.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 10829429,
+      "puissance_defense": 14823955,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone+Guardian+IronPatriot (-Elsa -Hellcat)",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.3688584134953006,
+      "score": 13.688584134953006
+    },
+    "drive_url": "https://drive.google.com/file/d/1a-3MFow7eWu1EcWbnhsLZCmjrRNWcNNP/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_019.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_019.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 12227008,
+      "puissance_defense": 14549851,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.1899764030578863,
+      "score": 11.899764030578863
+    },
+    "drive_url": "https://drive.google.com/file/d/1e_8HPir9wXMZv1lQFvNm_anm528Mwz0i/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_020.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 8688283,
+      "puissance_defense": 11588238,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Champion",
+      "defoff": 1.3337776865693716,
+      "score": -5.998001076608886
+    },
+    "drive_url": "https://drive.google.com/file/d/1rrnRQXSiUB7J22ynkKawfmTpph7WlaHI/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_022.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_022.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 8373656,
+      "puissance_defense": 10057556,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 6,
+      "equipe_offense": "Hive-Mind Knull (-Venom)",
+      "equipe_defense": "Vigilante",
+      "defoff": 1.2010949578057661,
+      "score": 7.206569746834597
+    },
+    "drive_url": "https://drive.google.com/file/d/1d6ox3-xCsV7vBpnBHqSM8UX0b8DfVLZI/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_023.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_023.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 9294094,
+      "puissance_defense": 10826730,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.1649042929843403,
+      "score": 11.649042929843404
+    },
+    "drive_url": "https://drive.google.com/file/d/1j4QnPNQ8YsCaF_koI9RO0BD7DQcfKYDT/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_024.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 11223560,
+      "puissance_defense": 9518960,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.848123055429828,
+      "score": 8.48123055429828
+    },
+    "drive_url": "https://drive.google.com/file/d/1d7PHoy03VyuTBfWOo3EvbRch5zPWhdnO/view"
+  },
+  {
+    "filename": "2026-07-07_Bridge_defense_combat_025.png",
+    "local_path": "captures/2026-07-07_Bridge_defense_combat_025.png",
+    "date": "2026-07-07",
+    "room": "Bridge",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Flizip420",
+      "puissance_attaque": 10910416,
+      "puissance_defense": 11068392,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8,
+      "equipe_offense": "Champion",
+      "equipe_defense": "Omen",
+      "defoff": 1.0144793745719687,
+      "score": -7.885818283270054
+    },
+    "drive_url": "https://drive.google.com/file/d/15d3u1pMmu5USb1bX3xUB4VzgRB7VNL8y/view"
+  },
+  {
     "filename": "2026-07-07_Barracks_defense_combat_001.png",
     "local_path": "captures/2026-07-07_Barracks_defense_combat_001.png",
     "date": "2026-07-07",
