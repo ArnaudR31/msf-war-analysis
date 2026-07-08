@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-07-07_Armory_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8968618,
+      "puissance_defense": 12621420,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Champion",
+      "defoff": 1.4072870535906423,
+      "score": 14.072870535906423
+    },
+    "drive_url": "https://drive.google.com/file/d/1w0_taTHmQPPkujCN7GyRa5uxf13BixcG/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 10331535,
+      "puissance_defense": 9562727,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9255862754179316,
+      "score": 9.255862754179315
+    },
+    "drive_url": "https://drive.google.com/file/d/1yiYwRJlz51KFuRL3Udch4VvOv3z2iRX5/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 7797338,
+      "puissance_defense": 8004429,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Insidious 6+Vulture+GreenGoblinClassic+Mysterio (-Scorpion)",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.0265591923807844,
+      "score": 9.23903273142706
+    },
+    "drive_url": "https://drive.google.com/file/d/1As3ldaHbcyUiwWBmMLEF53N_B28hyEmw/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_004.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 9607470,
+      "puissance_defense": 7054094,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Liberty",
+      "defoff": 0.7342301355091403,
+      "score": -13.619707931309108
+    },
+    "drive_url": "https://drive.google.com/file/d/1U0OETnu0bsahCBplp5R7gQ4WcJ7ujUdl/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 9607470,
+      "puissance_defense": 7054094,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Liberty",
+      "defoff": 0.7342301355091403,
+      "score": 4.405380813054842
+    },
+    "drive_url": "https://drive.google.com/file/d/1Y3VMapHXI7rVoYfcy1dqjCNhwCqUi7jr/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_006.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 6007561,
+      "puissance_defense": 4532722,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Absolute A-Force",
+      "defoff": 0.7545028673033866,
+      "score": 7.545028673033865
+    },
+    "drive_url": "https://drive.google.com/file/d/19V1PFkU4Aba_9aEZ1WyVOQBzklD1xIIE/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 8285928,
+      "puissance_defense": 4578147,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Spider-Society+VoidKnight (-GhostSpider)",
+      "defoff": 0.5525207315342349,
+      "score": 5.525207315342349
+    },
+    "drive_url": "https://drive.google.com/file/d/1A0_b2RZhwcBKSoosRlt0b24whvhytBn8/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_008.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 5201893,
+      "puissance_defense": 6663263,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 1.2809304228287663,
+      "score": 12.809304228287663
+    },
+    "drive_url": "https://drive.google.com/file/d/1BmQe6fscvfyINo3mzQDTXbtq555imJ6_/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_009.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8291507,
+      "puissance_defense": 11034994,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -5.5,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.3308791755226161,
+      "score": -4.132606551485212
+    },
+    "drive_url": "https://drive.google.com/file/d/14HjNWP6gZXXAoiRleJYeKrjP6S0hcJpD/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_010.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 4851388,
+      "puissance_defense": 9048510,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hive-Mind Knull+Gorr (-Venom -Gwenom)",
+      "defoff": 1.8651383892609703,
+      "score": 16.786245503348734
+    },
+    "drive_url": "https://drive.google.com/file/d/188T1fFp2-KronXIyZqAHI73x0pR2gzVS/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_011.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 8985446,
+      "puissance_defense": 9029355,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Galactic Council",
+      "defoff": 1.0048866800824354,
+      "score": 8.039093440659483
+    },
+    "drive_url": "https://drive.google.com/file/d/1u98XJH3GYNdI_CzgBTzeLxNtTkBCDzNM/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_012.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicful",
+      "puissance_attaque": 10473162,
+      "puissance_defense": 7225695,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Orchis",
+      "defoff": 0.6899248765559055,
+      "score": 6.899248765559055
+    },
+    "drive_url": "https://drive.google.com/file/d/17vO_MFFhf0UodEnXFf9CkgP5JAAPTS8t/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_014.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 5824193,
+      "puissance_defense": 7568552,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Mercs 4 Money+Mephisto (-Deadpool)",
+      "equipe_defense": "Phoenix Force+Gladiator+ThanosEndgame",
+      "defoff": 1.2995022658074689,
+      "score": 10.39601812645975
+    },
+    "drive_url": "https://drive.google.com/file/d/1ngJRTABnhq3j52U6DkUrl3OMD4wYK6k0/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_015.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 5341531,
+      "puissance_defense": 7190534,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Accursed Azazel (-Mordo)",
+      "defoff": 1.3461559990946417,
+      "score": 13.461559990946416
+    },
+    "drive_url": "https://drive.google.com/file/d/1P_2CA0wA_6WAVT4YscQofpRh1TTHVt-n/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_016.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 4285896,
+      "puissance_defense": 9020905,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -9,
+      "equipe_offense": "Odin+BetaRayBill+Heimdall+MightyThor+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 2.1047885902971046,
+      "score": -4.275963886106771
+    },
+    "drive_url": "https://drive.google.com/file/d/1eHd8qrLUcIiNfG2p7hphgBPWs_CfISY7/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_018.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 8414029,
+      "puissance_defense": 10282249,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Retcon",
+      "defoff": 1.2220363157769008,
+      "score": -6.955603438508444
+    },
+    "drive_url": "https://drive.google.com/file/d/1A22IsOo6CNVy_pToqENqisIScL0c0lt2/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_020.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 10048638,
+      "puissance_defense": 12185210,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.212623044038406,
+      "score": -8.246585820022798
+    },
+    "drive_url": "https://drive.google.com/file/d/1QS0uQW_zTlkY1oeX6UXaSPouzrMpshiD/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_021.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "T Dawg",
+      "puissance_attaque": 15981243,
+      "puissance_defense": 15464983,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Winter Guard+Cable (-Yelena)",
+      "equipe_defense": "Winter Guard",
+      "defoff": 0.9676958794757079,
+      "score": 9.676958794757079
+    },
+    "drive_url": "https://drive.google.com/file/d/1dXqVgBXkBYrU5Gvds9UnPFfSuft59_Ev/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_022.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_022.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10284667,
+      "puissance_defense": 12546864,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.2199582154677444,
+      "score": 12.199582154677444
+    },
+    "drive_url": "https://drive.google.com/file/d/1lxE52jGeJmY2BMKqAFlI9keBa3TC5xh5/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_024.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Ggplz",
+      "puissance_attaque": 5376379,
+      "puissance_defense": 11258766,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 2.094116876805002,
+      "score": -4.775282655310537
+    },
+    "drive_url": "https://drive.google.com/file/d/1sXVu6kR17PnOG771jbhnXIF3qPw9AWTX/view"
+  },
+  {
+    "filename": "2026-07-07_Armory_attack_combat_025.png",
+    "local_path": "captures/2026-07-07_Armory_attack_combat_025.png",
+    "date": "2026-07-07",
+    "room": "Armory",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10531777,
+      "puissance_defense": 10504227,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone+EmmaFrost (-Elsa)",
+      "equipe_defense": "Unknown Team",
+      "defoff": 0.9973841071644415,
+      "score": 9.973841071644415
+    },
+    "drive_url": "https://drive.google.com/file/d/1XX8hE6KM7p66SbIzBeL_5pbS0nW_hCWV/view"
+  },
+  {
     "filename": "2026-07-02_FD1_defense_combat_002.png",
     "local_path": "captures/2026-07-02_FD1_defense_combat_002.png",
     "date": "2026-07-02",
