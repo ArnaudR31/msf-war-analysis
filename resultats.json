@@ -1,5 +1,406 @@
 [
   {
+    "filename": "2026-07-07_Reactor_attack_combat_001.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 10700628,
+      "puissance_defense": 12728880,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+Apocalypse+X",
+      "defoff": 1.1895451369770074,
+      "score": 11.30067880128157
+    },
+    "drive_url": "https://drive.google.com/file/d/1FLHUYKcwOB8TNjQuJQkrv0pQOawJOBNs/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_002.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9274535,
+      "puissance_defense": 12727642,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Symbiote 6",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.3723213077528955,
+      "score": 12.350891769776059
+    },
+    "drive_url": "https://drive.google.com/file/d/1m0kiSDCKXlL28n4__CjEOLcbdfvHohvT/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_003.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 10455969,
+      "puissance_defense": 8732286,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Daring Warrior",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.8351484209641402,
+      "score": -11.973919544091892
+    },
+    "drive_url": "https://drive.google.com/file/d/1HNXr32m7q5NoR-7qwTy0C9S3Wt66dgW_/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_004.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 5965063,
+      "puissance_defense": 6628911,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Liberty+Dormammu (-WarMachine)",
+      "defoff": 1.1112893526857972,
+      "score": 11.112893526857972
+    },
+    "drive_url": "https://drive.google.com/file/d/1yW-p8IcQZI7TvbYfO4RHjLLOsVF1Euvx/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_005.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 8527421,
+      "puissance_defense": 8888103,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Absolute A-Force+Blastaar+Thunderstrike",
+      "defoff": 1.042296727228549,
+      "score": 10.42296727228549
+    },
+    "drive_url": "https://drive.google.com/file/d/1A-LINV-MAPps1yuhHw_UsEfJixTkSL-t/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_007.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 6113508,
+      "puissance_defense": 7236803,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6,
+      "equipe_offense": "Mercs 4 Money+Sentry (-Deadpool)",
+      "equipe_defense": "Astral+BlackKnight (-Moondragon)",
+      "defoff": 1.1837398429837664,
+      "score": 7.102439057902599
+    },
+    "drive_url": "https://drive.google.com/file/d/1-edq3j_EHOboZYecKcwo0kr80i3EFYiQ/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_008.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 8503150,
+      "puissance_defense": 11641445,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker+Lizard (-Scorpion)",
+      "equipe_defense": "Champion",
+      "defoff": 1.3690744018393184,
+      "score": 13.690744018393184
+    },
+    "drive_url": "https://drive.google.com/file/d/1Rv2ruIBja0nwoBi67IslCvvtuge4DFmL/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_013.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 10389530,
+      "puissance_defense": 10186561,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen+Quasar (-Ronan)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.9804640825908391,
+      "score": 9.80464082590839
+    },
+    "drive_url": "https://drive.google.com/file/d/108wlS-JcjiPfVW42h6FKMjOgplIs8grZ/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_014.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 10391400,
+      "puissance_defense": 7533988,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante+Mephisto (-Elektra)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.7250214600535058,
+      "score": 7.250214600535058
+    },
+    "drive_url": "https://drive.google.com/file/d/1dDmlPox9SJJi7ct1klofBALXf1JaP0X5/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_015.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Nick",
+      "puissance_attaque": 10183285,
+      "puissance_defense": 8732286,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "New Mutant",
+      "defoff": 0.8575116968640276,
+      "score": 8.575116968640277
+    },
+    "drive_url": "https://drive.google.com/file/d/1PZ7k43x2qxdgL0YxISixXuu9-dZTUyVQ/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_016.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 9133338,
+      "puissance_defense": 10209029,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Vigilante",
+      "defoff": 1.1177763266836287,
+      "score": 11.177763266836287
+    },
+    "drive_url": "https://drive.google.com/file/d/19hSxW0xKRbpbMf3DyT4grTPjDa2q7qLA/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_017.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 16820456,
+      "puissance_defense": 13882970,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8253622850652801,
+      "score": 7.015579423054881
+    },
+    "drive_url": "https://drive.google.com/file/d/1L6JzrL1ZQeaXeuPW-HhHDhx8kvEaW0VH/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_018.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "EuskalNono",
+      "puissance_attaque": 7774502,
+      "puissance_defense": 15641254,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Winter Guard",
+      "defoff": 2.011865711784498,
+      "score": -3.976408541156611
+    },
+    "drive_url": "https://drive.google.com/file/d/1XjswyJOBhYzUFQwebeBzctIdkLzVDcpb/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_020.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6287034,
+      "puissance_defense": 6985322,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+Ares (-Deadpool)",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 1.1110679535055799,
+      "score": 11.110679535055798
+    },
+    "drive_url": "https://drive.google.com/file/d/1DvOnf2tQf5IKIfa4UNfJHzzUWf0TeLsw/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_021.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 6506517,
+      "puissance_defense": 7275836,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Absolute A-Force+Skrull (-Wasp)",
+      "defoff": 1.1182382217705724,
+      "score": 11.182382217705724
+    },
+    "drive_url": "https://drive.google.com/file/d/1DR859i14XOL8LfajkPU3t2qKzNV76uvd/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_022.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_022.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Cosmicblight",
+      "puissance_attaque": 10186713,
+      "puissance_defense": 7432908,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Orchis+Mephisto (-Sentinel)",
+      "defoff": 0.7296669691194795,
+      "score": -10.963905916769049
+    },
+    "drive_url": "https://drive.google.com/file/d/1o38pIK5WEKYVX0WiztCQ0Oa880Bhw_8C/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_024.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "puissance_attaque": 13313455,
+      "puissance_defense": 10122445,
+      "erreur": "503 UNAVAILABLE. {'error': {'code': 503, 'message'",
+      "attaquant": "ProphetZer078",
+      "statut": "Win",
+      "statut_affiche": "ERROR",
+      "num": 9.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone",
+      "defoff": 0.7603169124768889,
+      "score": 7.223010668530445
+    },
+    "drive_url": "https://drive.google.com/file/d/1o7dTgS5m56xIdAkmdx8XJZsnfuyDR2MI/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_025.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_025.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 8819678,
+      "puissance_defense": 5899751,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hive-Mind Knull (-Venom)",
+      "defoff": 0.6689304303399739,
+      "score": 6.689304303399739
+    },
+    "drive_url": "https://drive.google.com/file/d/1red2ZYbG45EW7jpPdKg5fP8H9j-MmBA9/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_026.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_026.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "MOllywOp",
+      "puissance_attaque": 19590078,
+      "puissance_defense": 18151070,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.9265440392835598,
+      "score": -10.792795135493389
+    },
+    "drive_url": "https://drive.google.com/file/d/1sNz81zfekpR3NiybM7PUwPjaSNC9kqG6/view"
+  },
+  {
+    "filename": "2026-07-07_Reactor_attack_combat_027.png",
+    "local_path": "captures/2026-07-07_Reactor_attack_combat_027.png",
+    "date": "2026-07-07",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "ShadowsAndDust",
+      "puissance_attaque": 15194323,
+      "puissance_defense": 18151070,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "F3+X+Quasar",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.194595507809068,
+      "score": -8.371034324698213
+    },
+    "drive_url": "https://drive.google.com/file/d/1DwC-DA3AxKhTvX4Ue8oOEckaYiNptqhn/view"
+  },
+  {
     "filename": "2026-07-07_FD2_attack_combat_001.png",
     "local_path": "captures/2026-07-07_FD2_attack_combat_001.png",
     "date": "2026-07-07",
