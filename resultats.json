@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-07-07_Hangar_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 11788916,
+      "puissance_defense": 8855652,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Orchis",
+      "defoff": 0.7511845872852092,
+      "score": 7.511845872852092
+    },
+    "drive_url": "https://drive.google.com/file/d/1uLxg5dqUQuKzyF0F71nSab8SQUvyYJtt/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_002.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 5977784,
+      "puissance_defense": 7892504,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Accursed",
+      "defoff": 1.3203059862986015,
+      "score": 12.542906869836715
+    },
+    "drive_url": "https://drive.google.com/file/d/1FBpkpanu4mhtbyCdasIl_2HrsfCGokvS/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_003.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 6236279,
+      "puissance_defense": 5865736,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.9405826775870676,
+      "score": 9.405826775870676
+    },
+    "drive_url": "https://drive.google.com/file/d/12vpf6-Hfim9TVy4SWQq9zxXzbPmxofCG/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_004.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 9632507,
+      "puissance_defense": 10176291,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.056453008546996,
+      "score": 10.564530085469961
+    },
+    "drive_url": "https://drive.google.com/file/d/1-OOkID9ngzv9FL5ArzrsDFsv-04_jQoN/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 7856915,
+      "puissance_defense": 8872374,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mercs 4 Money+SSBreaker (-Deadpool)",
+      "equipe_defense": "Orchis",
+      "defoff": 1.129243984439185,
+      "score": 11.29243984439185
+    },
+    "drive_url": "https://drive.google.com/file/d/139sdgah4oJqmjEyP1oHwiRzauOfFUOti/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 15345499,
+      "puissance_defense": 13141697,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Mephisto+X",
+      "equipe_defense": "Winter Guard",
+      "defoff": 0.856387726459726,
+      "score": 8.563877264597261
+    },
+    "drive_url": "https://drive.google.com/file/d/1wL__wa6iNbstgrAtNhXbOdO7JLO_7CYk/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_007.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 6603897,
+      "puissance_defense": 4113787,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Superior 6+Vulture (-SpiderSlayer)",
+      "equipe_defense": "Spider-Society",
+      "defoff": 0.6229332468389498,
+      "score": 6.229332468389498
+    },
+    "drive_url": "https://drive.google.com/file/d/1P6_KDt1OVQuMCvZA5SXBGE8CPiy3Jtco/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_008.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 19986924,
+      "puissance_defense": 14131518,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.7070381615500214,
+      "score": 7.070381615500214
+    },
+    "drive_url": "https://drive.google.com/file/d/1svgyms8zSNEKlakbZzqbTCwuH96RGvZZ/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 11491436,
+      "puissance_defense": 7311988,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Astral",
+      "defoff": 0.6362988924969865,
+      "score": 6.362988924969865
+    },
+    "drive_url": "https://drive.google.com/file/d/1Wx63BhagX4EEy5SjeVUn_4iF3ohL2DzX/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_010.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 4603771,
+      "puissance_defense": 4754441,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Secret Defender",
+      "equipe_defense": "Ikaris+Sersi+SilverSurfer+SpiderMan2099+SpiderWeaver",
+      "defoff": 1.0327275183756968,
+      "score": -9.683096288291305
+    },
+    "drive_url": "https://drive.google.com/file/d/1O_7PlenxW6hO0qgK_XEQ_t49gKQ_mavf/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_011.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_011.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "TwistyMcNip",
+      "puissance_attaque": 11474205,
+      "puissance_defense": 5590312,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Ares+LadyDeathstrike+Odin+Sylvie+Thanos",
+      "equipe_defense": "Cabal+Doom+Kang",
+      "defoff": 0.4872069132458414,
+      "score": 4.628465675835494
+    },
+    "drive_url": "https://drive.google.com/file/d/1vK6j83xNUH-hKyCa0iZafTr2Xf4G4zDa/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_013.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 5209234,
+      "puissance_defense": 6674989,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Cabal+Dormammu+Skrull",
+      "equipe_defense": "Cabal+EmmaFrost+Loki",
+      "defoff": 1.2813763021588203,
+      "score": 12.813763021588203
+    },
+    "drive_url": "https://drive.google.com/file/d/1rGCH4RddPDlbpLlLOwhKUhBATDvuT9DQ/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 13243375,
+      "puissance_defense": 7451126,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "F3+Apocalypse+Skrull",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.5626304472991213,
+      "score": 5.626304472991213
+    },
+    "drive_url": "https://drive.google.com/file/d/1p0PLipoJXo0d-s9xUrX-yydQBo3r2hzd/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_015.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 11864344,
+      "puissance_defense": 7557758,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Daken+EmmaFrostXMen+Knull+OldManLogan+ShadowKing",
+      "equipe_defense": "Astral",
+      "defoff": 0.6370144021447793,
+      "score": 6.051636820375403
+    },
+    "drive_url": "https://drive.google.com/file/d/15_smFwZsR5jYjtGrhynx_6VYTSvMVFkE/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_016.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 10566925,
+      "puissance_defense": 7371743,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Insidious 6+Vulture+Shocker",
+      "equipe_defense": "Absolute A-Force",
+      "defoff": 0.6976242378932376,
+      "score": 6.976242378932376
+    },
+    "drive_url": "https://drive.google.com/file/d/1R3fjlLPdZLa9nkrNSGPN0tQa6EFYDt7a/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_017.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 9346527,
+      "puissance_defense": 6800171,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.7275612642000606,
+      "score": 7.275612642000606
+    },
+    "drive_url": "https://drive.google.com/file/d/1xQlWw1z3TaDC-ME6bb0ZiT58KJ09eQjr/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_018.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 7683983,
+      "puissance_defense": 5721365,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Starjammer",
+      "equipe_defense": "Insidious 6+DocOc+Lizard",
+      "defoff": 0.7445832454340412,
+      "score": -13.430331747756
+    },
+    "drive_url": "https://drive.google.com/file/d/1YLfXhCp_zdQj6NSRbcf-eP7dJFb1x3bd/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_020.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 3668336,
+      "puissance_defense": 8448140,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Odin+BetaRayBill+Heimdall+MightyThor+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 2.3029896934195775,
+      "score": -4.342181829373093
+    },
+    "drive_url": "https://drive.google.com/file/d/1M0H2Q0PgiBxuN_n1G-6Rg-sGUYWH7s1x/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_021.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 8470753,
+      "puissance_defense": 5619074,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Illuminati MrFantastic (-IronMan)",
+      "defoff": 0.6633499996989642,
+      "score": 6.633499996989642
+    },
+    "drive_url": "https://drive.google.com/file/d/1vTko-aKawuB1kv8ltWZJf9AmTVC-ipmd/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_022.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_022.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 10001455,
+      "puissance_defense": 8448140,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 6,
+      "equipe_offense": "Ares+BlueMarvel+CosmicGhostRider+Odin+Skrull",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8446910974453217,
+      "score": 5.06814658467193
+    },
+    "drive_url": "https://drive.google.com/file/d/1yazTV5-FuL2e7ObA8Yt-JGRBPgmZ4Ymr/view"
+  },
+  {
+    "filename": "2026-07-07_Hangar_defense_combat_024.png",
+    "local_path": "captures/2026-07-07_Hangar_defense_combat_024.png",
+    "date": "2026-07-07",
+    "room": "Hangar",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ShadowsAndDust",
+      "puissance_attaque": 16761589,
+      "puissance_defense": 14761643,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Symbiote 6",
+      "equipe_defense": "Winter Guard",
+      "defoff": 0.8806827920670289,
+      "score": 8.806827920670289
+    },
+    "drive_url": "https://drive.google.com/file/d/1yoTlDnK5dpRJS3oD4RHNnJVWaOPpttFF/view"
+  },
+  {
     "filename": "2026-07-07_FD3_defense_combat_001.png",
     "local_path": "captures/2026-07-07_FD3_defense_combat_001.png",
     "date": "2026-07-07",
