@@ -321,6 +321,11 @@
     color: var(--muted);
   }
 
+  /* Couleurs dynamiques pour le Taux de Victoire (Win Rate) */
+  .wr-high   { color: #2ecc71 !important; font-weight: bold; } /* Vert (> 90%) */
+  .wr-medium { color: #f1c40f !important; font-weight: bold; } /* Jaune (10% à 90%) */
+  .wr-low    { color: #e74c3c !important; font-weight: bold; } /* Rouge (< 10%) */
+
   /* ── Grouped view ── */
   .group-row { cursor: pointer; }
   .group-row:hover { background: var(--surface2); }
@@ -786,19 +791,14 @@ function renderGrouped(rows) {
     };
   });
 
-  // ── Système de tri amélioré ──
+  // Système de tri
   groupList.sort((a, b) => {
-    // Si on trie par Win Rate, on applique la règle spécifique avec départage par les victoires
     if (groupSortKey === 'winrate') {
       if (a.winrate !== b.winrate) {
         return groupSortAsc ? (a.winrate - b.winrate) : (b.winrate - a.winrate);
       }
-      // En cas d'égalité stricte du winrate, on départage par le nombre total de victoires ("wins")
-      // L'ordre suit logiquement la direction demandée (croissant ou décroissant)
       return groupSortAsc ? (a.wins - b.wins) : (b.wins - a.wins);
     }
-
-    // Comportement standard pour toutes les autres colonnes
     let va = a[groupSortKey], vb = b[groupSortKey];
     if (typeof va === 'string') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
     if (va < vb) return groupSortAsc ? -1 : 1;
@@ -815,11 +815,21 @@ function renderGrouped(rows) {
     const punchClass = g.avgPunch > 0 ? 'punch-up' : g.avgPunch < 0 ? 'punch-down' : '';
     const punchDisplay = (g.avgPunch > 0 ? '+' : '') + (g.avgPunch/1e6).toFixed(2) + 'M';
 
+    // ─── LOGIQUE DE COULEUR POUR LE WIN RATE ─────────────────────────
+    let wrClass = 'wr-medium';
+    if (winratePct > 90) wrClass = 'wr-high';
+    else if (winratePct < 10) wrClass = 'wr-low';
+    // ─────────────────────────────────────────────────────────────────
+
+    // Modification ici : Ajout de la classe ${wrClass} sur le span du nom de l'équipe
     html += `<tr class="group-row ${isExpanded ? 'expanded' : ''}" onclick="toggleGroup('${g.counter.replace(/'/g,"\\'")}')">
       <td><span class="group-expand-icon">▶</span></td>
-      <td class="group-name">${g.counter}<span class="attempts-badge">${g.attempts}x</span></td>
+      <td class="group-name">
+        <span class="${wrClass}">${g.counter}</span>
+        <span class="attempts-badge">${g.attempts}x</span>
+      </td>
       <td>${g.attempts}</td>
-      <td>
+      <td class="${wrClass}">
         <span class="winrate-bar"><span class="winrate-fill" style="width:${winratePct}%"></span></span>
         ${winratePct}% <span style="color:var(--muted);font-size:11px">(${g.wins}/${g.attempts})</span>
       </td>
