@@ -1,5 +1,245 @@
 [
   {
+    "filename": "2026-07-07_FD1_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 7043499,
+      "puissance_defense": 10673380,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Out Of Time",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.5153519578834327,
+      "score": 15.153519578834327
+    },
+    "drive_url": "https://drive.google.com/file/d/1zQ2H01LHc71BoKyd60WBHpZJ7R9rq7bV/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_002.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_002.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 8967646,
+      "puissance_defense": 9347526,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Accursed Azazel (-Mordo)",
+      "defoff": 1.0423611725975803,
+      "score": 10.423611725975803
+    },
+    "drive_url": "https://drive.google.com/file/d/17eM7N6ytRs-jSTTvaKqRYoSDbGM-qJDE/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_003.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_003.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 7363298,
+      "puissance_defense": 5427760,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Absolute A-Force",
+      "equipe_defense": "Annihilator",
+      "defoff": 0.7371370817804739,
+      "score": 7.371370817804738
+    },
+    "drive_url": "https://drive.google.com/file/d/1uOzF5UfzxdV6PLysObclexsqPiLZPSNw/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_004.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_004.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 7773793,
+      "puissance_defense": 4731734,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "Gambit+Nightcrawler+Phoenix+Storm+Wolverine",
+      "equipe_defense": "Alpha Flight+BlackCat (-Guardian)",
+      "defoff": 0.6086776429472717,
+      "score": 4.260743500630902
+    },
+    "drive_url": "https://drive.google.com/file/d/1AND7FmI6yLJP844Gykav-AUkP2-dbHbY/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 9262078,
+      "puissance_defense": 4122150,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Hive-Mind+Skrull (-Venom)",
+      "defoff": 0.44505671405488056,
+      "score": 4.450567140548806
+    },
+    "drive_url": "https://drive.google.com/file/d/16YtFBSH_vLA8-H2OvEWkVqp0yoWfshw5/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 5487918,
+      "puissance_defense": 5175555,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9.5,
+      "equipe_offense": "Doom+Kang+Mephisto+Sentry+Ultron",
+      "equipe_defense": "Astral+Mephisto (-DrStrange)",
+      "defoff": 0.9430816932760293,
+      "score": -10.073358509377256
+    },
+    "drive_url": "https://drive.google.com/file/d/1GcFyPD5DKQeb7ha1U4JsCZWILZGtwqdq/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_008.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_008.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 8430997,
+      "puissance_defense": 5151930,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Exalted X-Men",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.6110700786632945,
+      "score": 6.110700786632945
+    },
+    "drive_url": "https://drive.google.com/file/d/1ftfe3yv7n4fFOjpfEcjnUczDG_7Xz18t/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 5057129,
+      "puissance_defense": 6316547,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Vigilante+Kahhori (-Elektra)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.249038140019762,
+      "score": -8.006160644415374
+    },
+    "drive_url": "https://drive.google.com/file/d/1TO0XoUeLlu0mNGH-OMV3Zioi0NSa2Y5j/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_011.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_011.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 8504484,
+      "puissance_defense": 6084915,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7.5,
+      "equipe_offense": "Annihilator",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 0.7154949083330628,
+      "score": 5.366211812497971
+    },
+    "drive_url": "https://drive.google.com/file/d/17lmyKuzROeR7X7xaYonHX9YlRW4oNUbD/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_012.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_012.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "EuskalNono",
+      "puissance_attaque": 7172695,
+      "puissance_defense": 7739787,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "Illuminati MrFantastic (-IronMan)",
+      "equipe_defense": "Champion",
+      "defoff": 1.0790626117519286,
+      "score": 9.172032199891394
+    },
+    "drive_url": "https://drive.google.com/file/d/1pB1UX6Sov9lutK4LaMFR22MmGH-4AncN/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_013.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_013.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "linseeed ):",
+      "puissance_attaque": 11032260,
+      "puissance_defense": 5013413,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Phoenix+Oath+SpiderMan+TheHood+X",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.4544320927896913,
+      "score": 4.089888835107222
+    },
+    "drive_url": "https://drive.google.com/file/d/1wV3_BoHGrtyc8SzrC-V4p3ws2Rglc4HA/view"
+  },
+  {
+    "filename": "2026-07-07_FD1_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_FD1_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "FD1",
+    "mode": "defense",
+    "data": {
+      "defenseur": "linseeed ):",
+      "puissance_attaque": 8765088,
+      "puissance_defense": 5751787,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "Dormammu+Hellverine+JessicaJones+OmegaRedPF+Warlock",
+      "equipe_defense": "Nightstalker",
+      "defoff": 0.6562155451263011,
+      "score": 4.593508815884108
+    },
+    "drive_url": "https://drive.google.com/file/d/1xPMx3qTB-4QBY79LnEEbHEjyCGELiT6R/view"
+  },
+  {
     "filename": "2026-07-07_Hangar_defense_combat_001.png",
     "local_path": "captures/2026-07-07_Hangar_defense_combat_001.png",
     "date": "2026-07-07",
