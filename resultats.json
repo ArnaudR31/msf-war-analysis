@@ -1,5 +1,425 @@
 [
   {
+    "filename": "2026-07-07_Medbay_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 11457803,
+      "puissance_defense": 9604243,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Astral",
+      "defoff": 0.838227276206442,
+      "score": 7.963159123961199
+    },
+    "drive_url": "https://drive.google.com/file/d/1llVdsiEt2nGH2O6-mpPazKitL_sPdzAI/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_002.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 7761669,
+      "puissance_defense": 10239679,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.3192625194400844,
+      "score": 13.192625194400843
+    },
+    "drive_url": "https://drive.google.com/file/d/1gJF79MWKBFurxOvtxM_c-rnq3jSjpY9r/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_003.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 9666425,
+      "puissance_defense": 10290937,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Mighty Avenger",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.0646063048127927,
+      "score": 10.646063048127928
+    },
+    "drive_url": "https://drive.google.com/file/d/12fLY49bIsaq3iyTkcQmgnlStxxWJBZK-/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_004.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 11315914,
+      "puissance_defense": 10323289,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Thunderbolt",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.9122806164840065,
+      "score": 9.122806164840064
+    },
+    "drive_url": "https://drive.google.com/file/d/1oB5xSKU-sABppNKNJuuR0O_HdtkWk-la/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 9819801,
+      "puissance_defense": 9342428,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal X-Men Rachel+Ares (-Beast -Cable)",
+      "equipe_defense": "Infestation",
+      "defoff": 0.9513866930704604,
+      "score": 9.513866930704605
+    },
+    "drive_url": "https://drive.google.com/file/d/12trwZfypzfQO2Q0eGbX-_xalQ5Lmedv6/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 8286225,
+      "puissance_defense": 12263616,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8.5,
+      "equipe_offense": "Astral",
+      "equipe_defense": "Champion",
+      "defoff": 1.4800003620466498,
+      "score": -5.743241838296307
+    },
+    "drive_url": "https://drive.google.com/file/d/1Hj-OFGXytV0HMTzGiqlUK7ZQ7a05XP4x/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_008.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_008.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 19906103,
+      "puissance_defense": 11489488,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.5771841932094895,
+      "score": 5.771841932094896
+    },
+    "drive_url": "https://drive.google.com/file/d/1uI2CDvEf-102S743ZNsjUaxe9_Mc5scU/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 12142182,
+      "puissance_defense": 13993764,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 8.5,
+      "equipe_offense": "BlueMarvel+Mephisto+Odin+Sentry+X",
+      "equipe_defense": "Winter Guard",
+      "defoff": 1.1524917020680467,
+      "score": 9.796179467578398
+    },
+    "drive_url": "https://drive.google.com/file/d/1H2HQtBocT2VwARpj6RA8pfxUBovJXSsb/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_010.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 9320448,
+      "puissance_defense": 12889924,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "F3+Mephisto+X",
+      "defoff": 1.3829725781421665,
+      "score": -6.507721224733365
+    },
+    "drive_url": "https://drive.google.com/file/d/1Aicui8kCUGGcHcmAANHaoFBXybnutcht/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_012.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 13243375,
+      "puissance_defense": 10340394,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "F3+Apocalypse+Skrull",
+      "equipe_defense": "Brimstone+Apocalypse (-Elsa)",
+      "defoff": 0.7807974930861658,
+      "score": -12.80741816994594
+    },
+    "drive_url": "https://drive.google.com/file/d/1GfNPCRghBrh6IcGENJ7mnjSdipZXHP94/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_013.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 11164000,
+      "puissance_defense": 10340394,
+      "statut": "Fail",
+      "statut_affiche": "COMBAT CANCELED",
+      "num": -10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Brimstone+Apocalypse (-Elsa)",
+      "defoff": 0.9262266212826944,
+      "score": -10.796493827991467
+    },
+    "drive_url": "https://drive.google.com/file/d/1nmq0Jm2uNigYw8xcaS1w_WtNZ9b5_MaC/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 11163999,
+      "puissance_defense": 6989027,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.6260325713035266,
+      "score": 6.260325713035266
+    },
+    "drive_url": "https://drive.google.com/file/d/1fLz8Z_bT3DI4B0aVK40GKQ0CNZyDH0of/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_015.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 9564798,
+      "puissance_defense": 5795888,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Exalted X-Men",
+      "equipe_defense": "Illuminati IronMan (-MrFantastic)",
+      "defoff": 0.6059603140599519,
+      "score": 5.756622983569542
+    },
+    "drive_url": "https://drive.google.com/file/d/14Hm36UAqqFsRiWc73R2cerh-EW1X6rh-/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_016.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 6003729,
+      "puissance_defense": 7362876,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Infestation Scorpion (-Swarm)",
+      "defoff": 1.2263838024667668,
+      "score": 12.263838024667669
+    },
+    "drive_url": "https://drive.google.com/file/d/14wbTG74eDTBlZGElxyYWr0rj746N2EXb/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_017.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 8870675,
+      "puissance_defense": 8589674,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9,
+      "equipe_offense": "Galactic Council",
+      "equipe_defense": "Hellfire Club",
+      "defoff": 0.9683224782781468,
+      "score": 8.71490230450332
+    },
+    "drive_url": "https://drive.google.com/file/d/1ojqsXX-W7CeSXWDchyHRiCfYwXn24Whm/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_018.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_018.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Ggplz",
+      "puissance_attaque": 19888710,
+      "puissance_defense": 10340394,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Brimstone+Apocalypse (-Elsa)",
+      "defoff": 0.5199127545225407,
+      "score": 5.199127545225407
+    },
+    "drive_url": "https://drive.google.com/file/d/1qVmHzhm3wpFO473RXMGi1c_ZpssIbRnt/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_019.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_019.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 8284435,
+      "puissance_defense": 9355954,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 1.1293412284603597,
+      "score": -8.854719679040748
+    },
+    "drive_url": "https://drive.google.com/file/d/1NursyOQfWsoNkkhoJmZulzoa1Ai-mkmL/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_020.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_020.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 8264648,
+      "puissance_defense": 9355952,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker+Mephisto (-MoonKnight)",
+      "equipe_defense": "Uncanny Avenger",
+      "defoff": 1.1320448251395583,
+      "score": 11.320448251395582
+    },
+    "drive_url": "https://drive.google.com/file/d/1b1j2b2SpAtnci80yOFaruBBgdzhqySoO/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_021.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 8284435,
+      "puissance_defense": 7139502,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9.5,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Alpha Flight",
+      "defoff": 0.861797092982201,
+      "score": -11.023476497380349
+    },
+    "drive_url": "https://drive.google.com/file/d/1e57hFVZMyDkCkbKda0Yw0GumYPPkm_2f/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_023.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_023.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 11303101,
+      "puissance_defense": 6993939,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -6.5,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Hive-Mind Knull+Gorr (-Venom -Gwenom)",
+      "defoff": 0.618762851008763,
+      "score": -10.504832326961958
+    },
+    "drive_url": "https://drive.google.com/file/d/1JaeF_3OL1Vc2ezSCexlJBG5l-Gy1AE1c/view"
+  },
+  {
+    "filename": "2026-07-07_Medbay_defense_combat_028.png",
+    "local_path": "captures/2026-07-07_Medbay_defense_combat_028.png",
+    "date": "2026-07-07",
+    "room": "Medbay",
+    "mode": "defense",
+    "data": {
+      "defenseur": "ProphetZer078",
+      "puissance_attaque": 9401539,
+      "puissance_defense": 10166820,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying+Quasar (-ZKestrel)",
+      "equipe_defense": "Astral+Mephisto (-DrStrange)",
+      "defoff": 1.0813995453297593,
+      "score": 10.813995453297593
+    },
+    "drive_url": "https://drive.google.com/file/d/1CxV8rl9ABEjEhMNYqa91xbjETJw0Cayb/view"
+  },
+  {
     "filename": "2026-07-07_Engineering_defense_combat_001.png",
     "local_path": "captures/2026-07-07_Engineering_defense_combat_001.png",
     "date": "2026-07-07",
