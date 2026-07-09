@@ -1,5 +1,345 @@
 [
   {
+    "filename": "2026-07-07_Engineering_defense_combat_001.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_001.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 9201876,
+      "puissance_defense": 9037556,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 0.9821427717565419,
+      "score": 9.821427717565419
+    },
+    "drive_url": "https://drive.google.com/file/d/1yWhP-9k9Z5R3DnLTlLYlOo2FLjSzkvQf/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_002.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_002.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 7559552,
+      "puissance_defense": 7429606,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 0.9828103570158655,
+      "score": 9.828103570158655
+    },
+    "drive_url": "https://drive.google.com/file/d/1HESTa4eiSfAZHHmX5cT1hHDyO7dFWsY0/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_003.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_003.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 8385585,
+      "puissance_defense": 8347488,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Hellfire Club+Apocalypse (-MadelynePryor)",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.9954568464811936,
+      "score": 9.954568464811937
+    },
+    "drive_url": "https://drive.google.com/file/d/1fPgUx4zisppJ9qA02HGbEfcW8p4ZaQDc/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_004.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_004.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 5909443,
+      "puissance_defense": 6815046,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Cabal+Kang+Mephisto",
+      "equipe_defense": "Astral",
+      "defoff": 1.1532467611583697,
+      "score": 10.955844231004512
+    },
+    "drive_url": "https://drive.google.com/file/d/1IWV1Ud6AEva5epyQIQaUYSoPHBl9DVlw/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_005.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_005.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 8309777,
+      "puissance_defense": 8657078,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Orchis+Ares (-OmegaSentinel)",
+      "equipe_defense": "Daring Warrior",
+      "defoff": 1.0417942623490377,
+      "score": 10.417942623490378
+    },
+    "drive_url": "https://drive.google.com/file/d/1aI3oCW5fGNCACYlvxgGMX6a1KzR9HyOy/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_006.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_006.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 8419893,
+      "puissance_defense": 8667396,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 7,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Champion",
+      "defoff": 1.02939502912923,
+      "score": 7.20576520390461
+    },
+    "drive_url": "https://drive.google.com/file/d/1U78xE-0S2vWB--NopwXiZerH5Y46UBEw/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_007.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_007.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 7687404,
+      "puissance_defense": 6948675,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -9,
+      "equipe_offense": "Shadow Conclave+Knull (-Malekith)",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 0.9039039707032439,
+      "score": -9.956809895411716
+    },
+    "drive_url": "https://drive.google.com/file/d/146E_WvpdUDTrhP-dOv0bk2KX4WLRUbeC/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_009.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_009.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 7636797,
+      "puissance_defense": 8131081,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "New Mutant",
+      "defoff": 1.064723993580031,
+      "score": 10.647239935800311
+    },
+    "drive_url": "https://drive.google.com/file/d/1dUZkGDh5H0hZzn3X2ggdZsMd73_OjVua/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_010.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_010.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 9949764,
+      "puissance_defense": 7997654,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Thunderbolt+ManThing (-Ghost)",
+      "equipe_defense": "Accursed+Mephisto (-Mordo)",
+      "defoff": 0.8038033866933929,
+      "score": -12.440853280224427
+    },
+    "drive_url": "https://drive.google.com/file/d/1GvKw3Dro1LkK_59VdfOdDngmT-CBNEn3/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_012.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_012.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "Cosmicful",
+      "puissance_attaque": 12137900,
+      "puissance_defense": 11035414,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Retcon",
+      "defoff": 0.9091699552640902,
+      "score": 8.637114575008857
+    },
+    "drive_url": "https://drive.google.com/file/d/1HGmkr0yDS4cGlQpzCsT59Sj5L4aPiv-W/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_013.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_013.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 10014571,
+      "puissance_defense": 9200406,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Immortal Weapon",
+      "equipe_defense": "Champion",
+      "defoff": 0.9187019593749947,
+      "score": 9.187019593749946
+    },
+    "drive_url": "https://drive.google.com/file/d/1uGpQxN2gE6DaOLdcjYOYrsTBL_CUES5R/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_014.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_014.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 5962404,
+      "puissance_defense": 13697674,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Undying+Loki (-ZKestrel)",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 2.297340804145442,
+      "score": 21.8247376393817
+    },
+    "drive_url": "https://drive.google.com/file/d/1F2fsEcM8qmzdeRGKMwBz-dANk7loOtPy/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_015.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_015.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 11071969,
+      "puissance_defense": 9487417,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 10,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 0.8568861599955708,
+      "score": 8.568861599955708
+    },
+    "drive_url": "https://drive.google.com/file/d/1YBCNnkCJZyxS3PVv-malmRZez20KmtZT/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_016.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_016.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 9426045,
+      "puissance_defense": 7944762,
+      "statut": "Win",
+      "statut_affiche": "DEFEAT",
+      "num": 9.5,
+      "equipe_offense": "Phoenix Force+Knull+Mephisto",
+      "equipe_defense": "Astral+Skrull (-Moondragon)",
+      "defoff": 0.8428521187836469,
+      "score": 8.007095128444645
+    },
+    "drive_url": "https://drive.google.com/file/d/17U8ADng8-VkBg5GCbiq-Defp3eJGfsDM/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_017.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_017.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 9773380,
+      "puissance_defense": 8651096,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -8,
+      "equipe_offense": "Galactic Council+Gladiator+Skrull",
+      "equipe_defense": "Accursed+Mephisto (-Mordo)",
+      "defoff": 0.8851693068314135,
+      "score": -9.037819023161921
+    },
+    "drive_url": "https://drive.google.com/file/d/1J0fytLQ0nkQod9kgk5vcUSTS9JGdHdnF/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_019.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_019.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 11988234,
+      "puissance_defense": 10721057,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 0.8942982761264087,
+      "score": -11.18195155570948
+    },
+    "drive_url": "https://drive.google.com/file/d/1tB3BkCQYL70nDdvVk5YAroVI8mTL05xi/view"
+  },
+  {
+    "filename": "2026-07-07_Engineering_defense_combat_021.png",
+    "local_path": "captures/2026-07-07_Engineering_defense_combat_021.png",
+    "date": "2026-07-07",
+    "room": "Engineering",
+    "mode": "defense",
+    "data": {
+      "defenseur": "REDRUM",
+      "puissance_attaque": 11174666,
+      "puissance_defense": 10721057,
+      "statut": "Fail",
+      "statut_affiche": "VICTORY",
+      "num": -10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Retcon",
+      "defoff": 0.9594073773659096,
+      "score": -10.423101005805677
+    },
+    "drive_url": "https://drive.google.com/file/d/1b1zdmvWCYi1TpIgG3rWo8h-reF_8OyDz/view"
+  },
+  {
     "filename": "2026-07-07_Bridge_defense_combat_001.png",
     "local_path": "captures/2026-07-07_Bridge_defense_combat_001.png",
     "date": "2026-07-07",
