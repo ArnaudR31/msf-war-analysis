@@ -1,5 +1,145 @@
 [
   {
+    "filename": "2026-07-09_Reactor_attack_combat_001.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_001.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 12206400,
+      "puissance_defense": 9429868,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Phoenix Force+Hellverine+Juggernaut",
+      "defoff": 0.7725347358762616,
+      "score": 7.725347358762616
+    },
+    "drive_url": "https://drive.google.com/file/d/1I3GhldnPNC23hNl7QvyEj2ZAffuOeo47/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_002.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_002.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 6639166,
+      "puissance_defense": 14362890,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 2.163357566296731,
+      "score": 21.63357566296731
+    },
+    "drive_url": "https://drive.google.com/file/d/11K3sE0hfHL0Ha6YOf37ryapegfERRYFj/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_003.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_003.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 8021988,
+      "puissance_defense": 10610342,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "New Mutant",
+      "defoff": 1.322657426064462,
+      "score": -7.5605366914657415
+    },
+    "drive_url": "https://drive.google.com/file/d/1Bgf1JL13qdcTdiOgqawUVkbYOSb8VHt7/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_004.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_004.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 6969970,
+      "puissance_defense": 10006039,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Secret Warrior",
+      "equipe_defense": "Hellfire Club+Beast (-MadelynePryor)",
+      "defoff": 1.4355928361241153,
+      "score": 11.484742688992922
+    },
+    "drive_url": "https://drive.google.com/file/d/1UxRib9JMPGUMjKE0OZzLqTcq4qxyLyxG/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_005.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_005.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9076122,
+      "puissance_defense": 14077661,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Immortal Weapon",
+      "defoff": 1.5510656423525377,
+      "score": 12.408525138820302
+    },
+    "drive_url": "https://drive.google.com/file/d/1kXTTU5U79gvEHV7q-pXlRvOnpQeJ3XDB/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_006.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_006.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 9727168,
+      "puissance_defense": 11791905,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Vigilante",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.2122649675630153,
+      "score": 12.122649675630154
+    },
+    "drive_url": "https://drive.google.com/file/d/1aVQju6NaI574YWBtNKizJjexMX73_1ZJ/view"
+  },
+  {
+    "filename": "2026-07-09_Reactor_attack_combat_008.png",
+    "local_path": "captures/2026-07-09_Reactor_attack_combat_008.png",
+    "date": "2026-07-09",
+    "room": "Reactor",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Actionjackson",
+      "puissance_attaque": 5059900,
+      "puissance_defense": 11450131,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Odin+BetaRayBill+Thor+Vahl+Valkyrie",
+      "equipe_defense": "Retcon",
+      "defoff": 2.2629164607996204,
+      "score": -4.419076078692899
+    },
+    "drive_url": "https://drive.google.com/file/d/1beRpQh9D8ZAbB3f9sdPMgnNb2rewx7Pf/view"
+  },
+  {
     "filename": "2026-07-09_Bridge_attack_combat_001.png",
     "local_path": "captures/2026-07-09_Bridge_attack_combat_001.png",
     "date": "2026-07-09",
