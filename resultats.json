@@ -1,5 +1,445 @@
 [
   {
+    "filename": "2026-07-09_Bridge_attack_combat_001.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_001.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "XCRISTOX",
+      "puissance_attaque": 13858360,
+      "puissance_defense": 9755746,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Astral",
+      "defoff": 0.7039610747592067,
+      "score": 6.33564967283286
+    },
+    "drive_url": "https://drive.google.com/file/d/1fV9482sw0cyy04IkSplEx2IEs2HFiLP5/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_002.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_002.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "FLØKI",
+      "puissance_attaque": 8564976,
+      "puissance_defense": 9307038,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Nightstalker",
+      "equipe_defense": "Orchis",
+      "defoff": 1.0866391219309897,
+      "score": 10.323071658344402
+    },
+    "drive_url": "https://drive.google.com/file/d/1eQdwM2K9shXoQIeypqFDYvcDqQ4b9qkb/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_003.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_003.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 9710623,
+      "puissance_defense": 13888416,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Liberty",
+      "equipe_defense": "Immortal X-Men Rachel (-Cable)",
+      "defoff": 1.4302291418377584,
+      "score": 14.302291418377584
+    },
+    "drive_url": "https://drive.google.com/file/d/1sWm9w0sSkc31tKU6G4ysFLNQNJZDfoTx/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_004.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_004.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 15308872,
+      "puissance_defense": 15977359,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8.5,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 1.0436666398412633,
+      "score": 8.871166438650738
+    },
+    "drive_url": "https://drive.google.com/file/d/1HmfH4UobwB-XKCeu94HKbBHcZJhrBYwD/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_005.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_005.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10926817,
+      "puissance_defense": 13716219,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Thunderbolt",
+      "defoff": 1.2552803803706056,
+      "score": 12.552803803706055
+    },
+    "drive_url": "https://drive.google.com/file/d/17ihtPYndHex5giXTu4dXtpe3keTKv4gu/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_006.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_006.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 13619344,
+      "puissance_defense": 15574354,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "F3+Torch+Thing",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.1435465614202858,
+      "score": 10.291919052782571
+    },
+    "drive_url": "https://drive.google.com/file/d/1pTuvxfP4r1Pe5m68gZFCjsE9GIxwsABx/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_007.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_007.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10777967,
+      "puissance_defense": 17391249,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "F3+BlueMarvel+Sentry",
+      "defoff": 1.6135927118722855,
+      "score": 14.52233440685057
+    },
+    "drive_url": "https://drive.google.com/file/d/1zLEw7ZTnrkI5d3DCaQPsrGMkcmQ927FF/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_008.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_008.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8604737,
+      "puissance_defense": 16500279,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Undying",
+      "equipe_defense": "Champion",
+      "defoff": 1.9175808627271234,
+      "score": 19.175808627271234
+    },
+    "drive_url": "https://drive.google.com/file/d/1FxF6K6suSY-XH7YozVQZKTJ3q0SDoDu8/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_009.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_009.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10772527,
+      "puissance_defense": 17230807,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Shadow Conclave",
+      "equipe_defense": "Insidious 6+Vulture+Shocker",
+      "defoff": 1.5995139302041201,
+      "score": 15.995139302041201
+    },
+    "drive_url": "https://drive.google.com/file/d/121yFCwl3gSiLv2ENuuYP95eyb0quQTny/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_010.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_010.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 8802069,
+      "puissance_defense": 11588604,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -7,
+      "equipe_offense": "Ares+Blade+BladeMighty+Oath+StormMighty",
+      "equipe_defense": "Starjammer",
+      "defoff": 1.3165772729116303,
+      "score": -5.316816676106976
+    },
+    "drive_url": "https://drive.google.com/file/d/105nIwKWk53fo9hsH11kAsdnyE0T5KlRV/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_011.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_011.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 13986247,
+      "puissance_defense": 12429957,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 9.5,
+      "equipe_offense": "Brimstone",
+      "equipe_defense": "Phoenix Force+Apocalypse+Sentry",
+      "defoff": 0.8887271188618362,
+      "score": 8.442907629187443
+    },
+    "drive_url": "https://drive.google.com/file/d/1EuO8yLLKIfT0Y9SXXGqrxGWFZRMVo9WE/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_012.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_012.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 14154382,
+      "puissance_defense": 11641148,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6,
+      "equipe_offense": "F3+Skrull+Thing",
+      "equipe_defense": "Absolute A-Force+AmericaChavez+Odin",
+      "defoff": 0.8224412764894998,
+      "score": -7.295353688485019
+    },
+    "drive_url": "https://drive.google.com/file/d/1UDjmlgjLnjtAJfPBaz9e17_DJIOLiQhq/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_013.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_013.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TwistyMcNip",
+      "puissance_attaque": 7168084,
+      "puissance_defense": 8826758,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Superior 6+Vulture (-SpiderSlayer)",
+      "equipe_defense": "Infestation",
+      "defoff": 1.231397120904275,
+      "score": 12.313971209042752
+    },
+    "drive_url": "https://drive.google.com/file/d/1ZcDJQ2OBnqHJhXCkwsoS7hvyneuW_rX8/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_014.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_014.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "REDRUM",
+      "puissance_attaque": 9085783,
+      "puissance_defense": 11451232,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Omen",
+      "equipe_defense": "Absolute A-Force+Mephisto+Skrull (-Ironheart -Wasp)",
+      "defoff": 1.2603461914069487,
+      "score": 12.603461914069488
+    },
+    "drive_url": "https://drive.google.com/file/d/1W7xJaeJsWGEuFdGLrTDoXqrUJ9YyWQe-/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_015.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_015.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 13824013,
+      "puissance_defense": 16234383,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "Winter Guard",
+      "equipe_defense": "Retcon",
+      "defoff": 1.1743610918189964,
+      "score": -8.515268489107347
+    },
+    "drive_url": "https://drive.google.com/file/d/1FYhynKdhHh-eDLG7LOVWYFSAKvGenM_y/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_016.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_016.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 8902483,
+      "puissance_defense": 16234382,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -10,
+      "equipe_offense": "Orchis",
+      "equipe_defense": "Retcon",
+      "defoff": 1.8235791070873149,
+      "score": -5.483721523862134
+    },
+    "drive_url": "https://drive.google.com/file/d/1MTvCWLk0j3DIxaEm5wzgcQ4AlBdoCzNI/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_018.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_018.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10674722,
+      "puissance_defense": 16777090,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -6.5,
+      "equipe_offense": "Immortal Weapon+Odin (-IronFistWW2)",
+      "equipe_defense": "Ares+Gorr+Knull+Mephisto+ThanosEndgame",
+      "defoff": 1.5716652855221898,
+      "score": -4.135740643937655
+    },
+    "drive_url": "https://drive.google.com/file/d/10plM0y7KDVEjFCffSOi-KIVefcODycJM/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_020.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_020.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "TheOneWhoRemains",
+      "puissance_attaque": 10087568,
+      "puissance_defense": 17629099,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 8,
+      "equipe_offense": "Apocalypse+Phoenix+Quasar+Sentry+X",
+      "equipe_defense": "F3+X+EmmaFrost",
+      "defoff": 1.7476064597532328,
+      "score": 13.980851678025862
+    },
+    "drive_url": "https://drive.google.com/file/d/1aWbgjNM1gcmS4JrKhnkpQoqptGC_woyZ/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_021.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_021.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 11520619,
+      "puissance_defense": 13756569,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 10,
+      "equipe_offense": "Brimstone+EmmaFrost (-Elsa)",
+      "equipe_defense": "Brimstone",
+      "defoff": 1.1940824533820622,
+      "score": 11.940824533820622
+    },
+    "drive_url": "https://drive.google.com/file/d/1_teFqDB3W9rAV23723L1RAOkzqgxSJsL/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_022.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_022.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Commander Schnoo",
+      "puissance_attaque": 14493658,
+      "puissance_defense": 16618568,
+      "statut": "Fail",
+      "statut_affiche": "Combat Canceled",
+      "num": -10,
+      "equipe_offense": "F3+X+Torch",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.1466096412651658,
+      "score": -8.72136395867562
+    },
+    "drive_url": "https://drive.google.com/file/d/1jzMquELCUatg3IJ8pvyQQGxZW5-AUFpy/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_025.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_025.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "linseeed ):",
+      "puissance_attaque": 12408934,
+      "puissance_defense": 16618568,
+      "statut": "Fail",
+      "statut_affiche": "DEFEAT",
+      "num": -8.5,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.3392421943738277,
+      "score": -6.3468729074610994
+    },
+    "drive_url": "https://drive.google.com/file/d/1_4F9kuVus9kDHSBt5D2zzf0kJcPqCrkP/view"
+  },
+  {
+    "filename": "2026-07-09_Bridge_attack_combat_026.png",
+    "local_path": "captures/2026-07-09_Bridge_attack_combat_026.png",
+    "date": "2026-07-09",
+    "room": "Bridge",
+    "mode": "attack",
+    "data": {
+      "attaquant": "Thunder Nuts",
+      "puissance_attaque": 13755683,
+      "puissance_defense": 19743952,
+      "statut": "Win",
+      "statut_affiche": "VICTORY",
+      "num": 6.5,
+      "equipe_offense": "F3+X+Odin",
+      "equipe_defense": "Shadow Conclave",
+      "defoff": 1.4353305466547899,
+      "score": 9.329648553256135
+    },
+    "drive_url": "https://drive.google.com/file/d/1UkW21sZFoiI2Gv-NpktA5QZvvDotOm_L/view"
+  },
+  {
     "filename": "2026-07-09_Armory_attack_combat_001.png",
     "local_path": "captures/2026-07-09_Armory_attack_combat_001.png",
     "date": "2026-07-09",
