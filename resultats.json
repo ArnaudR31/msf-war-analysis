@@ -3893,7 +3893,7 @@
       "statut_affiche": "DEFEAT",
       "num": 9.5,
       "equipe_offense": "Brimstone",
-      "equipe_defense": "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)",
+      "equipe_defense": "'Mephisto+Quasar+Blastaar+Knull+Sentry",
       "defoff": 1.1271541608871987,
       "score": 10.707964528428388
     },
@@ -9354,7 +9354,7 @@
       "statut_affiche": "DEFEAT",
       "num": 10,
       "equipe_offense": "F3+Apocalypse+StormMighty",
-      "equipe_defense": "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)",
+      "equipe_defense": "Mephisto+Quasar+Blastaar+Knull+Sentry",
       "defoff": 1.1282074809380773,
       "score": 11.282074809380774
     },
@@ -16695,7 +16695,7 @@
       "statut_affiche": "DEFEAT",
       "num": 10,
       "equipe_offense": "Undying",
-      "equipe_defense": "Galactic Council+Mephisto+Sentry (-AdamWarlock -StarLord)",
+      "equipe_defense": "Mephisto+Quasar+Blastaar+Knull+Sentry",
       "defoff": 0.841882779098505,
       "score": 8.41882779098505
     },
